@@ -1,13 +1,12 @@
 {%if paginator.previous_page%}
     <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="btn nav prev">
-      <span aria-hidden="true" data-icon=">"></span>
+      <i class="fa fa-arrow-circle-o-left fa-lg" aria-hidden="true"></i>
       Newer
     </a>
 {% endif %}
 {%if paginator.next_page%}
     <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="btn nav next">
-      <span aria-hidden="true" data-icon=">"></span>
       Older
+      <i class="fa fa-arrow-circle-o-right fa-lg" aria-hidden="true"></i>
     </a>
 {% endif %}
-
