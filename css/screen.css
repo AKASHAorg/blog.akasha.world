@@ -1,8 +1,48 @@
 
-/* Border at the top of the page */
-body>header,
-body.noimage {
-	border-color: #d35c5c;
+nav {
+	display: block;
+	color: #a4adb6;
+	line-height: 22px;
+	font-weight: 400;
+	font-size: 15px;
+	text-align: center;
+	background-color: transparent;
+}
+nav a {
+	text-decoration: none;
+	color: #a4adb6;
+	padding: 10px;
+}
+#headerStyle {
+	z-index: 999;
+	position: fixed;
+	top: 20px;
+	width: 100%;
+}
+#navList {
+  margin-left: 20%;
+	display: inline-block;
+}
+
+#headerLogo {
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: -6px;
+}
+#headerBg {
+	z-index: 998;
+	position: fixed;
+	background-color: rgba(255, 255, 255, 0.95);
+	opacity: 1;
+	top: 0px;
+	width: 100%;
+	height: 59px;
+}
+#footerLogo {
+	width: 94px;
+	height: 94px;
+	margin: 1px 0 0 3px;
 }
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -421,8 +461,6 @@ hr {
 }
 
 body>header {
-	border-top-width: 4px;
-	border-top-style: solid;
 	text-rendering: optimizeLegibility;
 }
 
@@ -434,11 +472,6 @@ body>header h1 {
 
 body>header h1 a {
 	color: #21272d;
-}
-
-body.noimage {
-	border-top-width: 4px;
-	border-top-style: solid;
 }
 
 #feature_image {
@@ -890,10 +923,6 @@ body.user>header h1 {
 	font-weight: normal;
 }
 
-body.user>header hr {
-	margin: 0 25%;
-}
-
 body.user article {
 	position: relative;
 	text-align: center;
@@ -1234,10 +1263,8 @@ body>footer .photo span, .post-footer .photo span {
 	position: absolute;
 	background-repeat: no-repeat;
 	background-position: center center;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
+	top: 0; bottom: 0;
+	right: 0; left: 0;
 	background-size: cover;
 }
 
@@ -1656,6 +1683,15 @@ body.touch.user article .readmore {
 }
 
 @media only screen and (max-width: 480px) {
+	#headerStyle {
+		margin-left: -10px;
+	}
+
+	#navList {
+	  margin: 0;
+		display: none;
+	}
+
 	article {
 		margin-top: 40px;
 		padding: 0 20px;
@@ -1807,6 +1843,7 @@ body.touch.user article .readmore {
 }
 
 @media only screen and (max-width: 360px) {
+
 	article>header .meta {
 		display: block;
 		margin-top: 15px;

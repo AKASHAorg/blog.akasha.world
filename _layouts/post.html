@@ -34,7 +34,7 @@ body_class: post-template
       </a>
     </div>
     <div class="share-link">
-      <a href="https://twitter.com/intent/tweet?url={{ page.url | prepend:site.baseurl | prepend:site.url }}"
+      <a href="https://twitter.com/intent/tweet?url={{ page.url | prepend:site.baseurl | prepend:site.url }}&amp;text={{ page.title }}"
         onclick="javascript:window.open(this.href,'','menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=260,width=600');return false;">
         <i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i>
       </a>
