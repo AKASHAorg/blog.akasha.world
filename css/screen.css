@@ -1,44 +1,93 @@
 
-nav {
-	display: block;
+nav[role=navigation] {
+	z-index: 999;
+	position: fixed;
+	top: 20px;
+	width: 100%;
 	color: #a4adb6;
 	line-height: 22px;
 	font-weight: 400;
 	font-size: 15px;
 	text-align: center;
-	background-color: transparent;
+	clear: both;
 }
-nav a {
-	text-decoration: none;
-	color: #a4adb6;
-	padding: 10px;
-}
-#headerStyle {
-	z-index: 999;
+nav[role=navigation] #header-bg {
 	position: fixed;
-	top: 20px;
+	top: 0;
 	width: 100%;
-}
-#navList {
-  margin-left: 20%;
-	display: inline-block;
-}
-
-#headerLogo {
-	width: 30px;
-	height: 30px;
-	position: absolute;
-	top: -6px;
-}
-#headerBg {
-	z-index: 998;
-	position: fixed;
+	height: 60px;
 	background-color: rgba(255, 255, 255, 0.95);
 	opacity: 1;
-	top: 0px;
-	width: 100%;
-	height: 59px;
 }
+nav[role=navigation] #menu-link {
+	display: none;
+	position: absolute;
+	top: -2px;
+	right: 10px;
+}
+nav[role=navigation] #header-logo {
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	top: -6px;
+}
+nav[role=navigation] #header-text {
+	position: absolute;
+	margin-left: 35px;
+}
+nav[role=navigation] a {
+	color: #99a;
+	text-decoration: none;
+}
+nav[role=navigation] ul {
+	margin-left: 20%;
+	display: inline-block;
+	opacity: 0.9;
+}
+nav[role=navigation] li {
+	display: inline-block;
+}
+nav[role=navigation] li a {
+	margin-left: 20%;
+	display: inline-block;
+	color: #99a;
+	text-decoration: none;
+}
+
+@media screen and (max-width: 48.25em) {
+	nav[role=navigation] #menu-link {
+		display: block;
+	}
+	nav[role=navigation] ul {
+		overflow: hidden;
+		max-height: 0;
+		width: 100%;
+		margin: 34px 0;
+		padding: 0;
+		-webkit-transition: all 0.3s ease-out;
+		-moz-transition: all 0.3s ease-out;
+		-ms-transition: all 0.3s ease-out;
+		-o-transition: all 0.3s ease-out;
+		transition: all 0.3s ease-out;
+	}
+	nav[role=navigation].active ul {
+		max-height: 300px;
+	}
+	nav[role=navigation] li {
+		display: block;
+		background-color: rgba(255, 255, 255, 0.95);
+	}
+	nav[role=navigation] li a {
+		display: block;
+		margin-left: 0;
+		padding: 0.8em;
+		border-bottom: 1px solid #808080;
+	}
+	nav[role=navigation] #header-logo, nav[role=navigation] #header-text {
+		left: 10px;
+	}
+}
+
 #footerLogo {
 	width: 94px;
 	height: 94px;
@@ -1683,15 +1732,6 @@ body.touch.user article .readmore {
 }
 
 @media only screen and (max-width: 480px) {
-	#headerStyle {
-		margin-left: -10px;
-	}
-
-	#navList {
-	  margin: 0;
-		display: none;
-	}
-
 	article {
 		margin-top: 40px;
 		padding: 0 20px;
@@ -1843,7 +1883,6 @@ body.touch.user article .readmore {
 }
 
 @media only screen and (max-width: 360px) {
-
 	article>header .meta {
 		display: block;
 		margin-top: 15px;

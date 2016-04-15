@@ -1,21 +1,37 @@
-<nav id="headerStyle">
-  <svg id="headerLogo">
+<nav id="nav" role="navigation">
+  <div id="header-bg"></div>
+  <svg id="header-logo">
     <use xlink:href="#logo" />
   </svg>
-  <span style="position:relative;left:35px;">AKASHA</span>
-  <div id="navList">
-    <a href="http://akasha.world/#joinAlpha">JOIN ALPHA</a>
-    <a href="http://akasha.world/#roadmap">ROADMAP</a>
-    <a href="http://akasha.world/#faq">FAQ</a>
-    <a href="http://akasha.world/#team">TEAM</a>
-    <a href="#" style="color:#0290DA">NEWS</a>
-    <a href="http://akasha.world/#contact">CONTACT</a>
-  </div>
+  <span id="header-text">AKASHA</span>
+  <ul>
+    <li><a href="http://akasha.world/#joinAlpha">JOIN ALPHA</a></li>
+    <li><a href="http://akasha.world/#roadmap">ROADMAP</a></li>
+    <li><a href="http://akasha.world/#faq">FAQ</a></li>
+    <li><a href="http://akasha.world/#team">TEAM</a></li>
+    <li><a href="#" style="color:#0290DA">NEWS</a></li>
+    <li><a href="http://akasha.world/#contact">CONTACT</a></li>
+  </ul>
+  <a href="#" id="menu-link">
+    <i class="fa fa-bars fa-lg" aria-hidden="true"></i>
+  </a>
 </nav>
-<div id="headerBg"></div>
+
 <header role="banner">
   <div class="wrap">
     <br />
     <h1><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
   </div>
 </header>
+
+<script>
+$(document).ready(function(){
+  var $nav = $('#nav'),
+    $menulink = $('#menu-link');
+  $menulink.click(function(){
+    $menulink.toggleClass('active');
+    $nav.toggleClass('active');
+    return false;
+  });
+});
+</script>
