@@ -56,7 +56,7 @@ nav[role=navigation] li a {
 	text-decoration: none;
 }
 
-@media screen and (max-width: 48.25em) {
+@media screen and (max-width: 36em) {
 	nav[role=navigation] #menu-link {
 		display: block;
 	}
@@ -64,7 +64,7 @@ nav[role=navigation] li a {
 		overflow: hidden;
 		max-height: 0;
 		width: 100%;
-		margin: 34px 0;
+		margin: 55px 0;
 		padding: 0;
 		-webkit-transition: all 0.3s ease-out;
 		-moz-transition: all 0.3s ease-out;
