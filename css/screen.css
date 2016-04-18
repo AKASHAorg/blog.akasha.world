@@ -2,55 +2,57 @@
 nav[role=navigation] {
 	z-index: 999;
 	position: fixed;
-	top: 20px;
+	top: 0px;
 	width: 100%;
+	height: 60px;
 	color: #a4adb6;
+	background-color: rgba(255, 255, 255, 0.95);
 	line-height: 22px;
 	font-weight: 400;
 	font-size: 15px;
 	text-align: center;
-	clear: both;
-}
-nav[role=navigation] #header-bg {
-	position: fixed;
-	top: 0;
-	width: 100%;
-	height: 60px;
-	background-color: rgba(255, 255, 255, 0.95);
-	opacity: 1;
 }
 nav[role=navigation] #menu-link {
 	display: none;
 	position: absolute;
-	top: -2px;
-	right: 10px;
+	top: 1em;
+	right: 1em;
 }
 nav[role=navigation] #header-logo {
 	position: absolute;
+	top: 1em;
 	width: 30px;
 	height: 30px;
-	top: -6px;
 }
 nav[role=navigation] #header-text {
 	position: absolute;
-	margin-left: 35px;
+	top: 1.1em;
+	width: 8.2em;
 }
 nav[role=navigation] a {
 	color: #99a;
 	text-decoration: none;
 }
 nav[role=navigation] ul {
-	margin-left: 20%;
 	display: inline-block;
 	opacity: 0.9;
+	margin-left: 20%;
+	margin-top: 1.1em;
+	margin-before: 1em;
+	margin-after: 1em;
+	margin-start: 0;
+	margin-end: 0;
 }
 nav[role=navigation] li {
 	display: inline-block;
+	margin: 0 0 0 1em;
+	padding: 0;
 }
 nav[role=navigation] li a {
-	margin-left: 20%;
-	display: inline-block;
+	margin: 0;
+	padding: 0;
 	color: #99a;
+	white-space: nowrap;
 	text-decoration: none;
 }
 
