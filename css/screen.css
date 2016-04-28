@@ -561,7 +561,7 @@ article #home_link {
 	margin-right: 10px;
 	margin-top: -5px;
 	line-height: 1em;
-	padding: 5px 6px 3px 6px;
+	padding: 4px 7px 4px 6px;
 	border: 1px solid #ededee;
 	border-radius: 20px;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -1366,7 +1366,6 @@ body>footer #user_bio, .post-footer #user_bio {
 }
 
 body>footer #user_bio .inner, .post-footer #user_bio .inner {
-	padding-left: 20px;
 	line-height: 1.6em;
 	color: #a4adb6;
 }
