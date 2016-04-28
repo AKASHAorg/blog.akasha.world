@@ -4,12 +4,13 @@ nav[role=navigation] {
 	position: fixed;
 	top: 0px;
 	width: 100%;
-	height: 60px;
+	height: 56px;
 	color: #a4adb6;
 	background-color: rgba(255, 255, 255, 0.95);
-	line-height: 22px;
+	font-family: Roboto;
+	line-height: 24px;
 	font-weight: 400;
-	font-size: 15px;
+	font-size: 14px;
 	text-align: center;
 }
 nav[role=navigation] #menu-link {
@@ -28,6 +29,7 @@ nav[role=navigation] #header-text {
 	position: absolute;
 	top: 1.1em;
 	width: 8.2em;
+	margin-left: 5px;
 }
 nav[role=navigation] a {
 	color: #99a;
@@ -45,6 +47,7 @@ nav[role=navigation] ul {
 }
 nav[role=navigation] li {
 	display: inline-block;
+	line-height: 0.9em;
 	margin: 0 0 0 1em;
 	padding: 0;
 }
@@ -64,7 +67,7 @@ nav[role=navigation] li a {
 		overflow: hidden;
 		max-height: 0;
 		width: 100%;
-		margin: 55px 0;
+		margin: 54px 0;
 		padding: 0;
 		-webkit-transition: all 0.3s ease-out;
 		-moz-transition: all 0.3s ease-out;
@@ -73,7 +76,7 @@ nav[role=navigation] li a {
 		transition: all 0.3s ease-out;
 	}
 	nav[role=navigation].active ul {
-		max-height: 330px;
+		max-height: 280px;
 	}
 	nav[role=navigation] li {
 		display: block;
@@ -146,47 +149,7 @@ body {
 }
 
 body .btn, body>header h1, body article header h1, body>footer .details h4, body .post-footer .details h4, body #share_modal header a.close, body.user article.feature h1 a {
-	font-family: "Open Sans", "Helvetica Neue", "Helvetica-Neue", helvetica, sans-serif;
-}
-
-body.serif {
-	font-family: "Merriweather", "Georgia", "Times New Roman", serif;
-}
-
-body.serif>header h1, body.serif>footer, body.serif>footer h4, body.serif #post_nav {
-	font-family: "Merriweather", "Georgia", "Times New Roman", serif;
-}
-
-body.serif>a.btn.nav {
-	font-family: "Merriweather", "Georgia", "Times New Roman", serif;
-	padding-top: 16px;
-	padding-bottom: 14px;
-}
-
-body.serif>a.btn.nav.next span {
-	margin-top: 2px;
-}
-
-body.serif article time, body.serif article>.meta, body.serif article>header h1, body.serif article>header .count, body.serif article.feature h1 a, body.serif .post-footer, body.serif .post-footer h4 {
-	font-family: "Merriweather", "Georgia", "Times New Roman", serif;
-}
-
-body.serif article .text {
-	font-family: "Merriweather", "Georgia", "Times New Roman", serif;
-	font-size: 17px;
-}
-
-body.serif article .text blockquote {
-	font-family: "Merriweather", "Georgia", "Times New Roman", serif;
-}
-
-body.serif article>menu #btn_comment {
-	font-family: "Merriweather", "Georgia", "Times New Roman", serif;
-	font-size: 13px;
-}
-
-body.serif article>menu #btn_comment span {
-	padding-top: 5px;
+	font-family: Roboto, sans-serif;
 }
 
 .highlight .c {
@@ -561,7 +524,7 @@ article #home_link {
 	margin-right: 10px;
 	margin-top: -5px;
 	line-height: 1em;
-	padding: 4px 7px 4px 6px;
+	padding: 4px 9px 4px 6px;
 	border: 1px solid #ededee;
 	border-radius: 20px;
 	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -1271,7 +1234,7 @@ body>footer #btn_feed, .post-footer #btn_feed {
 	background-color: #fff;
 	border: 1px solid #ededee;
 	color: #909396;
-	padding: 9px 9px 7px 10px;
+	padding: 9px 7px 9px 10px;
 	font-weight: normal;
 }
 
@@ -1541,7 +1504,7 @@ body.touch.user article .readmore {
 .share-link {
 	color: #909396;
 	float: left;
-	width: 60px;
+	width: 47px;
 }
 .share-link>a {
 	color: #909396;
