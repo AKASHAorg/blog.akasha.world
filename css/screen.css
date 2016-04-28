@@ -523,19 +523,27 @@ article {
 }
 
 article #home_link {
+	display: inline-block;
+	position: relative;
+	width: 30px;
+	height: 30px;
 	color: #909396;
-	margin-right: 10px;
-	margin-top: -5px;
-	line-height: 1em;
-	padding: 4px 9px 4px 6px;
-	border: 1px solid #ededee;
-	border-radius: 20px;
-	-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+	margin-right: 15px;
+	border: 1px solid #ddd;
+	border-radius: 50%;
+	vertical-align: middle;
+	*vertical-align: auto;
+}
+
+article #home_link .fa {
+	position: absolute;
+  top: 9px;
+  right: 9px;
 }
 
 article #home_link:hover {
 	color: #21272d;
-	background-color: #ededee;
+	background-color: #ddd;
 }
 
 article time, article time a {
@@ -562,7 +570,6 @@ article>header h1 {
 }
 
 article>header .meta {
-	display: -moz-inline-stack;
 	display: inline-block;
 	vertical-align: middle;
 	*vertical-align: auto;
