@@ -32,7 +32,7 @@ nav[role=navigation] #header-text {
 	margin-left: 5px;
 }
 nav[role=navigation] a {
-	color: #99a;
+	color: #7f7f7f;
 	text-decoration: none;
 }
 nav[role=navigation] ul {
@@ -54,9 +54,12 @@ nav[role=navigation] li {
 nav[role=navigation] li a {
 	margin: 0;
 	padding: 0;
-	color: #99a;
+	color: #7f7f7f;
 	white-space: nowrap;
 	text-decoration: none;
+}
+nav[role=navigation] li a.active {
+	color: #0290da;
 }
 
 @media screen and (max-width: 36em) {
@@ -424,7 +427,7 @@ body::-webkit-selection, body::-moz-selection, body::-o-selection, body::selecti
 }
 
 a {
-	color: #d35c5c;
+	color: #29abe2;
 	text-decoration: none;
 	outline: none;
 	-webkit-transition-property: background-color, color;
