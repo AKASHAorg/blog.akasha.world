@@ -1359,8 +1359,7 @@ body>footer .details h4 a, .post-footer .details h4 a {
 body>footer #user_bio, .post-footer #user_bio {
 	display: -moz-inline-stack;
 	display: inline-block;
-	vertical-align: middle;
-	*vertical-align: auto;
+	text-align: center;
 	zoom: 1;
 	*display: inline;
 	width: 49%;
@@ -1370,6 +1369,10 @@ body>footer #user_bio .inner, .post-footer #user_bio .inner {
 	padding-left: 20px;
 	line-height: 1.6em;
 	color: #a4adb6;
+}
+
+body>footer #user_bio .links, .post-footer #user_bio .links {
+	line-height: 2.8em;
 }
 
 #blog_badge {

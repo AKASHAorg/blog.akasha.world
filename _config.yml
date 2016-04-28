@@ -3,7 +3,7 @@ title: AKASHA blog
 email: hello@akasha.world
 logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
 description: > # this means to ignore newlines until "url:"
-  AKASHA | The language of freedom | A Next-Generation Social Blogging Network.
+  AKASHA | The language of freedom
 url: "https://akashaproject.github.io"
 
 baseurl: ""
