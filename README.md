@@ -1,7 +1,7 @@
 
 Install with:
 
-> sudo gem install bundle
+> sudo gem install bundle<br />
 > bundle install
 
 Run this with:
