@@ -73,7 +73,7 @@ nav[role=navigation] li a {
 		transition: all 0.3s ease-out;
 	}
 	nav[role=navigation].active ul {
-		max-height: 300px;
+		max-height: 330px;
 	}
 	nav[role=navigation] li {
 		display: block;
@@ -1883,16 +1883,5 @@ body.touch.user article .readmore {
 	body.user>#load_more {
 		margin-bottom: 60px;
 		padding: 15px 25px;
-	};
-}
-
-@media only screen and (max-width: 360px) {
-	article>header .meta {
-		display: block;
-		margin-top: 15px;
-	}
-
-	body.noimage article {
-		margin-top: 24px;
 	};
 }

@@ -28,11 +28,15 @@
 
 <script>
 $(document).ready(function(){
-  var $nav = $('#nav'),
-    $menulink = $('#menu-link');
+  $menulink = $('#menu-link');
   $menulink.click(function(){
+    $('#nav').toggleClass('active');
     $menulink.toggleClass('active');
-    $nav.toggleClass('active');
+    if ($menulink.hasClass('active')) {
+      $menulink.find('i').removeClass('fa-bars').addClass('fa-close');
+    } else {
+      $menulink.find('i').removeClass('fa-close').addClass('fa-bars');
+    }
     return false;
   });
 });

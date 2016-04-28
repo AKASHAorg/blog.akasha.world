@@ -8,6 +8,8 @@ body_class: "home-template user"
   <div class="wrapper">
     <div class="home">
       {% for post in paginator.posts %}
+      {% if post.draft %}
+      {% else %}
       <article class="{%comment%}post_class{%endcomment%}">
         {% if post.image %}
           <div class="image-holder show">
@@ -33,6 +35,7 @@ body_class: "home-template user"
           <a href="{{ post.url | prepend: site.baseurl }}" class="readmore">Continue Reading</a>
         </div>
       </article>
+      {% endif %}
       {% endfor %}
     </div>
   </div>
