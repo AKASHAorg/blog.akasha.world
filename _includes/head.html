@@ -1,18 +1,47 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="application-name" content="AKASHA PROJECT" />
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <link rel="shortcut icon" href="{{ "/assets/favicons/favicon.ico" }}">
+  <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="{{ "/assets/favicons/favicon.ico" }}" />
+  <link rel="shortcut icon" sizes="72x72"
+      href="//akasha.world/dist/icons/chrome-72x72.png" />
+  <link rel="shortcut icon" sizes="96x96"
+      href="//akasha.world/dist/icons/chrome-96x96.png" />
+  <link rel="shortcut icon" sizes="192x192"
+      href="//akasha.world/dist/icons/chrome-192x192.png" />
+
+  <link rel="apple-touch-icon" href="//akasha.world/dist/icons/apple-touch-icon.png" />
+  <link rel="apple-touch-icon-precomposed" href="//akasha.world/dist/icons/apple-touch-icon-precomposed.png" />
+
+  <link rel="apple-touch-icon" sizes="57x57"
+      href="//akasha.world/dist/icons/apple-touch-icon-57x57.png" />
+  <link rel="apple-touch-icon" sizes="72x72"
+      href="//akasha.world/dist/icons/apple-touch-icon-72x72.png" />
+  <link rel="apple-touch-icon" sizes="114x114"
+      href="//akasha.world/dist/icons/apple-touch-icon-114x114.png" />
+  <link rel="apple-touch-icon" sizes="120x120"
+      href="//akasha.world/dist/icons/apple-touch-icon-120x120.png" />
+  <link rel="apple-touch-icon" sizes="144x144"
+      href="//akasha.world/dist/icons/apple-touch-icon-144x144.png" />
+  <link rel="apple-touch-icon" sizes="152x152"
+      href="//akasha.world/dist/icons/apple-touch-icon-152x152.png" />
+  <link rel="apple-touch-icon" sizes="180x180"
+      href="//akasha.world/dist/icons/apple-touch-icon-180x180.png" />
 
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic|Open+Sans:400italic,700italic,700,400">
   <link rel="stylesheet" href="{{ "/css/screen.css" }}">
   <link rel="stylesheet" href="{{ "/css/font-awesome.css" }}">
   <script src="//code.jquery.com/jquery-2.2.3.min.js"></script>
 
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend:site.baseurl | prepend:site.url }}">
-  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend:site.baseurl | prepend:site.url }}" />
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}"href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+  <meta name="msapplication-TileImage" content="//akasha.world/dist/icons/favicon-144x144.png" />
+  <meta name="msapplication-TileColor" content="#ffffff" />
 
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend:site.baseurl | prepend:site.url }}">
   <meta property="og:type" content="article">
