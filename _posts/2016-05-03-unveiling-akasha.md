@@ -126,4 +126,4 @@ It will not be easy, but we can do it, **together.**
 
 [Join us in this odyssey into the ether.](http://akasha.world/){:target="_blank"}
 
-<iframe width="680" height="420" src="https://www.youtube.com/embed/lmc21V-zBq0" frameborder="0" allowfullscreen></iframe>
+<iframe width="680" height="315" src="https://www.youtube.com/embed/lmc21V-zBq0" frameborder="0" allowfullscreen></iframe>
