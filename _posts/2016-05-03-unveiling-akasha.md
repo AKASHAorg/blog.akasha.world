@@ -14,7 +14,7 @@ For the past year we have worked on [AKASHA](http://akasha.world/), a next-gener
 ### Freedom of expression mayday
 > "Freedom of expression is the matrix, the indispensable condition, of nearly every other form of freedom." — Benjamin Cardozo
 
-(image)
+![Test Image]({{ site.baseurl }}/content/images/Gandhi.jpg)
 
 Before delving into the project itself I would like to explain the **why** behind it and **what** we are aiming to achieve. 
 
