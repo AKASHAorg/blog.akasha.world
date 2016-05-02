@@ -59,7 +59,7 @@ We are basically living in an information age plagued by arbitrary censorship an
 
 ![Pioneering Web 3 Publishing]({{ site.baseurl }}/content/images/Nasa-moon.jpg)
 
-Probably one of the most valuable things we have as a [team](http://akasha.world/#team) is the hacker mindset allowing us to look beyond blocks and disappointments, seeing them instead as interesting challenges that, if solved, can **really make a difference**. 
+Probably one of the most valuable things we have as a [team](http://akasha.world/#team) is the [hacker mindset](http://blogs.lse.ac.uk/impactofsocialsciences/2014/01/16/hacking-is-a-mindset-not-a-skillset/) allowing us to look beyond blocks and disappointments, seeing them instead as interesting challenges that, if solved, can **really make a difference**. 
 
 We began developing the AKASHA prototype back in 2015 using [Meteor](https://www.meteor.com/) and it was quite an interesting (and at times frustrating) journey; there are no "right" or "wrong" ways of doing things since we are navigating in deep uncharted territories. 
 
