@@ -5,6 +5,8 @@ date:   2016-05-03 05:55:55
 image: header.jpg
 comments: true
 tags: AKASHA, announcement, unveiling, world press freedom day
+future: true
+published: true
 ---
 
 # Unveiling AKASHA
