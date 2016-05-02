@@ -32,9 +32,9 @@ All in all, [history has taught us](http://www.beaconforfreedom.org/liste.html?t
 
 Sadly, that is not the case: The situation we are currently in, when it comes to freedom of expression, is one of the most precarious we have ever faced as a society. 
 
-We are living in an information-based society that has outsourced its freedom of expression and collective memory to corporations that don't always have our best interests at heart. 
+We are living in an [information-based society](https://en.wikipedia.org/wiki/Information_society) that has outsourced its freedom of expression and collective memory to corporations that don't always have our best interests at heart. 
 
-That being said, I am not implying that there's necessarily some sort of evil agenda at play here, but we have seen numerous times how established companies have to comply with certain requests if they want to stay in business. 
+That being said, I am not implying that there's necessarily some sort of evil agenda at play here, but we have seen numerous times how established companies [have to comply](http://blogs.wsj.com/chinarealtime/2016/03/03/do-not-overkill-report-sheds-new-light-on-chinese-censorship/) with certain requests if they want to stay in business. 
 
 It just so happens that some of those requests involve censorship, and the root problem here is the information architecture used. This centralized architecture enables the companies to honor such obnoxious requests in the first place.   
 
@@ -46,7 +46,7 @@ Burning people, books and libraries is one way of doing things, but the current 
 
 This leads to another serious problem stemming from the centralized architecture: the incredibly short life of information on the Internet. According to Internet Archive, the average life of a website on the Internet is [about 100 days](http://blogs.loc.gov/digitalpreservation/2011/11/the-average-lifespan-of-a-webpage/). That is nothing more than a blip when looking at a time frame of decades. 
 
-The next time you stumble upon a 404 page remember that it is a small tragedy in itself. It is almost as if our collective brain has lost a piece of its memory, sometimes *forever*. 
+The next time you stumble upon a [404 page](https://en.wikipedia.org/wiki/HTTP_404) remember that it is a small tragedy in itself. It is almost as if our collective brain has lost a piece of its memory, sometimes *forever*. 
 
 We are basically living in an information age plagued by arbitrary censorship and digital amnesia, affecting every Internet user. 
 
@@ -126,4 +126,4 @@ It will not be easy, but we can do it, **together.**
 
 [Join us in this odyssey into the ether.](http://akasha.world/)
 
-<iframe width="680" height="360" src="https://www.youtube.com/embed/lmc21V-zBq0" frameborder="0" allowfullscreen></iframe>
+<iframe width="680" height="420" src="https://www.youtube.com/embed/lmc21V-zBq0" frameborder="0" allowfullscreen></iframe>
