@@ -2,7 +2,7 @@
 layout: post
 title: "Unveiling AKASHA"
 date:   2016-05-01 05:55:55
-image: header.jpg
+image: Censorship.jpg
 comments: true
 tags: AKASHA, announcement, unveiling, world press freedom day
 future: true
