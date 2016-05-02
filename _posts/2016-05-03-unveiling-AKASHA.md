@@ -28,7 +28,7 @@ But censorship is not something new that came with the Internet. It is an old cr
 
 From libraries destroyed, to burned people and books, we have witnessed as a society the atrocities born from powers exercising censorship for their own interests, be it for more power, religion, money or population control.
 
-All in all, history has taught us that when censorship shows its ugly face it usually isn't in the best interest of society and people at large. On the contrary. Now, with all the horrible things that have happened you might think that we would learn from the mistakes we've made and avoid making them again. 
+All in all, [history has taught us](http://www.beaconforfreedom.org/liste.html?tid=415&art_id=475) that when censorship shows its ugly face it usually isn't in the best interest of society and people at large. On the contrary. Now, with all the horrible things that have happened you might think that we would learn from the mistakes we've made and avoid making them again. 
 
 Sadly, that is not the case: The situation we are currently in, when it comes to freedom of expression, is one of the most precarious we have ever faced as a society. 
 
@@ -40,7 +40,7 @@ It just so happens that some of those requests involve censorship, and the root 
 
 There is a lot of controversy when it comes to censorship and freedom of expression in general, but we should remember that even if we're talking about modern mediums of information, the problem of censorship is older than democracy itself. 
 
-[Censorship has outlived monarchies, tyrannies, and oligarchies](http://www.beaconforfreedom.org/liste.html?tid=415&art_id=475), evolving into today's abomination with new superpowers thanks to the centralized information architecture deployed by mainstream publishing platforms. There is the ability to [instantly delete anything](https://newrepublic.com/article/113045/free-speech-internet-silicon-valley-making-rules) from the shared collective memory with a simple command line.  
+Censorship has outlived monarchies, tyrannies, and oligarchies, evolving into today's abomination with new superpowers thanks to the centralized information architecture deployed by mainstream publishing platforms. There is the ability to [instantly delete anything](https://newrepublic.com/article/113045/free-speech-internet-silicon-valley-making-rules) from the shared collective memory with a simple command line.  
 
 Burning people, books and libraries is one way of doing things, but the current reach and implications of censorship when talking about [billions of people](http://www.internetlivestats.com/internet-users/) and [millions of petabytes](http://www.live-counter.com/how-big-is-the-internet/) are mind-boggling.
 
