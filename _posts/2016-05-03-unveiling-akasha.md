@@ -14,7 +14,7 @@ For the past year we have worked on [AKASHA](http://akasha.world/), a next-gener
 ### Freedom of expression mayday
 > "Freedom of expression is the matrix, the indispensable condition, of nearly every other form of freedom." — Benjamin Cardozo
 
-![Test Image]({{ site.baseurl }}/content/images/Gandhi.jpg)
+![Gandhi's words]({{ site.baseurl }}/content/images/Gandhi.jpg)
 
 Before delving into the project itself I would like to explain the **why** behind it and **what** we are aiming to achieve. 
 
@@ -57,7 +57,7 @@ We are basically living in an information age plagued by arbitrary censorship an
 ### Pioneering Web 3 publishing
 > “There are many things that seem impossible only so long as one does not attempt them.” ― André Gide 
 
-(image)
+![Pioneering Web 3 Publishing]({{ site.baseurl }}/content/images/Nasa-moon.jpg)
 
 Probably one of the most valuable things we have as a team is the hacker mindset allowing us to look beyond blocks and disappointments, seeing them instead as interesting challenges that, if solved, can **really make a difference**. 
 
