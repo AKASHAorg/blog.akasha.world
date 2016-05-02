@@ -88,7 +88,7 @@ And so we began working on a decentralized social blogging network as our MVP, w
 ### Today is when it all begins
 > "A dream you dream alone is only a dream. A dream you can dream together is reality."  — Yoko Ono
 
-(image)
+![Today, May 3rd]({{ site.baseurl }}/content/images/Today-May3.jpg)
 
 In an article titled ["Locking the Web Open, a Call for a Distributed Web"](https://blog.archive.org/2015/02/11/locking-the-web-open-a-call-for-a-distributed-web/) the [Internet Archive](https://archive.org/) founder says the following:
 
