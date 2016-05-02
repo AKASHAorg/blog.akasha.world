@@ -9,8 +9,6 @@ future: true
 published: true
 ---
 
-# Unveiling AKASHA
-
 For the past year we have worked on [AKASHA](http://akasha.world/), a next-generation social media network powered by the [Ethereum world computer](https://ethereum.org/) and the [Inter-Planetary File System](https://ipfs.io/). Today, May 3rd, we celebrate [World Press Freedom Day](https://en.wikipedia.org/wiki/World_Press_Freedom_Day) by unveiling our project to the world at large and opening the signups for the alpha release.
 
 ### Freedom of expression mayday
