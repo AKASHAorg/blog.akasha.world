@@ -131,7 +131,7 @@ It will not be easy, but we can do it, **together.**
 
 ----
 
-**About the author**
+**About the Author**
 
 Mihai Alisie is the Founder and CEO of AKASHA. 
 
