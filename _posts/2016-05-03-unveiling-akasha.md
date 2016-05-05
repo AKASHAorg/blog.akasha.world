@@ -19,7 +19,7 @@ For the past year we have worked on [AKASHA](http://akasha.world/){:target="_bla
 
 Before delving into the project itself I would like to explain the **why** behind it and **what** we are aiming to achieve. 
 
-Ever since I joined Vitalik in the Ethereum project as co-founder in late 2013, [I’ve dreamed](https://blog.ethereum.org/2014/07/14/the-ethereum-project/){:target="_blank"} about the ways Ethereum could be used to solve some of the biggest issues we face as a civilization. 
+Ever since I joined Vitalik in the Ethereum project as co-founder [in late 2013](https://blog.ethereum.org/2015/03/14/ethereum-the-first-year/){:target="_blank"}, [I’ve dreamed](https://blog.ethereum.org/2014/07/14/the-ethereum-project/){:target="_blank"} about the ways Ethereum could be used to solve some of the biggest issues we face as a civilization. 
 
 However, it wasn't until [early 2015](http://akasha.world/#roadmap){:target="_blank"} when I first realized that we are about to create the missing puzzle piece that will enable us to tackle two of the most important challenges we face today as a modern information-based society: freedom of expression and creative perpetuity.
 
