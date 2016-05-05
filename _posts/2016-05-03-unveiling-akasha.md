@@ -141,6 +141,6 @@ In the early days of Ethereum, Mihai leaded the Swiss efforts to establish the b
 
 ![Mihai Alisie]({{ site.baseurl }}/content/images/Mihai275x.jpg)
 
-Twitter: [@MihaiAlisie](https://twitter.com/MihaiAlisie){:target="_blank"} 
-LinkedIn: [Mihai Alisie](https://www.linkedin.com/in/mihaialisie){:target="_blank"}
+Twitter: [@MihaiAlisie](https://twitter.com/MihaiAlisie){:target="_blank"} | 
+LinkedIn: [Mihai Alisie](https://www.linkedin.com/in/mihaialisie){:target="_blank"} | 
 Contact: [mihai@akasha.world](mailto:mihai@akasha.world)
