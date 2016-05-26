@@ -70,7 +70,7 @@ I'm convinced we can - and we will - build epic things together.
 
 At the beginning of this entry, we started to collaborate more closely with the guys from IPFS and Orbit-DB. This led to an experiment, which we think might benefit both the Ethereum and IPFS ecosystems.
 
-Orbit-DB is one of the most interesting databases explored, while looking into ways to solve the problem of client-side storage for our dapp. However, Orbit-DB uses a [redis](http://redis.io/){:target="_blank"} server to notify nodes when a new hash appears on the network and needs to be synced locally, as an intermediary solution, until IPFS implements a [pub-sub schema](https://github.com/ipfs/go-ipfs/pull/2599){:target="_blank"} at protocol level. 
+[Orbit-DB](https://github.com/haadcode/orbit-db){:target="_blank"} is one of the most interesting databases explored, while looking into ways to solve the problem of client-side storage for our dapp. However, Orbit-DB uses a [redis](http://redis.io/){:target="_blank"} server to notify nodes when a new hash appears on the network and needs to be synced locally, as an intermediary solution, until IPFS implements a [pub-sub schema](https://github.com/ipfs/go-ipfs/pull/2599){:target="_blank"} at protocol level. 
 
 We weren't happy with this solution, as it would introduce a [single point of failure](https://en.wikipedia.org/wiki/Single_point_of_failure){:target="_blank"} in our dapp architecture, so we had to take a break and think it through. 
 
