@@ -15,7 +15,7 @@ Many things have happened since we unveiled [AKASHA](http://akasha.world/){:targ
 
 Following the initial splash, we received a good deal of news coverage from various publications in the blockchain space, but the best was yet to come, as a few days later, we hit the front page of hackernews. Before the [hackernews post](https://news.ycombinator.com/item?id=11678810){:target="_blank"}, we were at almost 1000 signups already, but thanks to the increased exposure, we are nearing, at the time of writing, almost **2000 signups**.
 
-![Hackernews Frontpage]({{ site.baseurl }}/content/images/hackernews-frontpage.jpg)
+![Hackernews Frontpage]({{ site.baseurl }}/content/images/hackernews-frontpage2.jpg)
  
 ![Hackernews Tweet]({{ site.baseurl }}/content/images/hackernews-tweet.jpg)
 
