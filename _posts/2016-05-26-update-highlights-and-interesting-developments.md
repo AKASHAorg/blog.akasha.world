@@ -66,7 +66,7 @@ I'm convinced we can - and we will - build epic things together.
 ### (Very) Interesting Developments
 > “Creating a better future requires creativity in the present.” ― Matthew Goldfinger
 
-![IPFS FTW]({{ site.baseurl }}/content/images/IPFS-background.jpg)
+![IPFS FTW]({{ site.baseurl }}/content/images/IPFS-background.jpeg)
 
 At the beginning of this entry, we started to collaborate more closely with the guys from IPFS and Orbit-DB. This led to an experiment, which we think might benefit both the Ethereum and IPFS ecosystems.
 
