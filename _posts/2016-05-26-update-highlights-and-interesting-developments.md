@@ -2,7 +2,7 @@
 layout: post
 title: "The First Three Weeks: Highlights & Interesting Developments"
 timezone: Europe/Zurich
-date:   2016-26-03 00:00:01
+date:   2016-05-26 00:00:01
 image: Spacelapse.jpg
 comments: true
 tags: AKASHA, update, highlights, developments, ethereum, ethcore, IPFS, orbit-db
