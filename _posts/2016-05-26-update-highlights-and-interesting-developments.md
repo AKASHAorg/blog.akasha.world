@@ -47,7 +47,7 @@ During this call, we also talked with [Samuli Pöyhtäri](https://twitter.com/ha
 
 Samuli was helpful and offered answers that sounded like music to our ears. We are now working together on some cool and exciting things, but we'll cover that in more detail in the next section.
 
-Later in the week, we received a special visit in our Bucharest hacklab from [Dr. Gavin Wood](https://twitter.com/gavofyork){:target="_blank"} and [Marek Kotevich](https://twitter.com/iDebris5){:target="_blank"} from [Ethcore](https://ethcore.io/){:target="_blank"}. We haven't seen each other since before the [Ethereum Genesis](http://etherscan.io/block/0){:target="_blank"}, and we had a great time catching up.
+Later in the week, we received a special visit in our Bucharest hacklab from [Dr. Gavin Wood](https://twitter.com/gavofyork){:target="_blank"} and [Marek Kotewicz](https://twitter.com/iDebris5){:target="_blank"} from [Ethcore](https://ethcore.io/){:target="_blank"}. We haven't seen each other since before the [Ethereum Genesis](http://etherscan.io/block/0){:target="_blank"}, and we had a great time catching up.
 
 ![Ethcore In The House]({{ site.baseurl }}/content/images/ethcore-visit.jpg)
 
