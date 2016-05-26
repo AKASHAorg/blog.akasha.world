@@ -9,7 +9,7 @@ tags: AKASHA, update, highlights, developments, ethereum, ethcore, IPFS, orbit-d
 published: true
 ---
 
-Many things have happened since we unveiled [AKASHA](http://akasha.world/){:target="_blank"}. On May 3rd, the [announcement blogpost](http://blog.akasha.world/2016/05/03/unveiling-akasha/){:target="_blank"} received a warm welcome and was the most upvoted thread on [/r/ethereum](https://www.reddit.com/r/ethereum/comments/4hm678/unveiling_akasha_a_nextgeneration_social_media/){:target="_blank"} and [/r/ethtrader](https://www.reddit.com/r/ethtrader/comments/4hm6kk/unveiling_akasha_a_nextgeneration_social_media/){:target="_blank"}, which are the biggest Ethereum Reddit communities. The feedback was overwhelmingly positive across the community, leading to over 200 signups for the alpha release in the first 24 hours. 
+Many things have happened since we unveiled [AKASHA](http://akasha.world/){:target="_blank"}. On May 3rd, the [announcement blogpost](http://blog.akasha.world/2016/05/03/unveiling-akasha/){:target="_blank"} received a warm welcome and was the most upvoted thread on [/r/ethereum](https://www.reddit.com/r/ethereum/comments/4hm678/unveiling_akasha_a_nextgeneration_social_media/){:target="_blank"} and [/r/ethtrader](https://www.reddit.com/r/ethtrader/comments/4hm6kk/unveiling_akasha_a_nextgeneration_social_media/){:target="_blank"}, which are the biggest Ethereum Reddit communities. The feedback was overwhelmingly positive across the community, leading to over **200 signups** for the alpha release in the first 24 hours. 
 
 ![200 Signups Tweet]({{ site.baseurl }}/content/images/24h-tweet.jpg)
 
