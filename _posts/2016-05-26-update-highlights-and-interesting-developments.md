@@ -121,7 +121,7 @@ Thank you for being part of this!
 
 **About the Author**
 
-Mihai Alisie is the Founder and CEO of AKASHA.
+Mihai Alisie is the Founder and CEO of [AKASHA](http://akasha.world/){:target="_blank"}.
 
 He has been actively involved in the blockchain technology space, since 2011 when he created with [Vitalik Buterin](http://vitalik.ca){:target="_blank"} the world’s first Bitcoin centric publication - [Bitcoin Magazine](https://bitcoinmagazine.com/){:target="_blank"}. He served as Editor-in-Chief for the magazine, until late 2013, when he joined Vitalik in founding the [Ethereum project](https://ethereum.org/){:target="_blank"}.
 
