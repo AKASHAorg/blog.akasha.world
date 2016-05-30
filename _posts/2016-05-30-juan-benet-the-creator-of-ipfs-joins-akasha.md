@@ -15,7 +15,7 @@ We are thrilled to announce that [Juan Benet](https://twitter.com/juanbenet){:ta
 
 Juan will be in great company as he joins [Vitalik Buterin](https://twitter.com/VitalikButerin){:target="_blank"}, the creator of [Ethereum](https://ethereum.org/){:target="_blank"}, on our Advisory Board. 
 
-Juan is a computer scientist, engineer, and entrepreneur. Before creating IPFS, he studied Computer Science at Stanford University, co-founded Loki Studios, an augmented reality mobile gaming company acquired by Yahoo, and worked with StartX as an EIR. 
+Juan is a computer scientist, engineer, and entrepreneur. Before creating IPFS, he studied Computer Science at Stanford University, co-founded Loki Studios, an augmented reality mobile gaming company acquired by Yahoo, and worked with StartX as an [EIR](http://startx.com/){:target="_blank"}. 
 
 The idea behind IPFS took shape in Juan's mind during 2014, while thinking of ways to solve the numerous problems that plague data sharing today. 
 
@@ -31,8 +31,24 @@ For those that haven’t dived into IPFS yet, watch this presentation that is ma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HUVmypx9HGI" frameborder="0" allowfullscreen></iframe>
 
-Juan is now working relentlessly with the IPFS team on a JavaScript implementation which would make AKASHA, among other things, accessible in a peer-to-peer fashion directly from classic Web 2.0 browsers. Add all the cool things currently developed in the Ethereum ecosystem from BTCrelay to payment channels to DAOs and you'll get a glimpse of the fascinating things waiting to be explored. 
+Juan is now working relentlessly with the IPFS team on a [JavaScript implementation](https://github.com/ipfs/js-ipfs){:target="_blank"} which would make AKASHA, among other things, accessible in a peer-to-peer fashion directly from classic Web 2.0 browsers. Add all the cool things currently developed in the Ethereum ecosystem from [BTCrelay](http://btcrelay.org/){:target="_blank"} to [payment channels](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/){:target="_blank"} to [DAOs](https://daohub.org/){:target="_blank"} and you'll get a glimpse of the fascinating things waiting to be explored. 
 
 With both Juan Benet and Vitalik Buterin at our side to advise us on the key technologies used to make AKASHA possible, we are bound to create something truly amazing. 
 
 Welcome aboard Juan! 
+
+----
+
+**About the Author**
+
+Mihai Alisie is the Founder and CEO of [AKASHA](http://akasha.world/){:target="_blank"}.
+
+He has been actively involved in the blockchain technology space, since 2011 when he created with [Vitalik Buterin](http://vitalik.ca){:target="_blank"} the world’s first Bitcoin centric publication - [Bitcoin Magazine](https://bitcoinmagazine.com/){:target="_blank"}. He served as Editor-in-Chief for the magazine, until late 2013, when he joined Vitalik in founding the [Ethereum project](https://ethereum.org/){:target="_blank"}.
+
+In the early days of Ethereum, Mihai led the Swiss efforts to establish the business infrastructure and legal framework critical for the Ethereum “pre-sale” campaign. Following the successful Swiss setup, he oversaw the Ethereum operations as Strategic Manager and Vice-President of the Ethereum Foundation, until late 2015, when he focused his attention on making the AKASHA dream a reality.
+
+![Mihai Alisie]({{ site.baseurl }}/content/images/Mihai275x.jpg)
+
+Twitter: [@MihaiAlisie](https://twitter.com/MihaiAlisie){:target="_blank"} | 
+LinkedIn: [Mihai Alisie](https://www.linkedin.com/in/mihaialisie){:target="_blank"} | 
+Contact: [mihai@akasha.world](mailto:mihai@akasha.world)
