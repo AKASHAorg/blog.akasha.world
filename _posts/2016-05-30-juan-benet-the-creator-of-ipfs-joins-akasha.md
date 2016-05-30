@@ -8,7 +8,7 @@ comments: true
 tags: AKASHA, IPFS, announcement, Juan Benet, advisor
 draft: true
 ---
->"The centralized ad-driven social networks are vulnerable and not focused on our rights. We need free, private, global communication! We need AKASHA!" - Juan Benet
+> *"The centralized ad-driven social networks are vulnerable and not focused on our rights. We need free, private, global communication! We need AKASHA!" - Juan Benet*
 
 We are thrilled to announce that [Juan Benet](https://twitter.com/juanbenet){:target="_blank"}, the creator of the [Inter-Planetary File System](https://ipfs.io/){:target="_blank"} (IPFS), is joining the [AKASHA team](http://akasha.world/#team){:target="_blank"} as Advisor.
 
