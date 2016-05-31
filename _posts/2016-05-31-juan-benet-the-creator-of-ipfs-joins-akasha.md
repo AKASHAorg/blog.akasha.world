@@ -6,7 +6,7 @@ date:   2016-05-31 00:00:01
 image: IPFS-background.jpeg
 comments: true
 tags: AKASHA, IPFS, announcement, Juan Benet, advisor
-draft: true
+published: true
 ---
 > *"The centralized ad-driven social networks are vulnerable and not focused on our rights. We need free, private, global communication! We need AKASHA!" - Juan Benet*
 
