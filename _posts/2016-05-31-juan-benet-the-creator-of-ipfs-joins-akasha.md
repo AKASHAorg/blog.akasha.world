@@ -34,6 +34,6 @@ For those that haven’t dived into IPFS yet, watch this presentation that is ma
 
 Juan is now working relentlessly with the IPFS team on a [JavaScript implementation](https://github.com/ipfs/js-ipfs){:target="_blank"} which would make AKASHA, among other things, accessible in a peer-to-peer fashion directly from classic Web 2.0 browsers. Add all the cool things currently developed in the Ethereum ecosystem from [BTCrelay](http://btcrelay.org/){:target="_blank"} to [payment channels](http://www.arcturnus.com/ethereum-lightning-network-and-beyond/){:target="_blank"} to [DAOs](https://daohub.org/){:target="_blank"} and you'll get a glimpse of the fascinating things waiting to be explored. 
 
-With both Juan Benet and Vitalik Buterin at our side to advise us on the key technologies used to make AKASHA possible, we are bound to create something truly amazing. 
+With both Juan Benet and Vitalik Buterin at our side to advise us on the key technologies used to make [AKASHA](http://akasha.world/){:target="_blank"} possible, we are bound to create something truly amazing. 
 
 Welcome aboard Juan! 
