@@ -2,7 +2,7 @@
 layout: post
 title: "Juan Benet, the creator of IPFS, joins the AKASHA Team as Advisor"
 timezone: Europe/Zurich
-date:   2016-05-30 00:00:01
+date:   2016-05-31 00:00:01
 image: IPFS-background.jpeg
 comments: true
 tags: AKASHA, IPFS, announcement, Juan Benet, advisor
