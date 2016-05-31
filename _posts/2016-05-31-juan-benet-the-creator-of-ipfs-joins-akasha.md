@@ -16,7 +16,7 @@ We are thrilled to announce that [Juan Benet](https://twitter.com/juanbenet){:ta
 
 Juan will be in great company as he joins [Vitalik Buterin](https://twitter.com/VitalikButerin){:target="_blank"}, the creator of [Ethereum](https://ethereum.org/){:target="_blank"}, on our Advisory Board. 
 
-Juan created the [IPFS Project](https://ipfs.io/){:target="_blank"}, [Filecoin](http://filecoin.io/){:target="_blank"}, and other protocols that can be found [here](http://juan.benet.ai/){:target="_blank"}. He is also the founder of [Protocol Labs](http://ipn.io/){:target="_blank"}, a company focused on improving how the Internet works. Before creating IPFS, he studied Computer Science at Stanford University and worked with [StartX](http://startx.com/){:target="_blank"} as an EIR.
+Juan created the [IPFS Project](https://ipfs.io/){:target="_blank"}, [Filecoin](http://filecoin.io/){:target="_blank"}, and other protocols that can be found [here](http://juan.benet.ai/){:target="_blank"}. He is also the founder of [Protocol Labs](http://ipn.io/){:target="_blank"}, a company focused on improving how the Internet works. Before IPFS and Protocol Labs, he studied Computer Science at Stanford University.
 
 The idea behind IPFS took shape in Juan's mind during 2014, while thinking of ways to solve the numerous problems that plague data sharing today. 
 
