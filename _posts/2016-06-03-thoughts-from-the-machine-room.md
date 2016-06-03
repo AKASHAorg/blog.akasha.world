@@ -81,7 +81,7 @@ All this being said, one of the most amazing things Ethereum has, besides the fa
  
 This is why, I’m sure we can fix this one as well, together. 
 
-[Join the community discussion here](https://www.reddit.com/r/ethereum/).
+[Join the community discussion here](https://www.reddit.com/r/ethereum/comments/4mcebn/an_open_call_for_a_new_discussion_on_gas_prices/).
 
 ----
 
