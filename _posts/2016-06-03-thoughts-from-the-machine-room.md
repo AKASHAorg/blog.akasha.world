@@ -44,7 +44,7 @@ Here is an overview of the Ethereum market cap/Ether price evolution, courtesy o
 
 ![Ether Price Evolution]({{ site.baseurl }}/content/images/ETH-Price.jpg)
 
-And here, is an overview the Ethereum gas price evolution during the past few months:
+Next is an overview the Ethereum gas price evolution during the past few months:
 
 ![Ethereum Gas Price Evolution]({{ site.baseurl }}/content/images/Gas-Price.jpg)
 
@@ -56,6 +56,8 @@ The graph above also shows how the gas price has not changed, even if the price 
 
 ### The Bigger Picture
 > *"Efforts and courage are not enough without purpose and direction." ― John F. Kennedy* 
+
+![Ethereum World]({{ site.baseurl }}/content/images/Ethereum-AKASHA-Project.jpg)
 
 Homestead brought with it the first gas price adjustment and to a certain extent, the issue we’re facing now related to the ETH/Gas price increase was to be expected, as [pointed out by Vitalik in the last discussion on this topic](https://www.reddit.com/r/ethereum/comments/499a7w/gas_prices_are_already_kinda_down_to_20_shannon/).
  
@@ -78,8 +80,6 @@ This is an open call for a new discussion on how we can deal with the problem of
 All this being said, one of the most amazing things Ethereum has, besides the fantastic technology, is this great community united by a pure passion for ideating, co-creating and iterating.
  
 This is why, I’m sure we can fix this one as well, together. [Join the community discussion here](reddit.com/r/ethereum/).
-
-![Ethereum World]({{ site.baseurl }}/content/images/Ethereum-AKASHA-Project.jpg)
 
 ----
 
