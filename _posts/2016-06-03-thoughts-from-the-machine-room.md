@@ -55,7 +55,7 @@ You can clearly observe in the next chart how the gas price adjustment introduce
 The graph above also shows how the gas price has not changed, even if the price per ETH more than doubled.
 
 ### The Bigger Picture
-> *“Whatever the mind can conceive and believe, it can achieve.” ― Napoleon Hill*
+> *"Efforts and courage are not enough without purpose and direction." ― John F. Kennedy* 
 
 Homestead brought with it the first gas price adjustment and to a certain extent, the issue we’re facing now related to the ETH/Gas price increase was to be expected, as [pointed out by Vitalik in the last discussion on this topic](https://www.reddit.com/r/ethereum/comments/499a7w/gas_prices_are_already_kinda_down_to_20_shannon/).
  
