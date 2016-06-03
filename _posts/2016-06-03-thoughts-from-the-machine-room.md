@@ -18,7 +18,7 @@ The mind blowing part is that things don't appear to be slowing down at all - on
 With all these exciting things happening in such a short while, it's easy to get lost in this rush and forget **why we started doing this thing** in the first place. So, let's take a few moments to look back and think about why we started this, where we are, and where we want to go as the only way to shape our future is by taking control of the present.
 
 ### The Rise of Ethereum & Ether: The Side Effects of Success
-> *“Eighty percent of success is showing up.” ― Woody Allen*
+> *“Success is not final, failure is not fatal: it is the courage to continue that counts.” ― Winston S. Churchill*
 
 Ethereum made the concepts of decentralized applications and organizations possible by introducing ETH as a "cryptofuel", which can be used to pay the “gas” used for computation on its turing-complete blockchain.
  
@@ -32,7 +32,7 @@ Before continuing, for those that haven’t yet wrapped their heads around the c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dd-ajiMl4HY" frameborder="0" allowfullscreen></iframe>
 
-The side effect of ETH price increase is negligible when talking about basic things such as sending ETH from one account to another since the equivalent in USD would be around ~$0.007 at the current prices for ~21K gas to cover the transaction.
+The side effect of ETH price increase is negligible when talking about basic things such as sending ETH from one account to another since the equivalent in USD would be around ~$0.007, at the current prices, for ~21K gas to cover the transaction.
  
 The problem becomes more visible when we look at how this affects decentralized applications and organizations. If we take “the DAO” as an example, something as simple as transferring DAO tokens from one address to another or casting a vote can reach fees between $0.05 - $0.1 to cover the computation gas.
  
