@@ -79,7 +79,9 @@ This is an open call for a new discussion on how we can deal with the problem of
  
 All this being said, one of the most amazing things Ethereum has, besides the fantastic technology, is this great community united by a pure passion for ideating, co-creating and iterating.
  
-This is why, I’m sure we can fix this one as well, together. [Join the community discussion here](reddit.com/r/ethereum/).
+This is why, I’m sure we can fix this one as well, together. 
+
+[Join the community discussion here](reddit.com/r/ethereum/).
 
 ----
 
