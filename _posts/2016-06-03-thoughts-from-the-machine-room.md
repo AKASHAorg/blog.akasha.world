@@ -6,7 +6,7 @@ date:   2016-06-03 00:00:01
 image: Ethereum-Gas-AKASHA.jpg
 comments: true
 tags: AKASHA, Ethereum, Gas, Homestead, Dapps, Adoption
-draft: true
+published: true
 ---
 
 We are now over three months into [Homestead](https://blog.ethereum.org/2016/02/29/homestead-release/), and it has been an intense ride as we've seen increased mainstream media attention, massive [ETH price increases](http://ethereumprice.org/), and witnessed the birth of "[The DAO](https://daohub.org/)" as the [largest crowdfunded project](https://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects) **ever**.
