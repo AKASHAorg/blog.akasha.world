@@ -65,11 +65,11 @@ Today, the ETH price is more than double compared to when the first gas price ad
  
 Oversimplified, I think things look like this:
  
-High Gas Price -> Less Dapps -> Less Adoption -> Smaller Ecosystem -> Smaller Market Cap -> Everyone Loses
+High Gas Price -> Less Dapps -> Less Adoption -> Smaller Ecosystem -> Smaller Market Cap -> Everyone Loses (including the miners)
  
 VS
  
-Low Gas Price -> More Dapps -> More Adoption -> Bigger Ecosystem -> Bigger Market Cap -> Everyone Wins
+Low Gas Price -> More Dapps -> More Adoption -> Bigger Ecosystem -> Bigger Market Cap -> Everyone Wins (including the miners)
  
 Maybe we are more aware of this problem as we are on the frontline of dapp development with [AKASHA](http://akasha.world/). However, I'm sure everyone would benefit from another gas price adjustment because this would lower the entry barriers while increasing the chance of adoption at large scale – and, in the end, **adoption is critical for technologies like Ethereum**.
  
