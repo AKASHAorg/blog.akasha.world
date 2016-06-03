@@ -18,6 +18,7 @@ The mind blowing part is that things don't appear to be slowing down at all - on
 With all these exciting things happening in such a short while, it's easy to get lost in this rush and forget **why we started doing this thing** in the first place. So, let's take a few moments to look back and think about why we started this, where we are, and where we want to go as the only way to shape our future is by taking control of the present.
 
 ### The Rise of Ethereum & Ether: The Side Effects of Success
+> *“Eighty percent of success is showing up.” ― Woody Allen*
 
 Ethereum made the concepts of decentralized applications and organizations possible by introducing ETH as a "cryptofuel", which can be used to pay the “gas” used for computation on its turing-complete blockchain.
  
@@ -41,7 +42,7 @@ We were expecting higher costs with this approach and there are probably places 
  
 Here is an overview of the Ethereum market cap/Ether price evolution, courtesy of [coincap](http://coincap.io/):
 
-![Ether Price Evolution]({{ site.baseurl }}/content/images/ETH-price.jpg)
+![Ether Price Evolution]({{ site.baseurl }}/content/images/ETH-Price.jpg)
 
 And here, is an overview the Ethereum gas price evolution during the past few months:
 
@@ -54,6 +55,7 @@ You can clearly observe in the next chart how the gas price adjustment introduce
 The graph above also shows how the gas price has not changed, even if the price per ETH more than doubled.
 
 ### The Bigger Picture
+> *“Whatever the mind can conceive and believe, it can achieve.” ― Napoleon Hill*
 
 Homestead brought with it the first gas price adjustment and to a certain extent, the issue we’re facing now related to the ETH/Gas price increase was to be expected, as [pointed out by Vitalik in the last discussion on this topic](https://www.reddit.com/r/ethereum/comments/499a7w/gas_prices_are_already_kinda_down_to_20_shannon/).
  
