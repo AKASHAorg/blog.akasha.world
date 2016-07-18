@@ -127,9 +127,6 @@ On July 1 a historic event took place in Switzerland: the first official Bitcoin
 
 ![Zug Tweet]({{ site.baseurl }}/content/images/zug-tweet2.jpg)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great discussions <a href="https://twitter.com/stadtzug">@stadtzug</a> marking historical first step! Keep an eye on <a href="https://twitter.com/hashtag/Zug?src=hash">#Zug</a>, amazing <a href="https://twitter.com/hashtag/Swiss?src=hash">#Swiss</a> innovation potential <a href="https://t.co/I1OGA61ZaX">https://t.co/I1OGA61ZaX</a></p>&mdash; Mihai Alisie (@MihaiAlisie) <a href="https://twitter.com/MihaiAlisie/status/748963935244656640">July 1, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [Presented as a pilot program](http://www.dw.com/en/alpine-crypto-valley-pays-with-bitcoins/a-19371082?){:target="_blank"}, Zug looks towards a future in which blockchain technologies will increasingly become part of our society and, in my opinion, this first Bitcoin experiment is just the tip of the iceberg.
 
 It's also worth mentioning that besides this pilot program, there are many other exciting things happening in the background such as the drafting of a new hybrid organizational structure that could fill the current gap between fully decentralized and fully centralized companies. 
