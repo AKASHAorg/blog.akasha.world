@@ -125,7 +125,10 @@ But in any case, if anything, all the recent developments across both the IPFS a
 
 On July 1 a historic event took place in Switzerland: the first official Bitcoin transaction with a local Canton administration. [Zug](https://en.wikipedia.org/wiki/Zug){:target="_blank"}, the home of Ethereum and AKASHA, has taken a first big step forward.
 
-![Zug Tweet]({{ site.baseurl }}/content/images/zug-tweet.jpg)
+![Zug Tweet]({{ site.baseurl }}/content/images/zug-tweet2.jpg)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great discussions <a href="https://twitter.com/stadtzug">@stadtzug</a> marking historical first step! Keep an eye on <a href="https://twitter.com/hashtag/Zug?src=hash">#Zug</a>, amazing <a href="https://twitter.com/hashtag/Swiss?src=hash">#Swiss</a> innovation potential <a href="https://t.co/I1OGA61ZaX">https://t.co/I1OGA61ZaX</a></p>&mdash; Mihai Alisie (@MihaiAlisie) <a href="https://twitter.com/MihaiAlisie/status/748963935244656640">July 1, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Presented as a pilot program](http://www.dw.com/en/alpine-crypto-valley-pays-with-bitcoins/a-19371082?){:target="_blank"}, Zug looks towards a future in which blockchain technologies will increasingly become part of our society and, in my opinion, this first Bitcoin experiment is just the tip of the iceberg.
 
