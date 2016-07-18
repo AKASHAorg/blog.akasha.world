@@ -45,16 +45,18 @@ Just as in the case of identity and reputation, we accept that this is a very, v
 Solid progress is also being made on fusing the Ethereum and IPFS technologies inside our dapp. **We have open sourced our work**; those interested can find our Ethereum and IPFS connectors below:
 
 **Ethereum Go connector**
+
 - [GitHub repository](https://github.com/AkashaProject/geth-connector){:target="_blank"}
 - [npm package](https://www.npmjs.com/package/@akashaproject/geth-connector){:target="_blank"}
 - [Documentation](http://docs.akasha.world/geth-connector/globals.html){:target="_blank"}
 
 **IPFS Go connector**
+
 - [GitHub repository](https://github.com/AkashaProject/ipfs-connector){:target="_blank"}
 - [npm package](https://www.npmjs.com/package/@akashaproject/ipfs-connector){:target="_blank"}
 - [Documentation](http://docs.akasha.world/ipfs-connector/globals.html){:target="_blank"}
 
-We’ve also started to experiment with a custom I[IPLD](https://github.com/ipfs/specs/tree/master/ipld){:target="_blank"}-like pathing scheme using [JS IPFS API](https://github.com/ipfs/js-ipfs-api){:target="_blank"} with the more stable [Go IPFS implementation](https://github.com/ipfs/go-ipfs){:target="_blank"} running in the background. Those who are curious and interested in playing with our home-baked IPLD experiment can find the code powering it in our [IPFS connector repository](https://github.com/AkashaProject/ipfs-connector){:target="_blank"}. 
+We’ve also started to experiment with a custom [IPLD](https://github.com/ipfs/specs/tree/master/ipld){:target="_blank"}-like pathing scheme using [JS IPFS API](https://github.com/ipfs/js-ipfs-api){:target="_blank"} with the more stable [Go IPFS implementation](https://github.com/ipfs/go-ipfs){:target="_blank"} running in the background. Those who are curious and interested in playing with our home-baked IPLD experiment can find the code powering it in our [IPFS connector repository](https://github.com/AkashaProject/ipfs-connector){:target="_blank"}. 
 
 As always, feedback and contributions are more than welcome!
 
@@ -96,12 +98,12 @@ Another **very** interesting development comes from the [Raiden Network](http://
 
 In other words, Raiden is a technology that can leverage off-chain state networks to extend Ethereum with some very interesting properties for asset transfers:
 
-- Scalable: It scales linearly with the number of participants (1,000,000+ transfers per second possible)
-- Fast: Transfers are confirmed and final within a fraction of a second
-- Confidential: Single transfers don’t show up in the global shared ledger
-- Interoperable: Works with any token that follows Ethereum’s standardized token API
-- Low Fees: Transaction fees can be seven orders of magnitude lower than on the blockchain
-- Micro-payments: Low transaction fees allow the efficient transfer of tiny values
+- **Scalable**: It scales linearly with the number of participants (1,000,000+ transfers per second possible)
+- **Fast**: Transfers are confirmed and final within a fraction of a second
+- **Confidential**: Single transfers don’t show up in the global shared ledger
+- **Interoperable**: Works with any token that follows Ethereum’s standardized token API
+- **Low Fees**: Transaction fees can be seven orders of magnitude lower than on the blockchain
+- **Micro-payments**: Low transaction fees allow the efficient transfer of tiny values
 
 For us, something like this would be a match made in heaven as it would drastically lower micro-transaction fees while enabling at the same time a frictionless token economy inside the Ethereum and AKASHA ecosystems thanks to its interoperability properties. Raiden is a very promising project for Ethereum and AKASHA, and we will surely follow its development closely.
 
@@ -153,7 +155,7 @@ It felt like the Crypto Valley dream is within reach and that history is in the 
 
 ### Closing Thoughts: Preparing for the Marathon
 
-During these last few weeks we’ve tried as much as possible to stay away from the drama being stirred around "the DAO" fiasco and focus instead on delivering a working alpha version. That went well in our opinion, and we feel that we are close to releasing a pre-alpha version very, very soon. 
+During these last few weeks we’ve tried as much as possible to stay away from the drama being stirred around "the DAO" fiasco and focus instead on delivering a working alpha version. That went well in our opinion, and we feel that **we are close to releasing a pre-alpha version very, very soon**. 
 
 Nothing is set in stone yet, but things are looking promising.
 
@@ -167,8 +169,24 @@ Many, many thanks to the **over 3000 people** who signed up for the alpha releas
 
 Even if in some regards it feels like we're approaching a sort of "finish line," we realize that this represents just the starting point for the long journey that lay ahead of us all. This is both exciting and humbling as we occasionally glimpse the implications of what we are building while discussing various scenarios during our time away from computers. 
 
-We feel that by pushing the limits of what is possible we can potentially reshape online publishing and create better web. A web where freedom of expression and privacy are not optional, but fundamental standards embedded into code. 
+We feel that by pushing the limits of what is possible we can reshape online publishing and create better web. A web where freedom of expression and privacy are not optional, but fundamental standards embedded into code. 
 
 And best of all, we are almost *there*!
 
-The AKASHA dream is nearly fully materialized and ready to flow into the Internet.
+The [AKASHA](http://akasha.world/){:target="_blank"} is nearly fully materialized and ready to flow into the Internet.
+
+----
+
+**About the Author**
+
+Mihai Alisie is the Founder and CEO of [AKASHA](http://akasha.world/){:target="_blank"}.
+
+He has been actively involved in the blockchain technology space, since 2011 when he created with [Vitalik Buterin](http://vitalik.ca){:target="_blank"} the world’s first Bitcoin centric publication - [Bitcoin Magazine](https://bitcoinmagazine.com/){:target="_blank"}. He served as Editor-in-Chief for the magazine, until late 2013, when he joined Vitalik in founding the [Ethereum project](https://ethereum.org/){:target="_blank"}.
+
+In the early days of Ethereum, Mihai led the Swiss efforts to establish the business infrastructure and legal framework critical for the Ethereum “pre-sale” campaign. Following the successful Swiss setup, he oversaw the Ethereum operations as Strategic Manager and Vice-President of the Ethereum Foundation, until late 2015, when he focused his attention on making the AKASHA dream a reality.
+
+![Mihai Alisie]({{ site.baseurl }}/content/images/Mihai275x.jpg)
+
+Twitter: [@MihaiAlisie](https://twitter.com/MihaiAlisie){:target="_blank"} | 
+LinkedIn: [Mihai Alisie](https://www.linkedin.com/in/mihaialisie){:target="_blank"} | 
+Contact: [mihai@akasha.world](mailto:mihai@akasha.world)
