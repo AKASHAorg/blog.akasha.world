@@ -4,7 +4,7 @@ title: "Moving Forward On All Fronts"
 timezone: Europe/Zurich
 date: 2016-07-18 00:00:01
 future: true
-image: keyboard.jpg
+image: telescope.jpg
 comments: true
 tags: AKASHA, Ethereum, IPFS, Alpha, Raiden, Metamask, Light-Client
 draft: true
@@ -22,7 +22,7 @@ We are very happy with the results and we want to share them with you as well :)
 
 ### Alpha Release Progress Overview
 
-![ogogog]({{ site.baseurl }}/content/images/telescope.jpg)
+![ogogog]({{ site.baseurl }}/content/images/keyboard.jpg)
 
 In the light of the recent events we revamped our smart contract architecture, and by applying the lessons learned from "the" DAO attack we’ve ensured AKASHA is now more secure, modular and extensible. The new smart contracts have been deployed on the testnet and we are now in the process of testing the various flows found inside the application.
 
@@ -173,7 +173,7 @@ We feel that by pushing the limits of what is possible we can reshape online pub
 
 And best of all, we are almost *there*!
 
-The [AKASHA](http://akasha.world/){:target="_blank"} is nearly fully materialized and ready to flow into the Internet.
+[AKASHA](http://akasha.world/){:target="_blank"} is nearly fully materialized and ready to flow into the Internet.
 
 ----
 
