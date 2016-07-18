@@ -62,7 +62,7 @@ As always, feedback and contributions are more than welcome!
 
 ### Noteworthy Ethereum & IPFS Ecosystems Progress
 
-[IPFS](https://ipfs.io/){:target="_blank"}, or the Inter-Planetary File System, is a new hypermedia distribution protocol, addressed by content and identities. We are using it to store and distribute the content published on AKASHA in a decentralized fashion. 
+**[IPFS](https://ipfs.io/){:target="_blank"}**, or the Inter-Planetary File System, is a new hypermedia distribution protocol, addressed by content and identities. We are using it to store and distribute the content published on AKASHA in a decentralized fashion. 
 
 ![IPFS JS]({{ site.baseurl }}/content/images/ipfs-js.jpg)
 
@@ -74,7 +74,7 @@ However, currently IPFS JS is in the (very) [early stages of development](https:
 
 At this point in time, the [IPFS Go](https://github.com/ipfs/go-ipfs){:target="_blank"} implementation is considerably more stable and mature compared to the JavaScript implementation and we will probably end up using it for the alpha release. 
 
-[Ethereum](https://ethereum.org/){:target="_blank"} is a decentralized applications platform with a consensus engine in the form of a turing-complete blockchain. We are using it for verifiability, pub/sub relationships, identity/profile management, voting and micropayments. 
+**[Ethereum](https://ethereum.org/){:target="_blank"}** is a decentralized applications platform with a consensus engine in the form of a turing-complete blockchain. We are using it for verifiability, pub/sub relationships, identity/profile management, voting and micropayments. 
 
 ![Ethereum light client tests]({{ site.baseurl }}/content/images/vitalik-light-client.jpg)
 
