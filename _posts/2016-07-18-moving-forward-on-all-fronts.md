@@ -7,7 +7,7 @@ future: true
 image: telescope.jpg
 comments: true
 tags: AKASHA, Ethereum, IPFS, Alpha, Raiden, Metamask, Light-Client
-draft: true
+published: true
 ---
 
 Hello everyone, it's been a while since the last update!
