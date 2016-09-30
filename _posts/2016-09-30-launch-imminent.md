@@ -13,7 +13,7 @@ Hello everyone, I bring good news: **we’re launching the pre-alpha version of 
 
 When the time comes, the invites will be delivered to your inbox and will include installation details which should make the entire setup process a breeze. However, if you encounter any problems, feel free to [join our slack](http://akasha-slack.herokuapp.com/){:target="_blank"} - we are friendly people :)
 
-During the first rollout we plan to test the basic core features such as creating an identity, following a person, publishing an entry, commenting on an entry, bookmarking, voting, following a tag, creating a tag and so on.
+During the first rollout we plan to test the basic core features such as creating an identity, following a person, publishing an entry, commenting, bookmarking, voting, following a tag, creating a tag and so on.
 
 Depending on our findings in the next few weeks we will test the rest of the functionality in anticipation of the public alpha release. 
 
