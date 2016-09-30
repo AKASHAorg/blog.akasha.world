@@ -17,9 +17,9 @@ During the first rollout we plan to test the basic core features such as creatin
 
 Depending on our findings in the next few weeks we will test the rest of the functionality in anticipation of the public alpha release. 
 
-One step at the time.
+One step at a time.
 
-In order to give users an overview of the direction we are foreseeing in the near future we present a tentative roadmap for the main network launch with the mention that things will most likely evolve depending on our findings in the various stages listed below.
+In order to give you an overview of the direction we are foreseeing in the near future we present a tentative roadmap for the main network launch with the mention that things will most likely evolve depending on our findings in the various stages listed below. This is also one of the reasons why many of the stages have TBD next to the date.
 
 ### This is a marathon, not a sprint
 
