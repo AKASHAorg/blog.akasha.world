@@ -9,7 +9,7 @@ comments: true
 tags: AKASHA, Ethereum, IPFS, Alpha, Raiden, Metamask, Light-Client
 draft: true
 ---
-Hello everyone, I bring good news: **we’re launching the pre-alpha version of AKASHA in October!**
+Hello everyone, I bring good news: **we’re launching the pre-alpha version of [AKASHA](http://akasha.world/){:target="_blank"} in October!**
 
 When the time comes, the invites will be delivered to your inbox and will include installation details which should make the entire setup process a breeze. However, if you encounter any problems, feel free to [join our slack](http://akasha-slack.herokuapp.com/){:target="_blank"} - we are friendly people :)
 
@@ -29,7 +29,7 @@ You can find bellow an overview of the direction we are foreseeing in the near f
 
 *Invitations gradually sent to ~4500 users*
 
-Invitation based access for the early alpha subscribers using an Ethereum test chain.
+Invitation based access for the early [alpha subscribers](http://akasha.world/){:target="_blank"} using an Ethereum test chain.
 
 Main goals
 
