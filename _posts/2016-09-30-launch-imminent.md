@@ -6,8 +6,8 @@ date: 2016-09-30 00:00:01
 future: true
 image: Dragonv2.jpg
 comments: true
-tags: AKASHA, Ethereum, IPFS, Alpha, Raiden, Metamask, Light-Client
-draft: true
+tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Roadmap
+published: true
 ---
 Hello everyone, I bring good news: **the pre-alpha version of [AKASHA](http://akasha.world/){:target="_blank"} will be launched in October!**
 
@@ -19,7 +19,7 @@ Depending on our findings in the next few weeks we will test the rest of the fun
 
 One step at a time.
 
-You can find bellow an overview of the direction we are foreseeing in the near future as a tentative roadmap for the main network launch, with the mention that things will most likely evolve depending on our findings. 
+You can find bellow an overview of the direction we are foreseeing in the near future as a *tentative*, high-level, loosey-goosey roadmap for the main network launch, with the mention that things will most likely evolve depending on our findings. 
 
 ### This is a marathon, not a sprint
 
