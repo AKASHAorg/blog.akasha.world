@@ -13,13 +13,13 @@ Hello everyone, I bring good news: **we’re launching the pre-alpha version of 
 
 When the time comes, the invites will be delivered to your inbox and will include installation details which should make the entire setup process a breeze. However, if you encounter any problems, feel free to [join our slack](http://akasha-slack.herokuapp.com/){:target="_blank"} - we are friendly people :)
 
-During the first rollout we plan to test the basic core features such as creating an identity, following a person, publishing an entry, commenting, bookmarking, voting, following a tag, creating a tag and so on.
+During the first rollout, we plan to test the basic core features such as creating an identity, following a person, publishing an entry, commenting, bookmarking, voting, following a tag, creating a tag and so on.
 
 Depending on our findings in the next few weeks we will test the rest of the functionality in anticipation of the public alpha release. 
 
 One step at a time.
 
-In order to give you an overview of the direction we are foreseeing in the near future we present a tentative roadmap for the main network launch with the mention that things will most likely evolve depending on our findings in the various stages listed below. This is also one of the reasons why many of the stages have TBD next to the date.
+You can find bellow an overview of the direction we are foreseeing in the near future as a tentative roadmap for the main network launch, with the mention that things will most likely evolve depending on our findings. 
 
 ### This is a marathon, not a sprint
 
@@ -55,7 +55,7 @@ Main goals
 
 *Core smart contracts breakathon*
 
-Open source the smart contracts powering AKASHA followed by breakathon event with prizes for anyone able to exploit or break the smart contracts. Breakathon will be extended to the token contracts proposed in the next stage. Actively experiment with solutions for displaying content published inside the dapp in normal Web 2.0 browsers.
+Open source the smart contracts powering AKASHA, followed by breakathon event with prizes for anyone able to exploit or break the smart contracts. Breakathon will be extended to the token contracts proposed in the next stage. Actively experiment with solutions for displaying content published inside the dapp in normal Web 2.0 browsers.
 
 Main goals
 
@@ -94,7 +94,7 @@ Main goals
 
 *AKASHA v 1.0*
 
-Many variables in the equation as it all depends on the findings and lessons learned during the previous stages. If everything goes according to plan the AKASHA contracts will be deployed on the main net, hopefully with a working Web 2.0 version for ease of access for people not interested in running their own ETH and IPFS node.
+Many variables in the equation as it all depends on the findings and lessons learned during the previous stages. If everything goes according to plan, the AKASHA contracts will be deployed on the main net, hopefully with a working Web 2.0 version for ease of access for people not interested in running their own ETH and IPFS node.
 
 Main goals
 
