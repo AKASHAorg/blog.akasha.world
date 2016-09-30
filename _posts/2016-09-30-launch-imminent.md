@@ -30,6 +30,7 @@ In order to give users an overview of the direction we are foreseeing in the nea
 Invitation based access for the early alpha subscribers using an Ethereum test chain.
 
 Main goals
+
 - Test the dapp on the major operating systems
 - Observe the smart contracts and dapp components interaction
 - Identify potential flaws in the system design
@@ -42,6 +43,7 @@ Main goals
 Debut with brainstorming challenge for ideas and features in the next releases.
 
 Main goals
+
 - Signal that AKASHA is a community driven project
 - Tap into the collective intelligence of the community
 - Collect and incorporate feedback from the users
@@ -54,6 +56,7 @@ Main goals
 Open source the smart contracts powering AKASHA followed by breakathon event with prizes for anyone able to exploit or break the smart contracts. Breakathon will be extended to the token contracts proposed in the next stage. Actively experiment with solutions for displaying content published inside the dapp in normal Web 2.0 browsers.
 
 Main goals
+
 - Smart contracts crowdsourced vulnerability/exploit tests 
 - Fix/improve the smart contracts depending on the feedback
 - Round 2: try to break the fixed/improved smart contracts
@@ -66,6 +69,7 @@ Main goals
 Token research taking a more proeminent role (Filecoin, Raiden, BTC relay, ETH appcoins interoperability) combined with identity and experiments on an interactive Web 2.0 version (Metamask/Light Wallets/uPort). Analyze and A/B test the most interesting token proposals to see how it affects the health of the ecosystem and behaviour of users. 
 
 Main goals
+
 - Understand what problems we should strive to solve with a token
 - Test the most interesting ideas bubbling from the collective intelligence of the community
 - Learn if a token is indeed needed and beneficial in the ecosystem
@@ -78,6 +82,7 @@ Main goals
 Propose development roadmap for 2017 with votes counting as feedback on feature prioritization. 
 
 Main goals
+
 - Community driven development roadmap proposal
 - Focus attention and resources on most wanted features
 - Testing Web 2.0 interactive version
@@ -90,6 +95,7 @@ Main goals
 Many variables in the equation as it all depends on the findings and lessons learned during the previous stages. If everything goes according to plan the AKASHA contracts will be deployed on the main net, hopefully with a working Web 2.0 version for ease of access for people not interested in running their own ETH and IPFS node.
 
 Main goals
+
 - Using the security and synergy of the ethereum main network ecosystem
 - Enabling real value token transfers between readers and content creators
 - Web 2.0 main net version deployed, preferably interactive
