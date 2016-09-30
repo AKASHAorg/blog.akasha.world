@@ -106,7 +106,7 @@ Main goals
 
 Again, this short roadmap is *tentative* and should be taken as such. We want to involve the community as much as possible in this project and we are open to adjusting the various stages listed above (and not only) to accomodate unforeseen events or strong feedback in areas that are not covered yet. 
 
-More details will follow in the next couple of weeks once we start sending the invites!
+**More details will follow in the next couple of weeks once we start sending the invites!**
 
 ### Closing notes
 
