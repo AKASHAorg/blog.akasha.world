@@ -112,7 +112,9 @@ More details will follow in the next couple of weeks once we start sending the i
 
 In the first release(s) the dapp might showcase unstable behavior and occasional bugs. This is the tradeoff for being among the first people to experiment a standalone dapp bundling bleeding edge technologies such as Ethereum and IPFS - there is no way around it since both are still in their very early days. 
 
-There are many moving parts involved in making this happen and there will be things that are expected to manifest unexpected behaviour. When something like this happens, please take a deep breath and remember that we want to iron out these bugs as much as you do. Help us to help you by opening an issue or getting in touch with us on Slack. 
+There are many moving parts involved in making this happen and there will be things that are expected to manifest unexpected behaviour. When something like this happens, please take a deep breath and remember that we want to iron out these bugs as much as you do. 
+
+Help us to help you by opening an issue or by [getting in touch with us on Slack!](http://akasha-slack.herokuapp.com/){:target="_blank"}. 
 
 Thank you for your patience and understanding!
 
