@@ -23,6 +23,8 @@ In order to give users an overview of the direction we are foreseeing in the nea
 
 ### This is a marathon, not a sprint
 
+![Stargate Blueprint]({{ site.baseurl }}/content/images/stargate-blueprint.jpg)
+
 **Stage 0 (October 2016)**
 
 *Invitations gradually sent to ~4500 users*
