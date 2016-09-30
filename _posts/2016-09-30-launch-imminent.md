@@ -99,7 +99,7 @@ Many variables in the equation as it all depends on the findings and lessons lea
 Main goals
 
 - Using the security and synergy of the ethereum main network ecosystem
-- Enabling real value token transfers between readers and content creators
+- Enabling "real value" token transfers between readers and content creators
 - Web 2.0 main net version deployed, preferably interactive
 - Publish experiment-driven white paper documenting our findings
 - Open the dapp to the world at large
