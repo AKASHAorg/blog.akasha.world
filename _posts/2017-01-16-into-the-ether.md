@@ -17,3 +17,5 @@ The Crypto Renaissance is unfolding through each new concept that manifests into
 And things are not slowing down. 
 
 We’re just getting started.
+
+![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
