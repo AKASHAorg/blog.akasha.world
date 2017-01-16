@@ -2,11 +2,11 @@
 layout: post
 title: "AKASHA launch imminent"
 timezone: Europe/Zurich
-date: 2016-09-30 00:00:01
+date: 2017-01-16 00:00:01
 future: true
 image: Dragonv2.jpg
 comments: true
-tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Roadmap
+tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release
 draft: true
 ---
 
