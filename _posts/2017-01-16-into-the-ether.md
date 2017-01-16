@@ -44,7 +44,7 @@ Since it is an alpha, it comes with all the instability associated with early ex
 
 Failures, glitches and random errors **should be expected.**
 
-If every epic adventure begins with a grand purpose and a first step, this is ours: We believe that we can leverage technology to create a better web. A web in service of humanity.
+If every epic adventure begins with a grand purpose and a first step, this is ours: We believe that we can leverage technology to create a better Web. A Web in service of humanity.
 
 And now, let’s make our first step *Into the Ether* **together**!
 
