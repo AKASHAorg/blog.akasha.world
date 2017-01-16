@@ -32,7 +32,7 @@ We don’t have all the answers yet, but we believe that by treating this alpha 
 
 It won’t happen overnight; it will take genius and much hard work to get it ***right***.
 
-Now, even if we don’t know everything from the start, we know something - basic things such as **freedom of expression and privacy must be part of the solution(s). Otherwise, they’re not good solutions.**
+Now, even if we don’t know everything from the start, we know something - basic human rights such as **freedom of expression and privacy must be part of the solution(s). Otherwise, they’re not good solutions.**
 
 We believe that continuous experimentation is the key to discovering new services and features we cannot even imagine at this point. Some could reinvent whole industries and business models. Others will fail miserably, and we will learn something new in the process.
 
