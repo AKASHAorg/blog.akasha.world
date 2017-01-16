@@ -48,8 +48,6 @@ If every epic adventure begins with a grand purpose and a first step, this is ou
 
 And now, let’s make our first step *Into the Ether* **together**!
 
-![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
-
 #### Instructions For Windows Pioneers:
 
 * Download the [.exe installer](https://github.com/AkashaProject/Alpha/releases/download/0.3.0/AKASHA-win-x64-0.3.0.exe){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/Alpha/releases/download/0.3.0/AKASHA-win-x64-0.3.0.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/Alpha/releases/tag/0.3.0){:target="_blank"}
@@ -81,6 +79,8 @@ And remember, occasionally, to take a moment and **enjoy it**.
 This is pioneering at its best, and through your involvement, you are all pioneers. 
 
 History is in the making and this time, we’re writing it together - *Into The Ether*. 
+
+![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
 
 ----
 
