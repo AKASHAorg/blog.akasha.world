@@ -7,7 +7,7 @@ future: true
 image: ethereum-bg3.jpg
 comments: true
 tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release
-draft: true
+published: true
 ---
 
 > "I felt a great disturbance in the Force, as if millions of voices suddenly cried out in surprise and were suddenly silenced. I feel something wonderful has happened." — Ethereum Kenobi 
@@ -78,7 +78,7 @@ And remember, occasionally, to take a moment and **enjoy it**.
 
 This is pioneering at its best, and through your involvement, you are all pioneers. 
 
-History is in the making and this time, we’re writing it together - *Into The Ether*. 
+History is in the making and this time, we’re writing it **together** - *Into The Ether*. 
 
 ![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
 
