@@ -10,11 +10,11 @@ tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release
 draft: true
 ---
 
-Hello everyone, during the last couple of weeks we have been busy applying the lessons learned from the first releases, fixing bugs and implemented new features.
+Hello everyone, during the last couple of weeks we have been busy applying the lessons learned from the first releases, fixing bugs and implemented new features. Many thanks, again, to everyone for your support and kind words following the first alpha versions! 
 
-Many thanks, again, to everyone for your support and kind words following the first alpha versions! As a token of our deep appreciation we bring to you *The Tipping Point*.
+As a token of appreciation we bring to you *The Tipping Point*, the latest AKASHA pre-release (0.4.0). 
 
-The latest release (0.4.0) includes numerous bug fixes and improvements while also introducing new features such as:
+The 0.4.0 version includes numerous bug fixes and improvements while also introducing new features such as:
 
 * Tipping
 * Entry editing & versioning
@@ -25,6 +25,10 @@ The latest release (0.4.0) includes numerous bug fixes and improvements while al
 * Whisper Chatrooms
 * Profile hover card for easy access to actions such as “follow” and “send tip” for entries, chat and comments
 * Gas abstraction for most interactions (WIP)
+
+For those who have tried AKASHA before you will notice how smooth things go compared to the first release(s). The user experience has been streamlined and, overall, it feels like a solid step forward towards what AKASHA will become.
+
+In the meantime, we hope you enjoy this release!
 
 
 #### Instructions For Windows Pioneers:
@@ -55,6 +59,8 @@ As a word of caution, since it is an alpha, this dapp comes with all the instabi
 
 Failures, glitches and random errors **should be expected**. In case you stumble upon one, [please open an issue](https://github.com/AkashaProject/Alpha/issues/new){:target="_blank"} and we’ll look into it as soon as possible. Remember that we’re just getting started - things should get better with each release.
 
-Let's explore together what lies beyond The Tipping Point.
+What lies beyond The Tipping Point? 
+
+Let's find out together!
 
 ![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
