@@ -4,15 +4,15 @@ title: "The Tipping Point"
 timezone: Europe/Zurich
 date: 2017-02-01 00:00:01
 future: true
-image: ethereum-bg3.jpg
+image: ethereum-tipping.jpg
 comments: true
 tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release
 draft: true
 ---
 
-Hello everyone, during the last couple of weeks we have been busy applying the lessons learned from the first releases, fixing bugs and implemented new features. Many thanks, again, to everyone for your support and kind words following the first alpha versions! 
+Hello everyone, during the last couple of weeks we have been busy applying the lessons learned from the first releases, fixing bugs and implemented new features.
 
-As a token of our deep appreciation we bring you the next AKASHA iteration named *The Tipping Point*.
+Many thanks, again, to everyone for your support and kind words following the first alpha versions! As a token of our deep appreciation we bring to you *The Tipping Point*.
 
 The latest release (0.4.0) includes numerous bug fixes and improvements while also introducing new features such as:
 
@@ -56,11 +56,9 @@ The latest release (0.4.0) includes numerous bug fixes and improvements while al
 *	Create an AKASHA identity
 *	Log in and enjoy AKASHA
 
-As a word of caution, since it is an alpha, it comes with all the instability associated with early experiments - just as the first flight attempts were not necessarily safe or comfortable. 
+As a word of caution, since it is an alpha, this dapp comes with all the instability associated with early experiments - just as the first flight attempts were not necessarily safe or comfortable. 
 
-Failures, glitches and random errors **should be expected**. In case you stumble upon one, [please open an issue](https://github.com/AkashaProject/Alpha/issues/new){:target="_blank"} on our GitHub repo and we’ll look into it as soon as possible. 
-
-That being said, remember that we’re just getting started - things should get better with each release.
+Failures, glitches and random errors **should be expected**. In case you stumble upon one, [please open an issue](https://github.com/AkashaProject/Alpha/issues/new){:target="_blank"} and we’ll look into it as soon as possible. Remember that we’re just getting started - things should get better with each release.
 
 Let's explore together what lies beyond The Tipping Point.
 
