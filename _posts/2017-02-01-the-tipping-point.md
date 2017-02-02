@@ -16,7 +16,7 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 
 *The Tipping Point* includes numerous bug fixes and improvements while also introducing new features such as:
 
-* Tipping
+#### Tipping
 
 ![Tipping]({{ site.baseurl }}/content/images/tip1.jpg)
 ![Tipping]({{ site.baseurl }}/content/images/tip2.jpg)
@@ -27,11 +27,11 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 
 
 
-* A new stream view for displaying recent posts across the AKASHA network, regardless of tags
+#### A new stream view for displaying recent posts across the AKASHA network, regardless of tags
 
 ![Comments]({{ site.baseurl }}/content/images/latest.jpg)
 
-* Comment threading & replies 
+#### Comment threading & replies 
 
 ![Comments]({{ site.baseurl }}/content/images/threads.jpg)
 
@@ -39,7 +39,7 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 
 * New comments notification while navigating the discussion 
 
-* Whisper Chatrooms
+#### Whisper Chatrooms
 ![whisper reddit]({{ site.baseurl }}/content/images/redditwhisper.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels1.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels2.jpg)
