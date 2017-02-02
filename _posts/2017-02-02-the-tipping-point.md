@@ -11,9 +11,9 @@ draft: true
 ---
 
 
-After an amazing alpha public release we have been busy applying the lessons learned, fixing bugs and implementing new features. These past couple of weeks have been intense and filled with excitement. Many thanks, again, to everyone for the warm welcome and kind words following the first alpha versions!
+The last couple of weeks have been (very) intense and filled with excitement. After an amazing alpha public release we have been busy applying the lessons learned, fixing bugs and implementing new features. Many thanks, again, to everyone for the warm welcome and kind words following the first alpha versions!
 
-As a token of appreciation we bring to you *The Tipping Point*, the latest 0.4.0 release. 
+Today, as a token of appreciation, we bring to you *The Tipping Point* - the latest AKASHA release. 
 
 *The Tipping Point* (0.4.0) includes numerous bug fixes and improvements while also introducing new features such as:
 
