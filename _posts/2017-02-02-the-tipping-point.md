@@ -2,7 +2,7 @@
 layout: post
 title: "The Tipping Point"
 timezone: Europe/Zurich
-date: 2017-02-01 00:00:01
+date: 2017-02-02 00:00:01
 future: true
 image: ethereum-tipping.jpg
 comments: true
@@ -10,7 +10,7 @@ tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release
 draft: true
 ---
 
-Hello everyone, during the last couple of weeks we have been busy applying the lessons learned from the first releases, fixing bugs and implementing new features. Many thanks, again, to everyone for your support and kind words following the first alpha versions! 
+Hello everyone! During the last couple of weeks we have been busy applying the lessons learned from the first releases, fixing bugs and implementing new features. Pfew! Many thanks, again, to everyone for your support and kind words following the first alpha versions! 
 
 As a token of appreciation we bring to you *The Tipping Point*, the latest 0.4.0 release. 
 
@@ -43,6 +43,11 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest 0.4.0
 ![Comments]({{ site.baseurl }}/content/images/threads.jpg)
 
 
+### New comments notification while navigating discussion 
+
+![Comments]({{ site.baseurl }}/content/images/commentnotification.jpg)
+
+
 ### Silence notifications from a specific user
 
 ![Silence]({{ site.baseurl }}/content/images/silence1.jpg)
@@ -62,11 +67,9 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest 0.4.0
 ![hover card]({{ site.baseurl }}/content/images/profilehover1.jpg)
 ![hover card]({{ site.baseurl }}/content/images/profilehovertip.jpg)
 
-* New comments notification while navigating the discussion 
-
 * Gas abstraction for most interactions (WIP)
 
-For those who have tried AKASHA before you will notice an overall improvement compared the first release(s). The streamlined UX and various optimizations make *The Tipping Point* feel like a solid step forward.
+For those who have tried AKASHA before you will notice an overall improvement compared the first release(s). The streamlined UX and various optimizations make *The Tipping Point* feel like a solid step forward. Gas abstraction is something we'll have to work on a bit more, but you can already feel the difference :)
 
 #### Instructions For Windows Pioneers:
 
