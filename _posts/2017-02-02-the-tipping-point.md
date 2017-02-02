@@ -10,7 +10,7 @@ tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release
 draft: true
 ---
 
-Hello everyone! During the last couple of weeks we have been busy applying the lessons learned from the first releases, fixing bugs and implementing new features. Pfew! Many thanks, again, to everyone for your support and kind words following the first alpha versions! 
+Hello everyone! During the last couple of weeks we have been busy applying the lessons learned from the first releases, fixing bugs and implementing new features. Pfew! Many thanks, again, to everyone for your support and kind words following the first alpha versions!
 
 As a token of appreciation we bring to you *The Tipping Point*, the latest 0.4.0 release. 
 
