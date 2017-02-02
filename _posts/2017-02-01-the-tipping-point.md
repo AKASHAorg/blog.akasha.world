@@ -24,6 +24,7 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest 0.4.0
 ![Tipping]({{ site.baseurl }}/content/images/tip4.jpg)
 ![Tipping]({{ site.baseurl }}/content/images/tip5.jpg)
 
+
 ### Entry editing & versioning
 
 ![Entries]({{ site.baseurl }}/content/images/version1.jpg)
@@ -31,18 +32,22 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest 0.4.0
 ![Entries]({{ site.baseurl }}/content/images/version3.jpg)
 ![Entries]({{ site.baseurl }}/content/images/version4.jpg)
 
+
 ### Latest entries across the network, regardless of tags
 
 ![Latest]({{ site.baseurl }}/content/images/latest.jpg)
+
 
 ### Comment threading & replies 
 
 ![Comments]({{ site.baseurl }}/content/images/threads.jpg)
 
+
 ### Silence notifications from a specific user
 
 ![Silence]({{ site.baseurl }}/content/images/silence1.jpg)
 ![Silence]({{ site.baseurl }}/content/images/silence2.jpg)
+
 
 ### Whisper Chatrooms
 ![whisper reddit]({{ site.baseurl }}/content/images/redditwhisper.jpg)
@@ -50,6 +55,7 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest 0.4.0
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels2.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels3.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels4.jpg)
+
 
 ### Profile hover card for easy access to Follow & Send Tip
 ![hover card]({{ site.baseurl }}/content/images/profilehover.jpg)
