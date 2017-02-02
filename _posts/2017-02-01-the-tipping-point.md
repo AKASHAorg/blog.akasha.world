@@ -30,9 +30,13 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 
 * Whisper Chatrooms
 ![whisper reddit]({{ site.baseurl }}/content/images/redditwhisper.jpg)
+Prescient /r/ethereum question
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels1.jpg)
+IRC style chatrooms
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels2.jpg)
+Join chatrooms
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels3.jpg)
+Or just chill
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels4.jpg)
 
 * Profile hover card for easy access to actions such as “follow” and “send tip” for entries, chat and comments
