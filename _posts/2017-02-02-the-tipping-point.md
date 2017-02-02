@@ -19,6 +19,8 @@ Today, as a token of appreciation, we bring to you *The Tipping Point* - the lat
 
 ### Tipping
 
+------
+
 ![Tipping]({{ site.baseurl }}/content/images/tip1.jpg)
 ![Tipping]({{ site.baseurl }}/content/images/tip2.jpg)
 ![Tipping]({{ site.baseurl }}/content/images/tip3.jpg)
@@ -28,6 +30,8 @@ Today, as a token of appreciation, we bring to you *The Tipping Point* - the lat
 
 ### Entry editing & versioning
 
+------
+
 ![Entries]({{ site.baseurl }}/content/images/version1.jpg)
 ![Entries]({{ site.baseurl }}/content/images/version2.jpg)
 ![Entries]({{ site.baseurl }}/content/images/version3.jpg)
@@ -36,26 +40,37 @@ Today, as a token of appreciation, we bring to you *The Tipping Point* - the lat
 
 ### Latest entries across the network, regardless of tags
 
+------
+
 ![Latest]({{ site.baseurl }}/content/images/latest.jpg)
 
 
 ### Comment threading & replies 
+
+------
 
 ![Comments]({{ site.baseurl }}/content/images/threads.jpg)
 
 
 ### New comments notification while navigating discussion 
 
+------
+
 ![Comments]({{ site.baseurl }}/content/images/commentnotification.jpg)
 
 
 ### Silence notifications from a specific user
+
+------
 
 ![Silence]({{ site.baseurl }}/content/images/silence1.jpg)
 ![Silence]({{ site.baseurl }}/content/images/silence2.jpg)
 
 
 ### Whisper Chatrooms
+
+------
+
 ![whisper reddit]({{ site.baseurl }}/content/images/redditwhisper.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels1.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels2.jpg)
@@ -64,6 +79,9 @@ Today, as a token of appreciation, we bring to you *The Tipping Point* - the lat
 
 
 ### Profile hover card for easy access to Follow & Send Tip
+
+------
+
 ![hover card]({{ site.baseurl }}/content/images/profilehover.jpg)
 ![hover card]({{ site.baseurl }}/content/images/profilehover1.jpg)
 ![hover card]({{ site.baseurl }}/content/images/profilehovertip.jpg)
