@@ -7,7 +7,7 @@ future: true
 image: ethereum-tipping.jpg
 comments: true
 tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release
-draft: true
+published: true
 ---
 
 
