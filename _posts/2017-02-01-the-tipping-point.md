@@ -25,10 +25,14 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 
 #### Entry editing & versioning
 
+![Entries]({{ site.baseurl }}/content/images/version1.jpg)
+![Entries]({{ site.baseurl }}/content/images/version2.jpg)
+![Entries]({{ site.baseurl }}/content/images/version3.jpg)
+![Entries]({{ site.baseurl }}/content/images/version4.jpg)
 
 #### Latest entries across the AKASHA network, regardless of tags
 
-![Comments]({{ site.baseurl }}/content/images/latest.jpg)
+![Latest]({{ site.baseurl }}/content/images/latest.jpg)
 
 #### Comment threading & replies 
 
@@ -38,8 +42,6 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 
 ![Silence]({{ site.baseurl }}/content/images/silence1.jpg)
 ![Silence]({{ site.baseurl }}/content/images/silence2.jpg)
-
-* New comments notification while navigating the discussion 
 
 #### Whisper Chatrooms
 ![whisper reddit]({{ site.baseurl }}/content/images/redditwhisper.jpg)
@@ -53,7 +55,9 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 ![hover card]({{ site.baseurl }}/content/images/profilehover1.jpg)
 ![hover card]({{ site.baseurl }}/content/images/profilehovertip.jpg)
 
-#### Gas abstraction for most interactions (WIP)
+* New comments notification while navigating the discussion 
+
+* Gas abstraction for most interactions (WIP)
 
 
 For those who have tried AKASHA before you will notice an overall improvement compared the first release(s). The streamlined user experience and various optimizations make *The Tipping Point* a solid step forward towards what AKASHA will become.
