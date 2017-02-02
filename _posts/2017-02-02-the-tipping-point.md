@@ -10,7 +10,8 @@ tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release
 draft: true
 ---
 
-Hello everyone! During the last couple of weeks we have been busy applying the lessons learned from the first releases, fixing bugs and implementing new features. Pfew! Many thanks, again, to everyone for your support and kind words following the first alpha versions!
+
+After an amazing alpha public release we have been busy applying the lessons learned, fixing bugs and implementing new features. These past couple of weeks have been intense and filled with excitement. Many thanks, again, to everyone for the warm welcome and kind words following the first alpha versions!
 
 As a token of appreciation we bring to you *The Tipping Point*, the latest 0.4.0 release. 
 
@@ -69,7 +70,9 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest 0.4.0
 
 * Gas abstraction for most interactions (WIP)
 
-For those who have tried AKASHA before you will notice an overall improvement compared the first release(s). The streamlined UX and various optimizations make *The Tipping Point* feel like a solid step forward. Gas abstraction is something we'll have to work on a bit more, but you can already feel the difference :)
+For those who have tried AKASHA before you will notice an overall improvement compared the first release(s). 
+
+The streamlined UX and various optimizations make *The Tipping Point* feel like a solid step forward. Gas abstraction is something we'll have to work on a bit more, but you can already feel the difference :) But enough said, it's even better to experience it yourself:
 
 #### Instructions For Windows Pioneers:
 
@@ -97,7 +100,7 @@ For those who have tried AKASHA before you will notice an overall improvement co
 
 As a word of caution, since it is an alpha, this dapp comes with all the instability associated with early experiments - just as the first flight attempts were not necessarily safe or comfortable. 
 
-Failures, glitches and random errors **should be expected**. In case you stumble upon one, [please open an issue](https://github.com/AkashaProject/Alpha/issues/new){:target="_blank"} and we’ll look into it as soon as possible. 
+Failures, glitches and random errors **should be expected**. In case you stumble upon something that doesn't work as it should, [please open an issue](https://github.com/AkashaProject/Alpha/issues/new){:target="_blank"} and we’ll look into it as soon as possible. 
 
 Remember that we’re just getting started - things should get better with each release.
 
