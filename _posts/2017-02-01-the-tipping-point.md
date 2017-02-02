@@ -18,11 +18,22 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 
 * Tipping
 
+![Tipping]({{ site.baseurl }}/content/images/tip1.jpg)
+![Tipping]({{ site.baseurl }}/content/images/tip2.jpg)
+![Tipping]({{ site.baseurl }}/content/images/tip3.jpg)
+![Tipping]({{ site.baseurl }}/content/images/tip4.jpg)
+
 * Entry editing & versioning
+
+
 
 * A new stream view for displaying recent posts across the AKASHA network, regardless of tags
 
-* Comment threading and replies 
+![Comments]({{ site.baseurl }}/content/images/latest.jpg)
+
+* Comment threading & replies 
+
+![Comments]({{ site.baseurl }}/content/images/threads.jpg)
 
 * Silence notifications from a specific user
 
@@ -35,7 +46,7 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels3.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels4.jpg)
 
-* Profile hover card for easy access to actions such as ***Follow*** and **Send Tip** for entries, chat and comments
+* Profile hover card for easy access to actions such as ***Follow*** & ***Send Tip***
 ![hover card]({{ site.baseurl }}/content/images/profilehover.jpg)
 ![hover card]({{ site.baseurl }}/content/images/profilehover1.jpg)
 ![hover card]({{ site.baseurl }}/content/images/profilehovertip.jpg)
