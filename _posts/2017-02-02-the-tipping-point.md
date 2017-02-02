@@ -124,7 +124,7 @@ Failures, glitches and random errors **should be expected**. In case you stumble
 
 Remember that we’re just getting started - things should get better with each release.
 
-What lies beyond [*The Tipping Point*](https://github.com/AkashaProject/Alpha/releases/tag/0.4.0)? 
+What lies beyond [*The Tipping Point*](https://github.com/AkashaProject/Alpha/releases/tag/0.4.0){:target="_blank"}? 
 
 ![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
 
