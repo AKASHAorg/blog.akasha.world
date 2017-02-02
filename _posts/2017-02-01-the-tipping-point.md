@@ -23,11 +23,10 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 ![Tipping]({{ site.baseurl }}/content/images/tip3.jpg)
 ![Tipping]({{ site.baseurl }}/content/images/tip4.jpg)
 
-* Entry editing & versioning
+#### Entry editing & versioning
 
 
-
-#### A new stream view for displaying recent posts across the AKASHA network, regardless of tags
+#### Latest entries across the AKASHA network, regardless of tags
 
 ![Comments]({{ site.baseurl }}/content/images/latest.jpg)
 
@@ -35,7 +34,10 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 
 ![Comments]({{ site.baseurl }}/content/images/threads.jpg)
 
-* Silence notifications from a specific user
+#### Silence notifications from a specific user
+
+![Silence]({{ site.baseurl }}/content/images/silence1.jpg)
+![Silence]({{ site.baseurl }}/content/images/silence2.jpg)
 
 * New comments notification while navigating the discussion 
 
@@ -46,12 +48,12 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest relea
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels3.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels4.jpg)
 
-* Profile hover card for easy access to actions such as ***Follow*** & ***Send Tip***
+#### Profile hover card for easy access to Follow & Send Tip
 ![hover card]({{ site.baseurl }}/content/images/profilehover.jpg)
 ![hover card]({{ site.baseurl }}/content/images/profilehover1.jpg)
 ![hover card]({{ site.baseurl }}/content/images/profilehovertip.jpg)
 
-* Gas abstraction for most interactions (WIP)
+#### Gas abstraction for most interactions (WIP)
 
 
 For those who have tried AKASHA before you will notice an overall improvement compared the first release(s). The streamlined user experience and various optimizations make *The Tipping Point* a solid step forward towards what AKASHA will become.
