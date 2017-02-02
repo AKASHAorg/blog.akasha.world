@@ -88,9 +88,11 @@ Today, as a token of appreciation, we bring to you *The Tipping Point* - the lat
 
 * Gas abstraction for most interactions (WIP)
 
-For those who have tried AKASHA before you will notice an overall improvement compared the first release(s). 
+Those who have tried AKASHA before  will notice an overall improvement compared the first release(s). 
 
-The streamlined UX and various optimizations make *The Tipping Point* feel like a solid step forward. Gas abstraction is something we'll have to work on a bit more, but you can already feel the difference :) But enough said, it's even better to experience it yourself:
+The streamlined UX and various optimizations make *The Tipping Point* feel like a solid step forward. Gas abstraction is something we'll have to work on a bit more, but you can already feel the difference :) 
+
+But enough said, it's even better to experience it yourself:
 
 #### Instructions For Windows Pioneers:
 
