@@ -16,41 +16,42 @@ As a token of appreciation we bring to you *The Tipping Point*, the latest 0.4.0
 
 *The Tipping Point* (0.4.0) includes numerous bug fixes and improvements while also introducing new features such as:
 
-#### Tipping
+### Tipping
 
 ![Tipping]({{ site.baseurl }}/content/images/tip1.jpg)
 ![Tipping]({{ site.baseurl }}/content/images/tip2.jpg)
 ![Tipping]({{ site.baseurl }}/content/images/tip3.jpg)
 ![Tipping]({{ site.baseurl }}/content/images/tip4.jpg)
+![Tipping]({{ site.baseurl }}/content/images/tip5.jpg)
 
-#### Entry editing & versioning
+### Entry editing & versioning
 
 ![Entries]({{ site.baseurl }}/content/images/version1.jpg)
 ![Entries]({{ site.baseurl }}/content/images/version2.jpg)
 ![Entries]({{ site.baseurl }}/content/images/version3.jpg)
 ![Entries]({{ site.baseurl }}/content/images/version4.jpg)
 
-#### Latest entries across the AKASHA network, regardless of tags
+### Latest entries across the network, regardless of tags
 
 ![Latest]({{ site.baseurl }}/content/images/latest.jpg)
 
-#### Comment threading & replies 
+### Comment threading & replies 
 
 ![Comments]({{ site.baseurl }}/content/images/threads.jpg)
 
-#### Silence notifications from a specific user
+### Silence notifications from a specific user
 
 ![Silence]({{ site.baseurl }}/content/images/silence1.jpg)
 ![Silence]({{ site.baseurl }}/content/images/silence2.jpg)
 
-#### Whisper Chatrooms
+### Whisper Chatrooms
 ![whisper reddit]({{ site.baseurl }}/content/images/redditwhisper.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels1.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels2.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels3.jpg)
 ![whisper IRC]({{ site.baseurl }}/content/images/whisperchannels4.jpg)
 
-#### Profile hover card for easy access to Follow & Send Tip
+### Profile hover card for easy access to Follow & Send Tip
 ![hover card]({{ site.baseurl }}/content/images/profilehover.jpg)
 ![hover card]({{ site.baseurl }}/content/images/profilehover1.jpg)
 ![hover card]({{ site.baseurl }}/content/images/profilehovertip.jpg)
