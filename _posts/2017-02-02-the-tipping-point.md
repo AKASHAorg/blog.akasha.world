@@ -11,7 +11,7 @@ published: true
 ---
 
 
-The last couple of weeks have been (very) intense and filled with excitement. After an amazing alpha public release we have been busy applying the lessons learned, fixing bugs and implementing new features. Many thanks, again, to everyone for the warm welcome and kind words following the first alpha versions!
+The last couple of weeks have been (very) intense and filled with excitement. After an [amazing alpha public release](http://blog.akasha.world/2017/01/16/into-the-ether/){:target="_blank"} we have been busy applying the lessons learned, fixing bugs and implementing new features. Many thanks, again, to everyone for the warm welcome and kind words following the first alpha versions!
 
 Today, as a token of appreciation, we bring to you *The Tipping Point* - the latest AKASHA release. 
 
