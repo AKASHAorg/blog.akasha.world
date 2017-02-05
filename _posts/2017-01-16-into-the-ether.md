@@ -82,7 +82,7 @@ History is in the making and this time, we’re writing it **together** - *Into 
 
 ![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
 
-*Note that the downloading links have been updated with the latest 0.4.0 release, The Tipping Point (February 2nd 2017)
+*Note that the downloading links have been updated with the latest 0.4.0 release, [The Tipping Point](http://blog.akasha.world/2017/02/02/the-tipping-point/) (February 2nd 2017)
 
 ----
 
