@@ -20,7 +20,7 @@ Following the initial results of this searching experiment we plan to expand it 
 
 Another highlight comes from the **over 1000 entries published in a completely decentralized fashion using smart contracts+IPFS**, and we are **rapidly approaching 2000 identities created on AKASHA**. Yaaay! On this note, the first user from Kenya joined us a couple of days ago and we are looking forward to the moment when this project turns into a global movement. \o/
 
-All in all, it seems that we are gaining momentum and it *still* feels like we’re only getting started.
+All in all, we are gaining momentum and it *still* feels like we’re only getting started.
 
 Bellow you can find a few screenshots exemplifying the latest features:
 
