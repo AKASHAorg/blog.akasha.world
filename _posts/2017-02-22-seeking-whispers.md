@@ -10,11 +10,11 @@ tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release, Paris, EDCON
 draft: true
 ---
 
-Hello again everyone! Today we bring you a brand new AKASHA release named *Seeking Whispers*. The latest 0.5 version contains multiple bug fixes and introduces new features such as Whisper based searching, easy identity backup, mentions and…*drums in the background*…GIF support!
+Hello again everyone! Today we bring you a brand new AKASHA release named *Seeking Whispers*. The latest 0.5 version contains multiple bug fixes and introduces new features such as Whisper based searching, easy identity backup, mentions and…*drums in the background*…**GIF support!**
 
 Among the bugs fixed we also squashed the famous *“link of death”* bug which was stopping users from publishing and saving drafts containing embedded links (sorry about that one -_-;)
 
-The spotlight of this release revolves around the Whisper search experiment since it enables truly private searches by not revealing the identity of the person making the request. As far as I am aware we might be the first ones using Whisper for this purpose and so far it seems like there's real potential here - big kudos go to Marius for the idea and implementation. 
+The spotlight for this release revolves around the Whisper search experiment since it enables **truly private searches by not revealing the identity of the person making the request.** As far as I am aware, we might be the first ones using Whisper for this purpose and so far it seems like there's real potential here for enhancing user privacy online - **big kudos go to Marius** for the idea and implementation. 
 
 Following the initial results of this searching experiment we plan to implement it also for people and the rest of the sections that will be rolled out in the near-mid future.
 
@@ -22,9 +22,7 @@ Another highlight comes from the **over 1000 entries published** in a completely
 
 All in all, it seems that we are gaining momentum and it *still* feels like we’re only getting started.
 
-That being said, after this release we want to focus on refactoring the code, preparing things in the meantime for the moment in which we will open source AKASHA. Expect a slow down in the next month or two when it comes to new features - but it will definitely be worth it in the long run. Thank you for your understanding! ^_^
-
-Bellow you can find a few screenshots exemplifying the features:
+Bellow you can find a few screenshots exemplifying the latest features:
 
 *Whisper based search
 
@@ -77,10 +75,16 @@ Instructions For Linux Pioneers:
 
 Just as with the last releases, the general rule of thumb for is `“If something breaks, refresh the dapp.”` Since it is an alpha, it comes with all the instability associated with early experiments - just as the first flight attempts were not necessarily safe or comfortable. 
 
-Failures, glitches and random errors should be expected. In case you stumble upon one, [please open an issue](https://github.com/AkashaProject/Alpha/issues) on our GitHub repo and we’ll look into it as soon as possible. 
+Failures, glitches and random errors should be expected. In case you stumble upon one, [please open an issue](https://github.com/AkashaProject/Alpha/issues){:target="_blank"} on our GitHub repo and we’ll look into it as soon as possible. 
 
 We’re looking forward to hearing your thoughts and we hope you will enjoy this release!
 
-PS: This is a short video covering what happened “in the meantime” while development was taking place since AKASHA was part of the EDCON event organized in Paris. The full recorded talk will follow soon :)
+After this release we want to focus on refactoring the code, preparing things in the meantime for the moment in which we will open source AKASHA. That being said, expect a slow down in new features added in the coming weeks but be sure that it will  be worth it in the long run since we're playing *the long game*.
+
+Thank you for your understanding! ^_^
+
+PS: This is a short video covering what happened “in the meantime” while development was taking place as AKASHA was part of the EDCON event organized in Paris. 
+
+The full recorded talk will follow soon :)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6AOj_K-9AIY" frameborder="0" allowfullscreen></iframe>
