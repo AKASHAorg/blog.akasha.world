@@ -6,7 +6,7 @@ date: 2017-02-22 00:00:01
 future: true
 image: whisper.jpg
 comments: true
-tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release, Paris, EDCON
+tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release, Paris, EDCON, Conference
 draft: true
 ---
 
@@ -18,7 +18,9 @@ The spotlight for this release revolves around the Whisper search experiment sin
 
 Following the initial results of this searching experiment we plan to expand it also for people and the rest of the sections that will be rolled out in the near-mid future.
 
-Another highlight comes from the **over 1000 entries published in a completely decentralized fashion using smart contracts+IPFS**, and we are **rapidly approaching 2000 identities created on AKASHA**. Yaaay! On this note, the first user from Kenya joined us a couple of days ago and we are looking forward to the moment when this project turns into a global movement. \o/
+Another highlight comes from the **over 1000 entries published in a completely decentralized fashion using smart contracts+IPFS**, and we are **rapidly approaching 2000 identities created on AKASHA**. Yaaay! On this note, the first user from Kenya joined us a couple of days ago and we are looking forward to the moment when this project turns into a global movement. 
+
+\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/
 
 All in all, we are gaining momentum and it *still* feels like we’re only getting started.
 
