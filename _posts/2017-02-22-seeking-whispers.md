@@ -7,7 +7,7 @@ future: true
 image: ethereum-tipping.jpg
 comments: true
 tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release
-published: true
+draft: true
 ---
 
 Hello again everyone! Today we bring you a brand new AKASHA release named *Seeking Whispers*. The latest 0.5 version contains multiple bug fixes and introduces new features such as Whisper based searching, easy identity backup, mentions and…*drums in the background*…GIF support!
