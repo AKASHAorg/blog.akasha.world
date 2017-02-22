@@ -18,7 +18,7 @@ The spotlight for this release revolves around the Whisper search experiment sin
 
 Following the initial results of this searching experiment we plan to implement it also for people and the rest of the sections that will be rolled out in the near-mid future.
 
-Another highlight comes from the **over 1000 entries published** in a completely decentralized fashion using smart contracts/IPFS, and we are rapidly approaching 2000 identities created on AKASHA. Yaaay! On this note, the first user from Kenya joined us a couple of days ago and we are looking forward to the moment where the project turns into a global movement. 
+Another highlight comes from the **over 1000 entries published in a completely decentralized fashion using smart contracts+IPFS**, and we are **rapidly approaching 2000 identities created on AKASHA**. Yaaay! On this note, the first user from Kenya joined us a couple of days ago and we are looking forward to the moment when this project turns into a global movement. \o/
 
 All in all, it seems that we are gaining momentum and it *still* feels like we’re only getting started.
 
@@ -79,11 +79,11 @@ Failures, glitches and random errors should be expected. In case you stumble upo
 
 We’re looking forward to hearing your thoughts and we hope you will enjoy this release!
 
-After this release we want to focus on refactoring the code, preparing things in the meantime for the moment in which we will open source AKASHA. That being said, expect a slow down in new features added in the coming weeks but be sure that it will  be worth it in the long run since we're playing *the long game*.
+After this release we want to focus on refactoring the code and prepare things for the moment in which we will open source AKASHA. That being said, expect a slow down in new features added in the coming weeks but be sure that it will  be worth it in the long run.
 
 Thank you for your understanding! ^_^
 
-PS: This is a short video covering what happened “in the meantime” while development was taking place as AKASHA was part of the EDCON event organized in Paris. 
+PS: This is a short video covering the journey to EDCON in Paris while development was taking place in Bucharest. It was an inspiring trip and our first conference at which we presented AKASHA - many thanks, again, to everyone for the warm welcome!
 
 The full recorded talk will follow soon :)
 
