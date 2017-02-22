@@ -14,9 +14,9 @@ Hello again everyone! Today we bring you a brand new AKASHA release named *Seeki
 
 Among the bugs fixed we also squashed the famous *“link of death”* bug which was stopping users from publishing and saving drafts containing embedded links (sorry about that one -_-;)
 
-The spotlight for this release revolves around the Whisper search experiment since it enables **truly private searches by not revealing the identity of the person making the request.** As far as I am aware, we might be the first ones using Whisper for this purpose and so far it seems like there's real potential here for enhancing user privacy online - **big kudos go to Marius** for the idea and implementation. 
+The spotlight for this release revolves around the Whisper search experiment since it enables **truly private searches by not revealing the identity of the person making the request.** As far as I am aware, we might be the first ones using Whisper for this purpose and it seems like there's real potential here for enhancing user privacy online - **big kudos go to Marius** for the idea and implementation. 
 
-Following the initial results of this searching experiment we plan to implement it also for people and the rest of the sections that will be rolled out in the near-mid future.
+Following the initial results of this searching experiment we plan to expand it also for people and the rest of the sections that will be rolled out in the near-mid future.
 
 Another highlight comes from the **over 1000 entries published in a completely decentralized fashion using smart contracts+IPFS**, and we are **rapidly approaching 2000 identities created on AKASHA**. Yaaay! On this note, the first user from Kenya joined us a couple of days ago and we are looking forward to the moment when this project turns into a global movement. \o/
 
