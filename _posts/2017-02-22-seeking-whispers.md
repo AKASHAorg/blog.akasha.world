@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Tipping Point"
+title: "Seeking Whispers"
 timezone: Europe/Zurich
-date: 2017-02-02 00:00:01
+date: 2017-02-22 00:00:01
 future: true
 image: ethereum-tipping.jpg
 comments: true
-tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release
+tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release, Paris, EDCON
 draft: true
 ---
 
