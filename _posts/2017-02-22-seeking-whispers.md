@@ -98,4 +98,4 @@ And to conclude, this is a short video covering our journey to EDCON in Paris wh
 
 <iframe width="720" height="340" src="https://www.youtube.com/embed/6AOj_K-9AIY" frameborder="0" allowfullscreen></iframe>
 
-The full recorded talk will follow soon :)
+The full recording of the AKASHA presentation will follow soon :)
