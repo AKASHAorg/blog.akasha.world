@@ -94,8 +94,8 @@ Please note that following this release we want to focus on refactoring the code
 
 Thank you for your understanding! ^_^
 
+<iframe width="720" height="340" src="https://www.youtube.com/embed/6AOj_K-9AIY" frameborder="0" allowfullscreen></iframe>
+
 PS: This is a short video covering our journey to EDCON in Paris while development was taking place in our Bucharest hacklab. It was an inspiring trip and this was our first conference at which we presented AKASHA - many thanks, again, to everyone for the warm welcome!
 
 The full recorded talk will follow soon :)
-
-<iframe width="720" height="340" src="https://www.youtube.com/embed/6AOj_K-9AIY" frameborder="0" allowfullscreen></iframe>
