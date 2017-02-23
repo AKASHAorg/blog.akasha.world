@@ -59,29 +59,29 @@ Moving on, you can find a few screenshots exemplifying the latest features bello
 
 Without further ado, we bring to you the latest download links:
 
-##### Instructions For Windows Pioneers:
+#### Instructions For Windows Pioneers:
 
-* Download the .exe installer or the .zip archive from our official alpha GitHub repo
-* Run the installer or extract the files contained in the .zip file
-* Open the AKASHA dapp and synchronize with the network
-* Create an AKASHA identity (profile)
-* Log in and enjoy AKASHA
+* Download the [.exe installer](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-win-x64-0.5.0.exe){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-win-x64-0.5.0.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/Alpha/releases/tag/0.5.0){:target="_blank"}
+*	Run the installer or extract the files contained in the .zip file
+*	Open the AKASHA dapp and synchronize with the network
+*	Create an AKASHA identity (profile)
+*	Log in and enjoy AKASHA
 
-##### Instructions For Mac Pioneers:
+#### Instructions For Mac Pioneers:
 
-* Download the .dmg installer or the .zip archive from our official alpha GitHub repo
-* Run the installer or extract the files contained in the .zip file
-* Open the AKASHA dapp and synchronize with the network
-* Create an AKASHA identity
-* Log in and enjoy AKASHA
+*	Download the [.dmg installer](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-macosx-0.5.0.dmg){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-macosx-0.5.0.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/Alpha/releases/tag/0.5.0){:target="_blank"}
+*	Run the installer or extract the files contained in the .zip file
+*	Open the AKASHA dapp and synchronize with the network
+*	Create an AKASHA identity
+*	Log in and enjoy AKASHA
 
-##### Instructions For Linux Pioneers:
+#### Instructions For Linux Pioneers:
 
-* Download the .deb installer or the .zip archive from our official alpha GitHub repo
-* Run the installer or extract the files contained in the .zip file
-* Open the AKASHA dapp and synchronize with the network
-* Create an AKASHA identity
-* Log in and enjoy AKASHA
+*	Download the [.deb installer](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-linux-x64-0.5.0.deb){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-linux-x64-0.5.0.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/Alpha/releases/tag/0.5.0){:target="_blank"}
+*	Run the installer or extract the files contained in the .zip file
+*	Open the AKASHA dapp and synchronize with the network
+*	Create an AKASHA identity
+*	Log in and enjoy AKASHA
 
 
 Just as with the last releases, the general rule of thumb for is `“If something breaks, refresh the dapp.”` Since it is an alpha, it comes with all the instability associated with early experiments - just as the first flight attempts were not necessarily safe or comfortable. 
@@ -94,8 +94,8 @@ Please note that following this release we want to focus on refactoring the code
 
 Thank you for your understanding! ^_^
 
-<iframe width="720" height="340" src="https://www.youtube.com/embed/6AOj_K-9AIY" frameborder="0" allowfullscreen></iframe>
+And to conclude, this is a short video covering our journey to EDCON in Paris while development on this release was taking place in our Bucharest hacklab. It was an inspiring trip and this was our first conference at which we presented AKASHA - **many thanks, again, to everyone for the warm welcome!** 
 
-PS: This is a short video covering our journey to EDCON in Paris while development was taking place in our Bucharest hacklab. It was an inspiring trip and this was our first conference at which we presented AKASHA - many thanks, again, to everyone for the warm welcome!
+<iframe width="720" height="340" src="https://www.youtube.com/embed/6AOj_K-9AIY" frameborder="0" allowfullscreen></iframe>
 
 The full recorded talk will follow soon :)
