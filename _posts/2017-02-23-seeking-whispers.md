@@ -14,7 +14,7 @@ Greetings everyone! Following the energetic last couple of weeks, filled with ha
 
 Among the bugs fixed we also squashed the famous *“link of death”* bug which was stopping users from publishing and saving drafts containing embedded links (sorry about that one -_-;)
 
-The Whisper search experiment featured in in this release is very interesting since it enables **truly private searches by not revealing the identity of the person making the request.** As far as I am aware, we might be the first ones using Whisper for this purpose and from our experience it seems like there's real potential here for enhancing user privacy online - **big kudos go to Marius** for the idea and implementation. 
+The Whisper search experiment featured in this release is very interesting since it enables **truly private searches by not revealing the identity of the person making the request.** As far as I am aware, we might be the first ones using Whisper for this purpose and from our experience it seems like there's real potential here for enhancing user privacy online - **big kudos go to Marius** for the idea and implementation. 
 
 Following the initial results of this searching experiment we plan to expand it also for people and the rest of the sections that will be rolled out in the near-mid future. 
 
