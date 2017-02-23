@@ -10,11 +10,11 @@ tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release, Paris, EDCON, Conferenc
 draft: true
 ---
 
-Hello again everyone! Today we bring you a brand new AKASHA release named *Seeking Whispers*. The latest 0.5 version contains multiple bug fixes and introduces new features such as Whisper based searching, easy identity backup, mentions and…*drums in the background*…**GIF support!**
+Greetings everyone! Following the energetic last couple of weeks, filled with hard work and emotions, we bring you a new AKASHA release named *Seeking Whispers*. The latest 0.5 version contains multiple bug fixes and introduces new features such as Whisper based searching, easy identity backup, mentions and … *drums in the background* … **GIF support!**
 
 Among the bugs fixed we also squashed the famous *“link of death”* bug which was stopping users from publishing and saving drafts containing embedded links (sorry about that one -_-;)
 
-The Whisper search experiment featured in in this release is quite interesting since it enables **truly private searches by not revealing the identity of the person making the request.** As far as I am aware, we might be the first ones using Whisper for this purpose and from our experience it seems like there's real potential here for enhancing user privacy online - **big kudos go to Marius** for the idea and implementation. 
+The Whisper search experiment featured in in this release is very interesting since it enables **truly private searches by not revealing the identity of the person making the request.** As far as I am aware, we might be the first ones using Whisper for this purpose and from our experience it seems like there's real potential here for enhancing user privacy online - **big kudos go to Marius** for the idea and implementation. 
 
 Following the initial results of this searching experiment we plan to expand it also for people and the rest of the sections that will be rolled out in the near-mid future. 
 
@@ -96,8 +96,10 @@ Please note that following this release we want to focus on refactoring the code
 
 Thank you for your understanding! ^_^
 
-And to conclude, this is a short video covering our journey to EDCON in Paris while development on this release was taking place in our Bucharest hacklab. It was an inspiring trip and this was our first conference at which we presented AKASHA - **many thanks, again, to everyone for the amazing welcome!** 
+And to conclude, this is a short video covering our journey to EDCON in Paris while development on this release was taking place in our Bucharest hacklab - **BIG UP for the amazing work done by this amazing team!** The trip was inspiring and marked our first conference at which we presented AKASHA - **many thanks, again, to everyone for the warm welcome!** 
 
-<iframe width="720" height="340" src="https://www.youtube.com/embed/6AOj_K-9AIY" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="350" src="https://www.youtube.com/embed/EL26iitQ8gM" frameborder="0" allowfullscreen></iframe>
 
 The full recording of the AKASHA presentation will follow soon :)
+
+See you on [AKASHA](http://akasha.world/){:target="_blank"}!
