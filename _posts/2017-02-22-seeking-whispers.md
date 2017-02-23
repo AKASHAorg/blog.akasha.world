@@ -14,60 +14,69 @@ Hello again everyone! Today we bring you a brand new AKASHA release named *Seeki
 
 Among the bugs fixed we also squashed the famous *“link of death”* bug which was stopping users from publishing and saving drafts containing embedded links (sorry about that one -_-;)
 
-The spotlight for this release revolves around the Whisper search experiment since it enables **truly private searches by not revealing the identity of the person making the request.** As far as I am aware, we might be the first ones using Whisper for this purpose and it seems like there's real potential here for enhancing user privacy online - **big kudos go to Marius** for the idea and implementation. 
+The Whisper search experiment featured in in this release is quite interesting as it enables **truly private searches by not revealing the identity of the person making the request.** As far as I am aware, we might be the first ones using Whisper for this purpose and from our experience it seems like there's real potential here for enhancing user privacy online - **big kudos go to Marius** for the idea and implementation. 
 
-Following the initial results of this searching experiment we plan to expand it also for people and the rest of the sections that will be rolled out in the near-mid future.
+Following the initial results of this searching experiment we plan to expand it also for people and the rest of the sections that will be rolled out in the near-mid future. Whispers everywhere - shh!
 
-Another highlight comes from the **over 1000 entries published in a completely decentralized fashion using smart contracts+IPFS**, and we are **rapidly approaching 2000 identities created on AKASHA**. Yaaay! On this note, the first user from Kenya joined us a couple of days ago and we are looking forward to the moment when this project turns into a global movement. 
+On another note, we reached a historical milestone **over 1000 entries published in a completely decentralized fashion using smart contracts+IPFS** as we are **rapidly approaching 2000 identities created on AKASHA**. Yaaay! 
 
-\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/\o/
+\o/ \o/ \o/ \o/ \o/ \o/ \o/ \o/ \o/ \o/
 
-All in all, we are gaining momentum and it *still* feels like we’re only getting started.
+All in all, it feels like we are gaining momentum and we'd like to thank *you*, the *Community*, for this! All the support and encouraging words motivate us and really brings the best in us out!
 
-Bellow you can find a few screenshots exemplifying the latest features:
+Moving on, you can find a few screenshots exemplifying the latest features bellow:
 
-*Whisper based search
-
-(screenshot)
-
-*Mentions in entries and comments (chat coming soon)
+**Whisper based search**
 
 (screenshot)
 
-*Identity backup
+--------
+
+**Mentions in entries and comments (chat coming soon)**
 
 (screenshot)
 
-*Notifications settings from Feed
+--------
+
+**Identity backup**
+
 
 (screenshot)
 
-*.Gif support
+--------
+
+**Notifications settings from Feed**
 
 (screenshot)
 
-*Improved image resize and quality
+--------
+
+**.Gif support**
 
 (screenshot)
 
+---------
 
 Without further ado, we bring to you the latest download links:
 
-Instructions For Windows Pioneers:
+##### Instructions For Windows Pioneers:
+
 * Download the .exe installer or the .zip archive from our official alpha GitHub repo
 * Run the installer or extract the files contained in the .zip file
 * Open the AKASHA dapp and synchronize with the network
 * Create an AKASHA identity (profile)
 * Log in and enjoy AKASHA
 
-Instructions For Mac Pioneers:
+##### Instructions For Mac Pioneers:
+
 * Download the .dmg installer or the .zip archive from our official alpha GitHub repo
 * Run the installer or extract the files contained in the .zip file
 * Open the AKASHA dapp and synchronize with the network
 * Create an AKASHA identity
 * Log in and enjoy AKASHA
 
-Instructions For Linux Pioneers:
+##### Instructions For Linux Pioneers:
+
 * Download the .deb installer or the .zip archive from our official alpha GitHub repo
 * Run the installer or extract the files contained in the .zip file
 * Open the AKASHA dapp and synchronize with the network
@@ -81,12 +90,12 @@ Failures, glitches and random errors should be expected. In case you stumble upo
 
 We’re looking forward to hearing your thoughts and we hope you will enjoy this release!
 
-After this release we want to focus on refactoring the code and prepare things for the moment in which we will open source AKASHA. That being said, expect a slow down in new features added in the coming weeks but be sure that it will  be worth it in the long run.
+Please note that following this release we want to focus on refactoring the code and prepare things for the next stage leading to the moment in which we will open source AKASHA. That being said, expect a slow down in new features added in the coming weeks but be sure that it will  be worth it in the long run.
 
 Thank you for your understanding! ^_^
 
-PS: This is a short video covering the journey to EDCON in Paris while development was taking place in Bucharest. It was an inspiring trip and our first conference at which we presented AKASHA - many thanks, again, to everyone for the warm welcome!
+PS: This is a short video covering our journey to EDCON in Paris while development was taking place in our Bucharest hacklab. It was an inspiring trip and this was our first conference at which we presented AKASHA - many thanks, again, to everyone for the warm welcome!
 
 The full recorded talk will follow soon :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6AOj_K-9AIY" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="340" src="https://www.youtube.com/embed/6AOj_K-9AIY" frameborder="0" allowfullscreen></iframe>
