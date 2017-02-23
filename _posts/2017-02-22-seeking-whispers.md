@@ -14,15 +14,17 @@ Hello again everyone! Today we bring you a brand new AKASHA release named *Seeki
 
 Among the bugs fixed we also squashed the famous *“link of death”* bug which was stopping users from publishing and saving drafts containing embedded links (sorry about that one -_-;)
 
-The Whisper search experiment featured in in this release is quite interesting as it enables **truly private searches by not revealing the identity of the person making the request.** As far as I am aware, we might be the first ones using Whisper for this purpose and from our experience it seems like there's real potential here for enhancing user privacy online - **big kudos go to Marius** for the idea and implementation. 
+The Whisper search experiment featured in in this release is quite interesting since it enables **truly private searches by not revealing the identity of the person making the request.** As far as I am aware, we might be the first ones using Whisper for this purpose and from our experience it seems like there's real potential here for enhancing user privacy online - **big kudos go to Marius** for the idea and implementation. 
 
-Following the initial results of this searching experiment we plan to expand it also for people and the rest of the sections that will be rolled out in the near-mid future. Whispers everywhere - shh!
+Following the initial results of this searching experiment we plan to expand it also for people and the rest of the sections that will be rolled out in the near-mid future. 
+
+*Whispers everywhere - shh!*
 
 On another note, we reached a historical milestone **over 1000 entries published in a completely decentralized fashion using smart contracts+IPFS** as we are **rapidly approaching 2000 identities created on AKASHA**. Yaaay! 
 
 \o/ \o/ \o/ \o/ \o/ \o/ \o/ \o/ \o/ \o/
 
-All in all, it feels like we are gaining momentum and we'd like to thank *you*, the *Community*, for this! All the support and encouraging words motivate us and really brings the best in us out!
+All in all, it feels like we are gaining momentum and we'd like to thank *you*, the *Community*, for this! All your support and encouraging words motivate us and really brings out the best in us!
 
 Moving on, you can find a few screenshots exemplifying the latest features bellow:
 
@@ -90,11 +92,11 @@ Failures, glitches and random errors should be expected. In case you stumble upo
 
 We’re looking forward to hearing your thoughts and we hope you will enjoy this release!
 
-Please note that following this release we want to focus on refactoring the code and prepare things for the next stage leading to the moment in which we will open source AKASHA. That being said, expect a slow down in new features added in the coming weeks but be sure that it will  be worth it in the long run.
+Please note that following this release we want to focus on refactoring the code and prepare things for the next stage leading to open sourcing AKASHA. That being said, expect a slow down in new features added in the coming weeks but be sure that it will  be worth it in the long run.
 
 Thank you for your understanding! ^_^
 
-And to conclude, this is a short video covering our journey to EDCON in Paris while development on this release was taking place in our Bucharest hacklab. It was an inspiring trip and this was our first conference at which we presented AKASHA - **many thanks, again, to everyone for the warm welcome!** 
+And to conclude, this is a short video covering our journey to EDCON in Paris while development on this release was taking place in our Bucharest hacklab. It was an inspiring trip and this was our first conference at which we presented AKASHA - **many thanks, again, to everyone for the amazing welcome!** 
 
 <iframe width="720" height="340" src="https://www.youtube.com/embed/6AOj_K-9AIY" frameborder="0" allowfullscreen></iframe>
 
