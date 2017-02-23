@@ -28,34 +28,39 @@ All in all, it feels like we are gaining momentum and we'd like to thank *you*, 
 
 Moving on, you can find a few screenshots exemplifying the latest features bellow:
 
-**Whisper based search**
+### Whisper based search
 
-(screenshot)
+![Search]({{ site.baseurl }}/content/images/save1.jpg)
+
+![Search]({{ site.baseurl }}/content/images/save2.jpg)
 
 --------
 
 **Mentions in entries and comments (chat coming soon)**
 
-(screenshot)
+![Mentions]({{ site.baseurl }}/content/images/mention-entry.jpg)
+
 
 --------
 
 **Identity backup**
 
 
-(screenshot)
+![Backup]({{ site.baseurl }}/content/images/backup1.jpg)
+
+![Backup]({{ site.baseurl }}/content/images/backup2.jpg)
 
 --------
 
-**Notifications settings from Feed**
+### Profile hover card from chat for easy tipping
 
-(screenshot)
+![Hover chat]({{ site.baseurl }}/content/images/hover-chat.jpg)
 
 --------
 
 **.Gif support**
 
-(screenshot)
+![GIFS]({{ site.baseurl }}/content/images/gif-time.jpg)
 
 ---------
 
