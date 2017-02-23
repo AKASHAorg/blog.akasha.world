@@ -28,7 +28,7 @@ All in all, it feels like we are gaining momentum and we'd like to thank *you*, 
 
 Moving on, you can find a few screenshots exemplifying the latest features bellow:
 
-### Whisper based search
+#### Whisper based search
 
 ![Search]({{ site.baseurl }}/content/images/save1.jpg)
 
@@ -36,14 +36,14 @@ Moving on, you can find a few screenshots exemplifying the latest features bello
 
 --------
 
-**Mentions in entries and comments (chat coming soon)**
+#### Mentions in entries and comments (chat coming soon)
 
 ![Mentions]({{ site.baseurl }}/content/images/mention-entry.jpg)
 
 
 --------
 
-**Identity backup**
+#### Identity backup
 
 
 ![Backup]({{ site.baseurl }}/content/images/backup1.jpg)
@@ -52,13 +52,13 @@ Moving on, you can find a few screenshots exemplifying the latest features bello
 
 --------
 
-### Profile hover card from chat for easy tipping
+#### Profile hover card from chat for easy tipping
 
 ![Hover chat]({{ site.baseurl }}/content/images/hover-chat.jpg)
 
 --------
 
-**.Gif support**
+#### GIFs, GIFs, GIFs
 
 ![GIFS]({{ site.baseurl }}/content/images/gif-time.jpg)
 
