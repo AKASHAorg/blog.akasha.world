@@ -96,7 +96,7 @@ But enough said, it's even better to experience it yourself:
 
 #### Instructions For Windows Pioneers:
 
-* Download the [.exe installer](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-win-x64-0.5.0.exe){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-win-x64-0.5.0.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/Alpha/releases/tag/0.5.0){:target="_blank"}
+* Download the [.exe installer](https://github.com/AkashaProject/Alpha/releases/download/0.5.1/AKASHA-win-x64-0.5.1.exe){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/Alpha/releases/download/0.5.1/AKASHA-win-x64-0.5.1.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/Alpha/releases/tag/0.5.1){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
 *	Create an AKASHA identity (profile)
@@ -104,7 +104,7 @@ But enough said, it's even better to experience it yourself:
 
 #### Instructions For Mac Pioneers:
 
-*	Download the [.dmg installer](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-macosx-0.5.0.dmg){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-macosx-0.5.0.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/Alpha/releases/tag/0.5.0){:target="_blank"}
+*	Download the [.dmg installer](https://github.com/AkashaProject/Alpha/releases/download/0.5.1/AKASHA-macosx-0.5.1.dmg){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/Alpha/releases/download/0.5.1/AKASHA-macosx-0.5.1.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/Alpha/releases/tag/0.5.1){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
 *	Create an AKASHA identity
@@ -112,11 +112,12 @@ But enough said, it's even better to experience it yourself:
 
 #### Instructions For Linux Pioneers:
 
-*	Download the [.deb installer](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-linux-x64-0.5.0.deb){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/Alpha/releases/download/0.5.0/AKASHA-linux-x64-0.5.0.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/Alpha/releases/tag/0.5.0){:target="_blank"}
+*	Download the [.deb installer](https://github.com/AkashaProject/Alpha/releases/download/0.5.1/AKASHA-linux-x64-0.5.1.deb){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/Alpha/releases/download/0.5.1/AKASHA-linux-x64-0.5.1.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/Alpha/releases/tag/0.5.1){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
 *	Create an AKASHA identity
 *	Log in and enjoy AKASHA
+
 
 As a word of caution, since it is an alpha, this dapp comes with all the instability associated with early experiments - just as the first flight attempts were not necessarily safe or comfortable. 
 
@@ -130,4 +131,4 @@ What lies beyond [*The Tipping Point*](https://github.com/AkashaProject/Alpha/re
 
 Let's find out together!
 
-*Note that the downloading links have been updated with the latest 0.5.0 release, [Seeking Whispers](http://blog.akasha.world/2017/02/23/seeking-whispers/) (February 23rd 2017)
+**Note that the downloading links have been updated with the latest 0.5.1 release, Akashic Mendings (March 2nd 2017)*
