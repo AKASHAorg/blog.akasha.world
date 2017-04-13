@@ -125,7 +125,7 @@ Step by step, service by service, and application by application we can build so
 
 It will not be easy, but we can do it, **together.** 
 
-[Join us in this odyssey into the ether.](http://akasha.world/){:target="_blank"}
+[Join us in this odyssey into the ether!](https://blog.akasha.world/2017/01/16/into-the-ether/){:target="_blank"}
 
 <iframe width="680" height="380" src="https://www.youtube.com/embed/lmc21V-zBq0" frameborder="0" allowfullscreen></iframe>
 
