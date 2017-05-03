@@ -7,7 +7,7 @@ future: true
 image: starmap.jpg
 comments: true
 tags: AKASHA, Ethereum, IPFS, Alpha, Pre-Alpha, Release, Anniversary, Success
-draft: true
+published: true
 ---
 
 On this [very special day](https://en.wikipedia.org/wiki/World_Press_Freedom_Day){:target="_blank"}, one year ago, [we unveiled AKASHA](https://blog.akasha.world/2016/05/03/unveiling-akasha/){:target="_blank"} and called for brave people to join us in the quest for a better Web. It was a complete shot in the dark but we were cautiously optimistic. Luckily, [the response](https://blog.akasha.world/2016/05/26/update-highlights-and-interesting-developments/){:target="_blank"} exceeded even our most optimistic expectations. While some of us we were secretly hoping to reach 100 signups in the first month; over 200 people signed up in less than 24 hours. 
