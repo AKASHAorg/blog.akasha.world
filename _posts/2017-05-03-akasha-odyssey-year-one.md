@@ -74,7 +74,7 @@ Make no mistake, it took many experiments to get where we are today, and you, th
 
 Thanks to you, AKASHA serves as a home to **over 3000 decentralized identities and almost 2000 censorship-resistant articles - summing up about 4000 micro-transaction votes.**
 
-**In less than four months since the alpha public release, **we have proven together that the idea can work and we are already starting to understand how we can make it work better!** 
+**In less than four months since the alpha public release, we have proven together that the idea can work and we are already starting to understand how we can make it work better!** 
 
 I think it is time to declare that the first stages of the experiment were a **resounding SUCCESS**!  \o/ \o/ \o/
 
