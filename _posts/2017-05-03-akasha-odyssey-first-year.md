@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Odyssey Into The Ether Continues"
+title: "An Odyssey of Discovery"
 timezone: Europe/Zurich
 date: 2017-05-03 00:00:01
 future: true
@@ -127,7 +127,7 @@ We figured that if the idea and product are solid then “the money” will foll
 
 Just a few weeks ago [Vlad Zamfir](https://twitter.com/VladZamfir){:target="_blank"} visited our hacklab and shared his wisdom. It was a ***fun week*** filled with brainstorming sessions and insightful moments. Among many things, we have explored the concept of continuous token models and how the idea could fit into the whole puzzle. 
 
-![Juan Benet IPFS AKASHA]({{ site.baseurl }}/content/images/vlad-zamfir-akasha.jpg) 
+![Vlad Zamfir AKASHA]({{ site.baseurl }}/content/images/vlad-zamfir-akasha.jpg) 
 
 We filled the whiteboard with ideas and made notes in anticipation for the next step.
 
