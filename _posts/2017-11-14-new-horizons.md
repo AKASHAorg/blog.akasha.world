@@ -169,7 +169,7 @@ Together we think we can find some really satisfying answers to these questions!
 
 Also, **to add a little extra incentive to the mix, IF a token 2.0 will result from this experiment we are contemplating allowing ONLY the Ethereum keys created in the AKASHA alpha and beta to participate in the crowdsale. This means that only the people that have helped with testing the AKASHA alpha and beta version will be included in the AKASHA ONE token genesis event.** 
 
-**This way we would reward the people testing the application with the right to participate in the main Ethereum network genesis, and even those that are seeking just to trade or flip the token(s) will end up contributing through their simple participation in the beta.**
+**This way we would reward the people testing the application with the right to participate in the main Ethereum network genesis, and even those that are seeking just to trade or flip the token(s) will end up contributing toward improving our code through their simple participation in the beta.**
 
 We’re looking forward to hearing the community’s thoughts on this!
 
