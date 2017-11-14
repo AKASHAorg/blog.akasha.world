@@ -205,7 +205,7 @@ We will reach new levels of understanding and possibilities.
 
 Two years After Ethereum, “How far can we take it?!” is still a question without an answer. 
 
-[Join us in the beta and et’s find out together!](https://akasha.world/){:target="_blank"}
+**Join us in the beta and [let’s find out together!](https://akasha.world/){:target="_blank"}**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dd-ajiMl4HY" frameborder="0" allowfullscreen></iframe>
 
