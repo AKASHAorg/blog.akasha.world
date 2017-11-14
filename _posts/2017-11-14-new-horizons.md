@@ -143,7 +143,7 @@ Below you can find an overview of the flow between the states above and how they
 
 ![Token States Flow]({{ site.baseurl }}/content/images/aeth-flow.jpg)
 
-More information alongside the full model will be released on the AKASHA beta, which takes us to the next topic.
+More information can be found in our presentation and the full model will be released on the AKASHA beta, which takes us to the next topic.
 
 ### Crowdsourced Crypto Economics: Towards Token 2.0
 
