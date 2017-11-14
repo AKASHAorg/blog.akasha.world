@@ -100,7 +100,7 @@ Even if the 100K milestone might seem a bit crazy, the current biggest Ethereum 
 
 If we can uncover insights and answers to questions such as “Should we actively engage the Ethereum mining community for raising the gas limits in anticipation of the main chain deployment?” and “What would be the gas limit that allows AKASHA and the entire Ethereum ecosystem to comfortably coexist on the same chain?” we think that we’ll be well on our way to a successful launch.
 
-With this in mind, we invite everyone to join us on our new Discord channel while we build the necessary tools to have the entire community organizing and chatting in AKASHA directly.
+With this in mind, we invite everyone to [join us on our new Discord channel](https://discordapp.com/invite/JqqKasJ){:target="_blank"} while we build the necessary tools to have the entire community organizing and chatting in AKASHA directly.
 
 ### Highlight: The AETH Crypto Economic Experiment
 
