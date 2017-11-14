@@ -8,7 +8,7 @@ tags: test, en
 draft: true
 ---
 
-Many, many things happened since our last update. Following our last alpha release, we started working on an entirely new dapp, in parallel with a complete redesign of the whole user experience. In other words, the sparse updates were not caused by a lack of activity, quite the opposite. Now, after much hard work, we are extremely happy to change gears and announce that **the signups for the AKASHA beta version are now open!** \o/
+Many, many things happened since our last update. Following our last alpha release, we started working on an entirely new dapp, in parallel with a complete redesign of the whole user experience. In other words, the sparse updates were not caused by a lack of activity, quite the opposite. Now, after much hard work, we are extremely happy to change gears and announce that **[the signups for the AKASHA beta version are now open!](https://akasha.world/){:target="_blank"}** \o/
 
 ### DEVCON 3: Strength in Numbers
 
