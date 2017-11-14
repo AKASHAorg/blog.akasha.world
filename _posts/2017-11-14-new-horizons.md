@@ -80,7 +80,7 @@ The assumption, in this case, is that the more people who will try the beta, the
 
 Also, since the beta will be living on a public test network, we can begin exploring the synergies with other projects from the ecosystem, with ENS being just one simple yet meaningful example.
 
-### Main Beta Mission: Stress Testing
+### Main Beta Mission: Push The Limits
 
 ![Stress Testing]({{ site.baseurl }}/content/images/devcon-stage2.jpg)
 
@@ -148,6 +148,8 @@ Below you can find an overview of the flow between the states above and how they
 More information can be found in our presentation and the full model will be released on the AKASHA beta, which takes us to the next topic.
 
 ### Crowdsourced Crypto Economics: Towards Token 2.0
+
+![TokensTokensTokens]({{ site.baseurl }}/content/images/stargate-blueprint.jpg)
 
 This first (and presumably imperfect) theoretical design of AETH will be live tested with real participants in the beta release. The token architecture and future direction will be discussed openly on the AKASHA dapp under various tags such as #akasha #bugbounty #CryptoOlympics #AETHresearch etc.
 
