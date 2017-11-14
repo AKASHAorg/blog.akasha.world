@@ -34,7 +34,7 @@ Words cannot explain the emotions overwhelming us. Those interested in watching 
 
 ### A Peek Behind The Curtain: From Alpha To Beta And Beyond
 
-![Blueprint]({{ site.baseurl }}/content/images/stargate-blueprint.jpg)
+![DEVCON Stage]({{ site.baseurl }}/content/images/devcon-stage.jpg)
 
 During the past ten months we have been focusing on the following:
 
