@@ -82,7 +82,7 @@ Also, since the beta will be living on a public test network, we can begin explo
 
 ### Main Beta Mission: Stress Testing
 
-![Stress Testing]({{ site.baseurl }}/content/images/ethereum-tipping.jpg)
+![Stress Testing]({{ site.baseurl }}/content/images/devcon-stage2.jpg)
 
 The beta smart contracts have been deployed on the Rinkeby test network and are undergoing intense tests at the moment. A big BIG UP to Peter from Ethereum Foundation for all the help to get things working!
 
