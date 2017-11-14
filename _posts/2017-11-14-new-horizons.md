@@ -173,6 +173,8 @@ We’re looking forward to hearing the community’s thoughts on this!
 
 ### The End? Nope, Just Another Beginning!
 
+![Seatbelts On!]({{ site.baseurl }}/content/images/Dragonv2.jpg)
+
 > “The paths are not to be found, but made. And the activity of making them changes both the maker and the destination.” — John Schaar
 
 The unknown is part of every adventure. 
