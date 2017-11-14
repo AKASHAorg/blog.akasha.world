@@ -84,7 +84,7 @@ Also, since the beta will be living on a public test network, we can begin explo
 
 ![Stress Testing]({{ site.baseurl }}/content/images/devcon-stage2.jpg)
 
-The beta smart contracts have been deployed on the Rinkeby test network and are undergoing intense tests at the moment. A big THANK YOU goes to Péter Szilágyi from Ethereum Foundation for all the help to get things working!
+The beta smart contracts have been deployed on the Rinkeby test network and are undergoing intense tests at the moment. A big THANK YOU goes to [Péter Szilágyi](https://twitter.com/peter_szilagyi){:target="_blank"} and the Ethereum Go team for all the help to get things working!
 
 We invite everyone in the Community to join us in the beta release because we need help with:
 
