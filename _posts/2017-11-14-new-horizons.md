@@ -12,7 +12,7 @@ Many, many things happened since our last update. Following our last alpha relea
 
 ### DEVCON 3: Strength in Numbers
 
-![AKASHA in Cancun]({{ site.baseurl }}/content/images/akasha-in-cancun.jpg)
+![AKASHA in Cancun]({{ site.baseurl }}/content/images/akasha-team.jpg)
 
 The [DEVCON 3 event](https://ethereumfoundation.org/devcon3/){:target="_blank"} was our second Ethereum conference participating as the AKASHA project, and it was *impressive*. The sheer number of people present at the event was simply astonishing. We couldn’t really imagine what a group of ~2000 looked like before, but now we can. 
 
