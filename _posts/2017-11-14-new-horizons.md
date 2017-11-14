@@ -80,7 +80,7 @@ The assumption, in this case, is that the more people who will try the beta, the
 
 Also, since the beta will be living on a public test network, we can begin exploring the synergies with other projects from the ecosystem, with ENS being just one simple yet meaningful example.
 
-### Main Beta Mission: Push The Limits
+### Main Beta Mission: Pushing The Limits
 
 ![Stress Testing]({{ site.baseurl }}/content/images/devcon-stage2.jpg)
 
