@@ -32,6 +32,8 @@ Words cannot explain the emotions overwhelming us. Those interested in watching 
 
 ### A Peek Behind The Curtain: From Alpha To Beta And Beyond
 
+![Blueprint]({{ site.baseurl }}/content/images/stargate-blueprint.jpg)
+
 During the past ten months we have been focusing on the following:
 
 - Building a fully functional AKASHA web version with IPFS.js and Metamask
@@ -77,6 +79,8 @@ The assumption, in this case, is that the more people who will try the beta, the
 Also, since the beta will be living on a public test network, we can begin exploring the synergies with other projects from the ecosystem, with ENS being just one simple yet meaningful example.
 
 ### Main Beta Mission: Stress Testing
+
+![Stress Testing]({{ site.baseurl }}/content/images/ethereum-tipping.jpg)
 
 The beta smart contracts have been deployed on the Rinkeby test network and are undergoing intense tests at the moment. A big BIG UP to Peter from Ethereum Foundation for all the help to get things working!
 
