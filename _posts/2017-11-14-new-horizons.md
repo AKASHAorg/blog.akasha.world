@@ -28,6 +28,8 @@ Fast forwarding to November 4th, at 4:20 PM we were making the final preparation
 
 This was the first time we were showcasing our progress in months, and it was the biggest event we participated in as presenters. After an initial tech hiccup (inevitably) we managed to get the presentation going, and the audience was simply fantastic. For those of you that read these lines and were present - THANK YOU, YOU ARE AWESOME!
 
+![DEVCON ON]({{ site.baseurl }}/content/images/devcon-on.jpg)
+
 Words cannot explain the emotions overwhelming us. Those interested in watching the presentation and the beta demo can find the video at the bottom of this post, next to the Beta signup links!
 
 ### A Peek Behind The Curtain: From Alpha To Beta And Beyond
