@@ -108,7 +108,7 @@ With this in mind, we invite everyone to [join us on our new Discord channel](ht
 
 After long discussions and thought experiments, we chose the starting point for our token exploration. A big ‘thank you’ is in order for everyone who participated in the conversations that culminated in this first token iteration! 
 
-![States Overview]({{ site.baseurl }}/content/images/token-states.jpg)
+![States Overview]({{ site.baseurl }}/content/images/token-states2.jpg)
 
 The AETH token is currently modeled to have multiple states, with the token being transferable in some states and non-transferable in others. The introduction of states in the token brings with it, in theory, a system of checks and delays that should alleviate some of the problems associated with manipulation and Sybil attacks. 
 
