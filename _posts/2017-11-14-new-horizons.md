@@ -209,7 +209,7 @@ Two years After Ethereum, “How far can we take it?!” is still a question wit
 
 **Join us in the beta and [let’s find out together!](https://akasha.world/){:target="_blank"}**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dd-ajiMl4HY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ugbRyZSPfYE?rel=0&amp;showinfo=0&amp;start=12680" frameborder="0" allowfullscreen></iframe>
 
 
 ----
