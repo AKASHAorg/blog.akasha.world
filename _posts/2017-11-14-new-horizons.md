@@ -115,9 +115,9 @@ The AETH token is currently modeled to have multiple states, with the token bein
 Here is a brief AETH states overview, followed by a short explanation for each:
 
 - **AETH** is a transferable, ERC 20 compatible token, living on the Rinkeby test network
-- **Mana** is non-transferable and is obtained by locking AETH for X time at Y ratio (Manafied AETH). The Mana amount regenerates every Z blocks for as long as AETH remains locked, in a “Manafied” state.
+- **Mana** is non-transferable and is obtained by locking AETH for X time at Y ratio (Manafied AETH). The Mana amount regenerates every day for as long as AETH remains locked, in a “Manafied” state.
 - **Essence** is non-transferable and is obtained through positive contributions. It can be burned to mint new AETH into existence. When people use their Mana to vote on artifacts, the authors can collect the burned Mana as Essence.
-- **Karma** is not a state, but rather a score tracking user contributions. For every unit of Essence collected, the user receives 10 units of Karma. Karma is used for defining milestones, thresholds and unlocking functionality within the dapp.
+- **Karma** is not a state, but rather a score tracking user contributions. For every unit of Essence collected, the user receives also Karma. Karma is used for defining milestones, thresholds and unlocking functionality within the dapp.
 
 ##### Aether
 AETH (Aether) implements an ERC 20 token interface and has the standard features found in most ERC 20 tokens, but with a twist - AETH can be “locked”/“staked” to generate Mana. The AETH can also be “unlocked”, after a predefined delay associated with this action, at the cost of Mana.
