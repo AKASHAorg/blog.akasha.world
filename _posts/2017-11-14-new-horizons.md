@@ -199,7 +199,7 @@ It would be refreshing to see more people approaching things from this perspecti
 
 At least this is what we want to achieve with our Crypto Economic Olympics - invite as much cross-disciplinary collaboration as possible in the search of truly groundbreaking ideas, no matter if they arise from “blockchain experts” (whatever that means), academicians, musicians, journalists or a gamer’s mind. 
 
-The more diverse the group searching for answers, the better our chances of uncovering entire flocks of black swans. The collective intelligence of the group increases with diversity, and one thousand half-baked ideas can come together into something completely new. 
+The more diverse the group searching for answers, the better our chances of uncovering [entire flocks of black swans](https://en.wikipedia.org/wiki/Black_swan_theory){:target="_blank"}. The collective intelligence of the group increases with diversity, and one thousand half-baked ideas can come together into something completely new. 
 
 We don’t expect it to happen overnight, and it will probably take many iterations in the search for the best possible solutions.  Nonetheless, when that moment of insight is reached, the collective mind will identify it and nothing will ever be the same again. 
 
