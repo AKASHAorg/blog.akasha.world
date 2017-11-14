@@ -30,7 +30,7 @@ This was the first time we were showcasing our progress in months, and it was th
 
 ![DEVCON ON]({{ site.baseurl }}/content/images/devcon-on.jpg)
 
-Words cannot explain the emotions overwhelming us. Those interested in watching the presentation and the beta demo can find the video at the bottom of this post, next to the Beta signup links!
+Words cannot explain the emotions overwhelming us. Those interested in watching the presentation and the beta demo can find the video at the bottom of this post, next to the Beta signup link!
 
 ### A Peek Behind The Curtain: From Alpha To Beta And Beyond
 
