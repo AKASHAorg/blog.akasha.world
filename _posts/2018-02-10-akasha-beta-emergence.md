@@ -179,7 +179,9 @@ Linux users can also install the dap via [snapcraft](https://snapcraft.io/){:tar
 
 **See you in the new world of AKASHA! \o/**
 
-Oh, and while you sync, feel free to join the reddit conversation here! :)
+Oh, and while you sync, feel free to join the reddit conversation here! 
+
+Next time, hopefully, we can have the conversation in the AKASHA Web version :)
 
 ![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
 
@@ -191,7 +193,7 @@ Important notes:
 
 3. **Do not send real ETH (ether) to your in-dapp addresses. The dapp works with test ETH and is currently deployed on a test network. But don't worry, we got your back - you will receive test ETH and test AETH tokens when creating your account.**
 
-4. **The Ethereum Rinkeby test network blockchain needs ~3GB of diskspace in "Normal Sync", around ~500MB in "Light Sync" and should take about 30 minutes. The Web version (coming soon) will not need to sync as it will rely on Metamask for the blockchain interactions**
+4. **The Ethereum Rinkeby test network blockchain needs ~3GB of diskspace in "Normal Sync", around ~500MB in "Light Sync" and should take about ~30 minutes. The Web version (coming soon) will not need to sync as it will rely on Metamask for the blockchain interactions**
 
 5. **Please be aware that this is a beta and by no means a final product. We expect AKASHA to evolve a lot in the first years and we see you, the Community, as the main source of this evolution. Thank you for your understanding!**
 
