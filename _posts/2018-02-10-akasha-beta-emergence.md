@@ -16,7 +16,7 @@ It’s no coincidence that Ethereum is the world’s first blockchain smashing t
 
 Who knows? :)
 
-[ethereum-transactions]
+![AKASHA]({{ site.baseurl }}/content/images/ethereum-transactions.png)
 
 We can already glance the potential ecosystem advancements develop and try our best to guess the impact one discovery can have in the bigger picture for everyone – think, for example, [Proof of Stake](https://github.com/ethereum/casper), [Plasma Chains](https://github.com/omisego/plasma-mvp), [Sharding](https://github.com/ethereum/sharding), [State Channels](https://github.com/raiden-network/raiden/) and [zk-SNARKs](https://z.cash/blog/ethereum-snarks.html).
 
