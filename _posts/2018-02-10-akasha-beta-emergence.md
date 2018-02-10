@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "New Horizons"
+title: "The Emergence"
 date:   2018-02-10 00:00:01
-image: akasha-in-cancun.jpg
+image: trippy-space-background.jpg
 comments: true
-tags: AKASHA, Ethereum, IPFS, Beta, Release, DEVCON, Decentralized Social Network
+tags: AKASHA, Ethereum, IPFS, Beta, Release, dapp, Decentralized Social Network, Ethereum Social Network
 draft: true
 ---
 
