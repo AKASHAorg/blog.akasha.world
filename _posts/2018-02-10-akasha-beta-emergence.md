@@ -147,7 +147,7 @@ Before jumping into the ether, beware: **this is pioneering at its best, and thr
 
 Failures, glitches, and random errors **should be expected**.
 
-Just as with the alpha, we see this beta release as a humble starting point on top of which we can iterate and improve with you, the Community. **In the current form, AKASHA is only for the curious minds who don’t mind occasional bugs and understand that through their involvement, they can shape what this project will become.**
+Just as with the alpha, we see this beta release as a humble starting point on top of which we can iterate and improve with you, the Community. **In the current form, AKASHA is for the curious minds who don’t mind occasional bugs and understand that through their involvement, they can shape what this project will become.**
 
 And now, the brave ones are invited to jump *Into the Ether*!
 
@@ -179,7 +179,7 @@ Linux users can also install the dap via [snapcraft](https://snapcraft.io/){:tar
 
 **See you in the new world of AKASHA! \o/**
 
-Oh, and while you sync, feel free join the reddit conversation here! :)
+Oh, and while you sync, feel free to join the reddit conversation here! :)
 
 ![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
 
