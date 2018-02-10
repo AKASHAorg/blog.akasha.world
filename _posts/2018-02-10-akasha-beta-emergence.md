@@ -156,7 +156,7 @@ And now, the brave ones are invited to jump *Into the Ether*!
 * Download the [.exe installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA.Setup.0.6.2.exe){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-win.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
-*	Create an AKASHA identity (profile)
+*	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
 *	Log in and enjoy AKASHA
 
 #### Instructions For Mac Pioneers:
@@ -164,7 +164,7 @@ And now, the brave ones are invited to jump *Into the Ether*!
 *	Download the [.dmg installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2.dmg){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-mac.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
-*	Create an AKASHA identity
+*	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
 *	Log in and enjoy AKASHA
 
 #### Instructions For Linux Pioneers:
@@ -172,13 +172,12 @@ And now, the brave ones are invited to jump *Into the Ether*!
 *	Download the [.deb installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA_0.6.2_amd64.deb){:target="_blank"}, [.AppImage](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-x86_64.AppImage){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
-*	Create an AKASHA identity
+*	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
 *	Log in and enjoy AKASHA
 
 Linux users can also install the dap via [snapcraft](https://snapcraft.io/){:target="_blank"} by running `snap install --classic akasha` (full permissions) or `snap install akasha` (strict mode). To update an existing snap install, run `snap refresh akasha`.
 
-**See you in the new world of [AKASHA.world! \o/](https://akasha.world/)**{:target="_blank"}
-
+**See you in the new world of AKASHA! \o/**
 
 Oh, and while you sync, feel free join the reddit conversation here! :)
 
