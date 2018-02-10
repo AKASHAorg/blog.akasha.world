@@ -153,7 +153,7 @@ And now, the brave ones are invited to jump *Into the Ether*!
 
 #### Instructions For Windows Pioneers:
 
-* Download the [.exe installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA.Setup.0.6.2.exe){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-win.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
+* Download the [.exe installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA.Setup.0.6.2.exe){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-win.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
 *	Create an AKASHA identity (profile)
@@ -161,7 +161,7 @@ And now, the brave ones are invited to jump *Into the Ether*!
 
 #### Instructions For Mac Pioneers:
 
-*	Download the [.dmg installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2.dmg){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-mac.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
+*	Download the [.dmg installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2.dmg){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-mac.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
 *	Create an AKASHA identity
@@ -169,7 +169,7 @@ And now, the brave ones are invited to jump *Into the Ether*!
 
 #### Instructions For Linux Pioneers:
 
-*	Download the [.deb installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA_0.6.2_amd64.deb){:target="_blank"}, [.AppImage](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-x86_64.AppImage){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2.zip){:target="_blank"} from our [official alpha GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
+*	Download the [.deb installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA_0.6.2_amd64.deb){:target="_blank"}, [.AppImage](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-x86_64.AppImage){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
 *	Create an AKASHA identity
