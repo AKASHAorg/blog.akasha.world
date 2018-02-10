@@ -179,9 +179,7 @@ Linux users can also install the dap via [snapcraft](https://snapcraft.io/){:tar
 
 **See you in the new world of AKASHA! \o/**
 
-Oh, and while you sync, feel free to join the reddit conversation here! 
-
-Next time, hopefully, we can have the conversation in the AKASHA Web version :)
+Next time, hopefully, we will have the conversation in the AKASHA Web version. In the meantime, while you sync, feel free to [join the reddit conversation here!](https://www.reddit.com/r/ethereum/){:target="_blank"} :)
 
 ![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
 
