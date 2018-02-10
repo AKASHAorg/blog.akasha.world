@@ -4,7 +4,7 @@ title: "The Emergence"
 date:   2018-02-10 00:00:01
 image: trippy-space-background.jpg
 comments: true
-tags: AKASHA, Ethereum, IPFS, Beta, Release, dapp, Decentralized Social Network, Ethereum Social Network
+tags: AKASHA, Ethereum, IPFS, Beta, dapp, Decentralized Social Network, Ethereum Social Network
 draft: true
 ---
 
@@ -177,7 +177,7 @@ And now, the brave ones are invited to jump *Into the Ether*!
 
 Linux users can also install the dap via [snapcraft](https://snapcraft.io/){:target="_blank"} by running `snap install --classic akasha` (full permissions) or `snap install akasha` (strict mode). To update an existing snap install, run `snap refresh akasha`.
 
-**See you in the new world - [akasha.world! \o/](https://akasha.world/){:target="_blank"}
+**See you in the new world of [akasha.world! \o/](https://akasha.world/){:target="_blank"}
 
 
 Oh, and while you sync, feel free join the reddit conversation here! :)
