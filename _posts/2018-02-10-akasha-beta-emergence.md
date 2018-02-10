@@ -117,6 +117,8 @@ More features waiting to be explored are lists for curating your favorite posts,
 
 ![AKASHA]({{ site.baseurl }}/content/images/aeth-wallet.png)
 
+We're looking forward to hearing your thoughts!
+
 #### Special Thanks
 
 ![AKASHA]({{ site.baseurl }}/content/images/internet-high5.jpg)
