@@ -5,7 +5,7 @@ date:   2018-02-10 00:00:01
 image: trippy-space-background.jpg
 comments: true
 tags: AKASHA, Ethereum, IPFS, Beta, dapp, Decentralized Social Network, Ethereum Social Network
-draft: true
+published: true
 ---
 
 Today marks the 927th day **A.E.** also known on planet Earth as 2 years, 6 months and 12 days **A**fter **E**thereum. Five million blocks after its [Genesis](https://etherscan.io/block/0){:target="_blank"}, the Ethereum ecosystem evolved into a planetary Community with [hundreds of thousands of people](https://www.meetup.com/topics/ethereum/){:target="_blank"} connected by a constellation of projects and teams working on their [dreams](https://www.stateofthedapps.com/){:target="_blank"}. It makes you wonder where the next 5 million blocks will take us.
@@ -125,7 +125,7 @@ We're looking forward to hearing your thoughts!
 
 A big thank you to all the alpha veterans and early beta testers for helping us reach this milestone. It took many experiments to get where we are today, and you shaped the course of this project through your involvement - we learned so much thanks to you!
 
-On this note, BIG UPS and kudos also for Marius Darila, Sever Abibula, Bogdan Brezuica, Roxana Sureanu, Valentin Cotea, Lorenzo Patuzzo, Mariana Gomes and the entire AKASHA team for turning what looked at times like a handful of people with big dreams into a working dapp on blockchainz - again. **Respect.**
+On this note, BIG UPS and kudos also for Marius Darila, Sever Abibula, Bogdan Brezuica, Roxana Sureanu, Valentin Cotea, Sebastian Rodriguez, Lorenzo Patuzzo, Mariana Gomes, and the entire AKASHA team for turning what looked at times like a handful of people with big dreams into a working dapp on blockchainz - again. **Respect.**
 
 Special thanks go to Peter Szilagy (@karalabe) for the bug fixes and improvements on the Go Ethereum client side such as [full event subscription support in abigen](https://github.com/ethereum/go-ethereum/wiki/Native-DApps:-Go-bindings-to-Ethereum-contracts#go-binding-generator){:target="_blank"}, the help provided when deploying our smart contracts on the Rinkeby test network and the many GitHub issues reporting bugs in the early beta releases.
 
@@ -179,7 +179,7 @@ Linux users can also install the dap via [snapcraft](https://snapcraft.io/){:tar
 
 **See you in the new world of AKASHA! \o/**
 
-Next time, hopefully, we will have the conversation in the AKASHA Web version. In the meantime, while you sync, feel free to [join the conversation on reddit!](https://www.reddit.com/r/ethereum/){:target="_blank"} :)
+Next time, hopefully, we will have the conversation on the AKASHA Web version. In the meantime, while you sync, feel free to [join the conversation on reddit!](https://www.reddit.com/r/ethereum/){:target="_blank"} :)
 
 ![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
 
