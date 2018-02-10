@@ -46,7 +46,7 @@ With this in mind, we hope that people and projects from around the world will f
 
 If the Ethereum ecosystem is imagined as a synergistic organism, we see [AKASHA](https://akasha.world/) as its natural nervous tissue connecting people, ideas and projects in the context of a **crypto renaissance salon**. The cradle of a modern renaissance so vast in its implications that no one understands its full ramifications yet.
 
-https://www.youtube.com/watch?v=V0XfleKJSXM
+<iframe width="720" height="440" src="https://www.youtube.com/embed/V0XfleKJSXM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Amazingly, with your help, we were able to make the first steps towards this vision, and we proved together this future is **possible** with the [alpha](https://blog.akasha.world/2017/01/16/into-the-ether/).
 
