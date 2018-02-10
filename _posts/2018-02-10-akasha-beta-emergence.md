@@ -60,7 +60,7 @@ Moving forward, one of the main goals of the beta is to stress test the infrastr
 
 ![AKASHA]({{ site.baseurl }}/content/images/ethereum-meetups-2015.jpg)
 
-Even if the 100K milestone might seem crazy, the current biggest Ethereum communities are sizeable - for example, there are over 730K [Ethereum meetups](https://www.meetup.com/topics/ethereum/){:target="_blank"} participants, [reddit.com/r/ethereum/](https://www.reddit.com/r/ethereum/){:target="_blank"} has over 310K readers and [reddit.com/r/ethereum/](https://www.reddit.com/r/ethtrader/){:target="_blank"} has over 170K readers.
+Even if the 100K milestone might seem crazy, the current biggest Ethereum communities are sizeable - for example, there are over 730K [Ethereum meetups](https://www.meetup.com/topics/ethereum/){:target="_blank"} participants, [reddit.com/r/ethereum/](https://www.reddit.com/r/ethereum/){:target="_blank"} has over 310K readers and [reddit.com/r/ethtrader/](https://www.reddit.com/r/ethtrader/){:target="_blank"} has over 170K readers.
 
 ![AKASHA]({{ site.baseurl }}/content/images/ethereum-metupsss.jpg)
 
