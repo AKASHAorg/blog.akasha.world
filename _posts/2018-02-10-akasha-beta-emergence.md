@@ -127,7 +127,7 @@ A big thank you to all the alpha veterans and early beta testers for helping us 
 
 On this note, BIG UPS and kudos also for Marius Darila, Sever Abibula, Bogdan Brezuica, Roxana Sureanu, Valentin Cotea, Sebastian Rodriguez, Lorenzo Patuzzo, Mariana Gomes, and the entire AKASHA team for turning what looked at times like a handful of people with big dreams into a working dapp on blockchainz - again. **Respect.**
 
-Special thanks go to Peter Szilagy (@karalabe) for the bug fixes and improvements on the Go Ethereum client side such as [full event subscription support in abigen](https://github.com/ethereum/go-ethereum/wiki/Native-DApps:-Go-bindings-to-Ethereum-contracts#go-binding-generator){:target="_blank"}, the help provided when deploying our smart contracts on the Rinkeby test network and the many GitHub issues reporting bugs in the early beta releases.
+Special thanks go to Peter Szilagyi (@karalabe) for the bug fixes and improvements on the Go Ethereum client side such as [full event subscription support in abigen](https://github.com/ethereum/go-ethereum/wiki/Native-DApps:-Go-bindings-to-Ethereum-contracts#go-binding-generator){:target="_blank"}, the help provided when deploying our smart contracts on the Rinkeby test network and the many GitHub issues reporting bugs in the early beta releases.
 
 ![AKASHA]({{ site.baseurl }}/content/images/karalabe-1.png)
 
