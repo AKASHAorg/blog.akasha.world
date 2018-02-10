@@ -179,11 +179,11 @@ Linux users can also install the dap via [snapcraft](https://snapcraft.io/){:tar
 
 **See you in the new world of AKASHA! \o/**
 
-Next time, hopefully, we will have the conversation in the AKASHA Web version. In the meantime, while you sync, feel free to [join the reddit conversation here!](https://www.reddit.com/r/ethereum/){:target="_blank"} :)
+Next time, hopefully, we will have the conversation in the AKASHA Web version. In the meantime, while you sync, feel free to [join the conversation on reddit!](https://www.reddit.com/r/ethereum/){:target="_blank"} :)
 
 ![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
 
-Important notes: 
+**Important notes:** 
 
 1. **Please do not send ETH to anyone claiming that AKASHA has an ICO or a pre-sale. If/when an AKASHA "ICO" will be conducted we will announce it on all our official channels. If anyone claims that there is an ongoing AKASHA sale/private-sale/ICO but you can't find anything about it on our official channels ([Twitter](https://twitter.com/akashaproject){:target="_blank"}, [Discord](https://discordapp.com/invite/JqqKasJ){:target="_blank"}, the AKASHA dapp, etc) you can safely assume that it is a SCAM. Stay safe and thank you for being part of this project!**
 
