@@ -177,9 +177,9 @@ And now, the brave ones are invited to jump *Into the Ether*!
 
 Linux users can also install the dap via [snapcraft](https://snapcraft.io/){:target="_blank"} by running `snap install --classic akasha` (full permissions) or `snap install akasha` (strict mode). To update an existing snap install, run `snap refresh akasha`.
 
-## See you in the new world - [akasha.world! \o/](https://akasha.world/){:target="_blank"}
+#### See you in the new world - [akasha.world! \o/](https://akasha.world/){:target="_blank"}
 
-Oh, and while you sync, feel free join the reddit conversation here!
+Oh, and while you sync, feel free join the reddit conversation here! :)
 
 ![AKASHA]({{ site.baseurl }}/content/images/2_intro_akasha.jpg)
 
