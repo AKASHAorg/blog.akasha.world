@@ -8,8 +8,6 @@ tags: AKASHA, Ethereum, IPFS, Beta, Release, dapp, Decentralized Social Network,
 draft: true
 ---
 
-### The Emergence
-
 Today marks the 927th day **A.E.** also known on planet Earth as 2 years, 6 months and 12 days **A**fter **E**thereum. Five million blocks after its [Genesis](https://etherscan.io/block/0), the Ethereum ecosystem evolved into a planetary Community with [hundreds of thousands of people](https://www.meetup.com/topics/ethereum/) connected by a constellation of projects and teams working on their [dreams](https://www.stateofthedapps.com/). It makes you wonder where the next 5 million blocks will take us.
 
 It is *still early*, but the network effects can be felt already.
@@ -185,13 +183,11 @@ Oh, and while you sync, feel free join the reddit conversation here!
 
 Important notes: 
 
-1. Please do not send ETH to anyone claiming that AKASHA has an ICO or a pre-sale. If/when an AKASHA "ICO" will be conducted we will announce it on all our official channels. If anyone claims that there is an ongoing AKASHA sale/private-sale/ICO but you can't find anything about it on our official channels (Twitter, Discord, the AKASHA dapp, etc) you can safely assume that it is a SCAM.
+1. **Please do not send ETH to anyone claiming that AKASHA has an ICO or a pre-sale. If/when an AKASHA "ICO" will be conducted we will announce it on all our official channels. If anyone claims that there is an ongoing AKASHA sale/private-sale/ICO but you can't find anything about it on our official channels (Twitter, Discord, the AKASHA dapp, etc) you can safely assume that it is a SCAM. Stay safe and thank you for being part of this project!**
 
-Stay safe and thank you for being part of this project!
+2. **Do not download/install AKASHA from other users or websites and always verify the digital signature of the dapp. The digital signature should display AKASHA International GmbH.**
 
-2. Do not download/install AKASHA from other users or websites and always verify the digital signature of the dapp. The digital signature should display AKASHA International GmbH.
-
-3. Please be aware that this is a beta and by no means a final product, rather the first step into a new odyssey of discovery. We expect AKASHA to evolve a lot in the first years and we see you, the Community, as the main source of this evolution.
+3. **Please be aware that this is a beta and by no means a final product, rather the first step into a new odyssey of discovery. We expect AKASHA to evolve a lot in the first years and we see you, the Community, as the main source of this evolution. Thank you for your understanding!**
 
 ----
 
