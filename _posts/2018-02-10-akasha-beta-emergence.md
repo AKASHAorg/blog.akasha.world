@@ -12,7 +12,7 @@ Today marks the 927th day **A.E.** also known on planet Earth as 2 years, 6 mont
 
 It is *still early*, but the network effects can be felt already.
 
-It’s no coincidence that Ethereum is the world’s first blockchain smashing through the **1 million transactions per day** milestone, securing in the process [more value transacted per day (in USD) than all the other blockchains **combined**](https://www.reddit.com/r/ethereum/comments/7qckfb/the_ethereum_blockchain_now_processes_about_as/?st=jcf2hmxn&sh=c6d27e15). And that's without taking in consideration all the ERC-20 token transactions. Moreover, when we look at the bigger [Ethereum 2.0](https://bitcoinmagazine.com/articles/ethereum-killer-ethereum-20-vitalik-buterins-roadmap/){:target="_blank"} picture we can expect continuous, accelerated growth towards infinity. Or the singularity.
+It’s no coincidence that Ethereum is the world’s first blockchain smashing through the **1 million transactions per day** milestone, securing in the process more value transacted per day (in USD) than all the other blockchains [**combined**](https://www.reddit.com/r/ethereum/comments/7qckfb/the_ethereum_blockchain_now_processes_about_as/?st=jcf2hmxn&sh=c6d27e15){:target="_blank"}. And that's without taking in consideration all the ERC-20 token transactions. Moreover, when we look at the bigger [Ethereum 2.0](https://bitcoinmagazine.com/articles/ethereum-killer-ethereum-20-vitalik-buterins-roadmap/){:target="_blank"} picture we can expect continuous, accelerated growth towards infinity. Or the singularity.
 
 Who knows? :)
 
