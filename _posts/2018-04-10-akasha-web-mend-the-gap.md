@@ -140,7 +140,7 @@ If, or rather when, you will stumble upon a problem, be a hero and [open an issu
 
 And now, without further ado, here is how you can get started with the web version:
 
-- ***Step 1a** Chrome users install the extensions: [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn){:target="_blank"} & [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch){:target="_blank"}
+***Step 1a** Chrome users install the extensions: [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn){:target="_blank"} & [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch){:target="_blank"}
 
 ***Step 1b** Firefox users install the addons: [MetaMask](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/){:target="_blank"} & [IPFS Companion](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion){:target="_blank"}
 
