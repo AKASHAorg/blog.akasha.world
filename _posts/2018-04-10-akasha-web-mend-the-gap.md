@@ -109,11 +109,11 @@ Moving up a layer to the AKASHA dapp, the prize for the best stress testing of t
 
 ![](https://lh3.googleusercontent.com/qESlkkEHYDuQgctGdP1fnXZOdTUU_QlkRu2jRhVzzDggdDCIlCyOoT8Dl3mDDXKyWO8V4ePS7rwGeTYvvENk8OBFLhZVvAIcM_KPdjkrHWoyYgJPba77S-auzAk4sw63hq167zIPVctWFfsi4w)
 
-Thanks to the hard work of the team, AKASHA is now accessible also from Mist, as well as all browsers running the Metamask and IPFS Companion extension.
+Thanks to the hard work of the team, AKASHA is now accessible also from Mist, as well as all browsers running the Metamask and IPFS Companion extension. Big ups go to Marius, Vali, Bogdan and Sever for plowing through what seemed at times as an unending mountain of bugs in order to get this historical release into your hands! \o/
 
 We hope that the web version will encourage more users to give AKASHA a try, helping us in the process to learn what the “breaking points” are and where they are for a decentralized social network powered by Ethereum and IPFS.
 
-Let’s see how far can we take it!
+**Let’s see how far can we take it!**
 
 With this in mind, we invite everyone to join us because we need help with:
 
@@ -140,17 +140,17 @@ If, or rather when, you will stumble upon a problem, be a hero and [open an issu
 
 And now, without further ado, here is how you can get started with the web version:
 
-***Step 1a** Chrome users install the extensions: [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn){:target="_blank"} & [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch){:target="_blank"}
+- ***Step 1a** Chrome users install the extensions: [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn){:target="_blank"} & [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch){:target="_blank"}
 
-***Step 1b** Firefox users install the addons: [MetaMask](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/){:target="_blank"} & [IPFS Companion](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion){:target="_blank"}
+- ***Step 1b** Firefox users install the addons: [MetaMask](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/){:target="_blank"} & [IPFS Companion](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion){:target="_blank"}
 
-***Step 2** Create a MetaMask account by following their instructions
+- ***Step 2** Create a MetaMask account by following their instructions
 
-**Step 3** Visit [beta.akasha.world](https://beta.akasha.world/){:target="_blank"}
+- **Step 3** Visit [beta.akasha.world](https://beta.akasha.world/){:target="_blank"}
 
-**Step 4** Set up your MetaMask on the Rinkeby test network
+- **Step 4** Set up your MetaMask on the Rinkeby test network
 
-**Step 5** Unlock your MetaMask vault (if necessary) to log in and refresh the page
+- **Step 5** Unlock your MetaMask vault (if necessary) to log in and refresh the page
 
 **(*) Steps 1 and 2 can be skipped if you already have MetaMask installed**
 
