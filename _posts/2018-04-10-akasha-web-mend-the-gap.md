@@ -92,7 +92,7 @@ In case you wondered what was up with this post on Reddit, now you know:
 
 ![](https://lh6.googleusercontent.com/nHkaNVkzKL4B9KWhyqKN4Q3gk0p2nN-lsAhcd5iC682h378M90LKrK_v-DKS5akYEcWV5KM2S7Ns0hTz7QEmXNcaYxb1wwSu_G9-_gYwBRQSTVC6_PAJocCKkRTR7so54J62LywZ)
 
-Special thanks go to [Peter Szilagyi](https://twitter.com/peter_szilagyi/) for his continued work on thwarting the bot’s impact on the overall network and for ultimately making the network stronger against such tactics with this [Pull Request](https://github.com/ethereum/go-ethereum/pull/16494){:target="_blank"}.
+Special thanks go to [Peter Szilagyi](https://beta.akasha.world/#/0xd9c9cd5f6779558b6e0ed4e6acf6b1947e7fa1f3){:target="_blank"} for his continued work on thwarting the bot’s impact on the overall network and for ultimately making the network stronger against such tactics with this [Pull Request](https://github.com/ethereum/go-ethereum/pull/16494){:target="_blank"}.
 
 Moving up a layer to the AKASHA dapp, the prize for the best stress testing of the 0.6.2 release goes to, again, Peter Szilagyi for the amazing experiment of running **AKASHA at 11,000 meters’ altitude above China. Epic.**
 
@@ -109,7 +109,7 @@ Moving up a layer to the AKASHA dapp, the prize for the best stress testing of t
 
 ![](https://lh3.googleusercontent.com/qESlkkEHYDuQgctGdP1fnXZOdTUU_QlkRu2jRhVzzDggdDCIlCyOoT8Dl3mDDXKyWO8V4ePS7rwGeTYvvENk8OBFLhZVvAIcM_KPdjkrHWoyYgJPba77S-auzAk4sw63hq167zIPVctWFfsi4w)
 
-Thanks to the hard work of the team, AKASHA is now accessible also from Mist, as well as all browsers running the Metamask and IPFS Companion extension. Big ups go to Marius, Vali, Bogdan and Sever for plowing through what seemed at times as an unending mountain of bugs in order to get this historical release into your hands! \o/
+Thanks to the hard work of the team, AKASHA is now accessible also from Mist, as well as all browsers running the Metamask and IPFS Companion extension. Big ups go to [Marius](https://beta.akasha.world/#/0x551df15db6f9f834c6b5795183190582452cb10c), Vali, Bogdan and [Sever](https://beta.akasha.world/#/0xff394602183bd25727d8be0420203fa9958c920a){:target="_blank"} for plowing through what seemed at times as an unending mountain of bugs in order to get this historical release into your hands! \o/
 
 We hope that the web version will encourage more users to give AKASHA a try, helping us in the process to learn what the “breaking points” are and where they are for a decentralized social network powered by Ethereum and IPFS.
 
@@ -208,6 +208,7 @@ In the early days of Ethereum, Mihai led the Swiss efforts to establish the busi
 
 ![Mihai Alisie]({{ site.baseurl }}/content/images/Mihai275x.jpg)
 
+AKASHA: @Mihai(https://beta.akasha.world/#/0x992731dd179fae6eb903e7f80050aeb32cc19515){:target="_blank"} | 
 Twitter: [@MihaiAlisie](https://twitter.com/MihaiAlisie){:target="_blank"} | 
 LinkedIn: [Mihai Alisie](https://www.linkedin.com/in/mihaialisie){:target="_blank"} | 
 Contact: [hello@akasha.world](mailto:hello@akasha.world)
