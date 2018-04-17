@@ -142,15 +142,15 @@ And now, without further ado, here is how you can get started with the web versi
 
 - ***Step 1a** Chrome users install the extensions: [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn){:target="_blank"} & [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch){:target="_blank"}
 
-- ***Step 1b** Firefox users install the addons: [MetaMask](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/){:target="_blank"} & [IPFS Companion](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion){:target="_blank"}
+***Step 1b** Firefox users install the addons: [MetaMask](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/){:target="_blank"} & [IPFS Companion](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion){:target="_blank"}
 
-- ***Step 2** Create a MetaMask account by following their instructions
+***Step 2** Create a MetaMask account by following their instructions
 
-- **Step 3** Visit [beta.akasha.world](https://beta.akasha.world/){:target="_blank"}
+**Step 3** Visit [beta.akasha.world](https://beta.akasha.world/){:target="_blank"}
 
-- **Step 4** Set up your MetaMask on the Rinkeby test network
+**Step 4** Set up your MetaMask on the Rinkeby test network
 
-- **Step 5** Unlock your MetaMask vault (if necessary) to log in and refresh the page
+**Step 5** Unlock your MetaMask vault (if necessary) to log in and refresh the page
 
 **(*) Steps 1 and 2 can be skipped if you already have MetaMask installed**
 
