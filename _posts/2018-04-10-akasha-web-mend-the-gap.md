@@ -140,6 +140,8 @@ If, or rather when, you will stumble upon a problem, be a hero and [open an issu
 
 And now, without further ado, here is how you can get started with the web version:
 
+#### Instructions For Web Pioneers
+
 ***Step 1a** Chrome users install the extensions: [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn){:target="_blank"} & [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch){:target="_blank"}
 
 ***Step 1b** Firefox users install the addons: [MetaMask](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/){:target="_blank"} & [IPFS Companion](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion){:target="_blank"}
@@ -156,7 +158,7 @@ And now, without further ado, here is how you can get started with the web versi
 
 On the other hand, the users preferring the desktop app experience should follow the instructions below:
 
-#### Instructions For Windows Pioneers:
+#### Instructions For Windows Pioneers
 
 * Download the [.exe installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA.Setup.0.6.2.exe){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-win.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
@@ -164,7 +166,7 @@ On the other hand, the users preferring the desktop app experience should follow
 *	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
 *	Log in and enjoy AKASHA
 
-#### Instructions For Mac Pioneers:
+#### Instructions For Mac Pioneers
 
 *	Download the [.dmg installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2.dmg){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-mac.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
@@ -172,7 +174,7 @@ On the other hand, the users preferring the desktop app experience should follow
 *	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
 *	Log in and enjoy AKASHA
 
-#### Instructions For Linux Pioneers:
+#### Instructions For Linux Pioneers
 
 *	Download the [.deb installer](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA_0.6.2_amd64.deb){:target="_blank"}, [.AppImage](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2-x86_64.AppImage){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.6.2/AKASHA-0.6.2.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.6.2){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
