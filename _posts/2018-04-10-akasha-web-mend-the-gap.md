@@ -8,7 +8,7 @@ tags: AKASHA, web, beta, ethereum, ipfs, decentralized social network, blockchai
 draft: true
 ---
 
-We are super excited to announce that [AKASHA](https://beta.akasha.world) is now accessible also from Mist and classic web browsers running the [MetaMask](https://metamask.io/){:target="_blank"} and [IPFS Companion](https://github.com/ipfs-shipyard/ipfs-companion#install){:target="_blank"} extensions!!! \o/ This release also marks an important milestone because we are starting to close the gap between the (usually slow) user experience on decentralized services vs (usually faster) centralized ones. It’s quite magical, especially when considering how antithetical the two approaches are.
+We are super excited to announce that [AKASHA](https://beta.akasha.world){:target="_blank"} is now accessible also from Mist and classic web browsers running the [MetaMask](https://metamask.io/){:target="_blank"} and [IPFS Companion](https://github.com/ipfs-shipyard/ipfs-companion#install){:target="_blank"} extensions!!! \o/ This release also marks an important milestone because we are starting to close the gap between the (usually slow) user experience on decentralized services vs (usually faster) centralized ones. It’s quite magical, especially when considering how antithetical the two approaches are.
 
 The slow loading times marking the early alpha and beta versions are starting to fade away as the codebase improves and the network grows stronger. The latest release (0.7.0) named _**Mend The Gap**_ includes many optimizations and bug fixes that bring great improvements to the overall user experience.
 
