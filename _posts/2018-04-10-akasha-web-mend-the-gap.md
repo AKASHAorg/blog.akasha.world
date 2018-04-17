@@ -52,15 +52,15 @@ The dawn of a new information age is within reach.
 
 We have been asked many times how AKASHA is different from a number of social networks, including Facebook. In an attempt to summarize some of the biggest differences, we arrived at the following list:
 
-**Firstly, we do not track you**. **We take privacy very seriously** and strongly believe that your client-side data should be **private by default**. This is why **both the web and desktop versions are  free of analytics software**.
+**Firstly, AKASHA does not track you**. **We take privacy very seriously** and strongly believe that your client-side data should be **private by default**. This is why **both the web and desktop versions are free of analytics software**.
 
-**Secondly, we do not follow you around with pesky ads.** We believe that **advertising is not a sustainable business model** because it ultimately leads to **privacy erosion for the users.** This is why we are determined to explore alternative business models.
+**Secondly, AKASHA does not follow you around with pesky ads.** We believe that **advertising is not a sustainable business model** because it ultimately leads to **privacy erosion for the users.** This is why we are determined to explore alternative business models.
 
 **Thirdly, we take decentralization seriously** and strongly believe that it is the only way forward for a healthy information-based society. This is why, for example, **the web version has the IPFS part completely rewritten to enable browser peer-to-peer communication instead of choosing the “easy way” with an IPFS server** (a.k.a gateway).
 
-**Fourthly, we believe that you should own your identity and have full control over it.** This is why your identity key is generated locally on your machine and accessible only to you.
+**Fourthly, we believe that people should own their digital identity and have full control over it.** This is why your AKASHA identity key is generated locally on your machine and accessible only to you.
 
-**Fifthly, our users are in full control of their information flow and there is no middle-man or black-box algorithm deciding on the user’s behalf what information he/she is entitled to see or not.** This is why the content is rendered client-side according to the user’s preferences.
+**Fifthly, as an AKASHA user you are in full control of your information flow and there is no middle-man or black-box algorithm deciding on your behalf what information you're entitled to see or not.** This is why the content is rendered client-side according to the user’s preferences.
 
 **Sixthly, this is not about competing with the “big guys” or building “the next Facebook”. This is about creating a new channel of expression so the people can keep the “big guys” in check.** In a similar vein, we fully acknowledge that there is a long way to go until we can compete heads on with giants like Facebook, but AKASHA can still be **a valuable alternative** in the meantime - especially in times like these when **the problem is Facebook itself**.
 
