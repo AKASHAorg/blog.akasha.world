@@ -208,7 +208,7 @@ In the early days of Ethereum, Mihai led the Swiss efforts to establish the busi
 
 ![Mihai Alisie]({{ site.baseurl }}/content/images/Mihai275x.jpg)
 
-AKASHA: @Mihai(https://beta.akasha.world/#/0x992731dd179fae6eb903e7f80050aeb32cc19515){:target="_blank"} | 
+AKASHA: [@Mihai](https://beta.akasha.world/#/0x992731dd179fae6eb903e7f80050aeb32cc19515){:target="_blank"} | 
 Twitter: [@MihaiAlisie](https://twitter.com/MihaiAlisie){:target="_blank"} | 
 LinkedIn: [Mihai Alisie](https://www.linkedin.com/in/mihaialisie){:target="_blank"} | 
 Contact: [hello@akasha.world](mailto:hello@akasha.world)
