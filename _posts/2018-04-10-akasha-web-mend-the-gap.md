@@ -2,7 +2,7 @@
 layout: post
 title: "Mend The Gap"
 date:   2018-04-17 13:14:15
-image: Nasa-moon.jpg
+image: Nasa-moon2.jpg
 comments: true
 tags: AKASHA, web, beta, ethereum, ipfs, decentralized social network, blockchain social media network, dapp
 draft: true
