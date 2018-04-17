@@ -52,7 +52,7 @@ The dawn of a new information age is within reach.
 
 We have been asked many times how AKASHA is different from a number of social networks, including Facebook. In an attempt to summarize some of the biggest differences, we arrived at the following list:
 
-**Firstly, AKASHA does not track you**. **We take privacy very seriously** and strongly believe that your client-side data should be **private by default**. This is why **both the web and desktop versions are free of analytics software**.
+**Firstly, AKASHA does not track you**. **We all take privacy very seriously** and strongly believe that your client-side data should be **private by default**. This is why **both the web and desktop versions are free of analytics software**.
 
 **Secondly, AKASHA does not follow you around with pesky ads.** We believe that **advertising is not a sustainable business model** because it ultimately leads to **privacy erosion for the users.** This is why we are determined to explore alternative business models.
 
