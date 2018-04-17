@@ -129,7 +129,7 @@ With this in mind, we invite everyone to join us because we need help with:
     
 -   Testing the new information architecture and UX/UI
     
--   [Collecting feedback](https://github.com/akashaproject/dapp/issues){:target="_blank"} and formulating the main Ethereum chain deployment plan
+-   [Collecting feedback](https://github.com/akashaproject/dapp/issues){:target="_blank"} for the main Ethereum chain deployment plan
     
 
 These tests will ultimately come down to how much transactional output a decentralized social network with many users generates, and how well the Ethereum and IPFS networks can handle it.
