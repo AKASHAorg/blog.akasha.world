@@ -4,8 +4,8 @@ title: "Mending The Gap"
 date:   2018-04-18 13:14:15
 image: Nasa-moon3.jpg
 comments: true
-tags: AKASHA, web, beta, ethereum, ipfs, decentralized social network, blockchain social media network, dapp, crypto, crypto social network, cryptocurrency
-draft: true
+tags: AKASHA, web, beta, ethereum, ipfs, decentralized social network, blockchain social media network, ethereum social network, dapp, crypto, crypto social network, cryptocurrency
+published: true
 ---
 
 We are super excited to announce that [AKASHA](https://beta.akasha.world){:target="_blank"} is now accessible also from Mist and classic web browsers running the [MetaMask](https://metamask.io/){:target="_blank"} and [IPFS Companion](https://github.com/ipfs-shipyard/ipfs-companion#install){:target="_blank"} extensions!!! \o/ This release also marks an important milestone because we are starting to close the gap between the (usually slow) user experience on decentralized services vs (usually faster) centralized ones. It’s quite magical, especially when considering how antithetical the two approaches are.
@@ -20,7 +20,7 @@ The latest enhancements are even more noticeable in the [desktop app](https://gi
 
 > *“The truth will set you free, but first it will piss you off.”* ― Joe Klaas
 
-![](https://lh5.googleusercontent.com/cN0CjM_asrUKIEJysKTmeGhcNAyKOYFINeZLsqD2JPPpxttQTMsOkYy1uRgXY6ufpfhKakVmoVvbzD5PCxlVH2oIrHRrcJnCY-zxsw_QhlGcLtR-DMcaatB7m5BfFKay4IcomIFozrA8-W5OCQ)
+![](https://pbs.twimg.com/media/DachSJzVQAEED6C.jpg)
 
 We are more optimistic than ever about the future of AKASHA, especially when taking into consideration the current state of the web and the existential problems faced by most social networks today. Looking back, it seems that taking the unbeaten path of radical decentralization was a good decision.
 
@@ -28,7 +28,7 @@ From the atrocious [CLOUD Act](https://www.eff.org/deeplinks/2018/03/responsibil
 
 People are starting to question ***“how”*** and ***“why”*** the services they used for years to keep in touch with their friends and loved ones are **_“free”_**.
 
-![](https://lh5.googleusercontent.com/i7ZVIpdgbE41bc37TED7vK6SR8m-FX2n5l9dp9wUNnRzpuRywTas1DAP0vhtwXck7TpnTMqWQU8aHyUp1L571x1fKntuJdbzt1MErVssNNZ19QKNUYqmjKOnz5WHbvwqjzHs8yUBX9kO0mgVWQ)
+![](https://upload.wikimedia.org/wikipedia/commons/4/45/Duck-Rabbit_illusion.jpg)
 
 *Thomas Kuhn’s duck-rabbit optical illusion exemplifying how paradigm shifts can cause one to see the same information in an entirely different way.*
 
@@ -48,7 +48,7 @@ The dawn of a new information age is within reach.
 
 > *“Be the change that you wish to see in the world.”* ― Mahatma Gandhi
 
-![](https://lh3.googleusercontent.com/F5iP0jJjdSBNUM1wlK1gf05oG2pyLQQv2sdYcPe-MVZTwGBlIzxCqydG97OXrJuWmAkI3zajBhN7-xgHzbQX66FvU7DE28ty-h5szPQrfy1zNHnUVscmFUu7BsQxmQfj_6klWmlTws2v5ZBLxQ)
+![](https://virginradio.ro/wp-content/uploads/2018/01/logo-facebook-virgin-radio-romania-800x506.jpg)
 
 We have been asked many times how AKASHA is different from a number of social networks, including Facebook. In an attempt to summarize some of the biggest differences, we arrived at the following list:
 
@@ -74,7 +74,7 @@ Looking forward to seeing you there! \o/
 
 > *“A concept is a brick. It can be used to build a courthouse of reason. Or it can be thrown through the window.”* ― Gilles Deleuze
 
-![](https://lh4.googleusercontent.com/g_SnRZFgpmpvy2h7eC3z6vSEReSFGqxHoCtdgu9PhYJcMA8zSKZ9ysAIvoQ6fMaYm6V9E-bdctYgfFF7nmSTieseagnrtAaITjW_LWGPFJP0k9ozINaeu7HgzdUG8RwJoKcoLelurYfMsT_bOw)
+![](http://ustraveler.com.mx/wp-content/uploads/2017/08/eclipse-1.jpg)
 
 We are happy to say that, so far, the beta experiment is unfolding at a stable pace without too many hiccups occurring. Our faucet is holding strong and sent around ~2300 transactions to Ethereum addresses generated in-dapp. 
 
@@ -107,7 +107,7 @@ Moving up a layer to the AKASHA dapp, the prize for the best stress testing of t
 
 > *“Success is always a matter of some luck and timing.”* ― Kathleen Kennedy
 
-![](https://lh3.googleusercontent.com/qESlkkEHYDuQgctGdP1fnXZOdTUU_QlkRu2jRhVzzDggdDCIlCyOoT8Dl3mDDXKyWO8V4ePS7rwGeTYvvENk8OBFLhZVvAIcM_KPdjkrHWoyYgJPba77S-auzAk4sw63hq167zIPVctWFfsi4w)
+![](https://www.wykop.pl/cdn/c3201142/comment_Yz1iaaHa3kHhhrtYvxXzOUtfQlj9kbP4.jpg)
 
 Thanks to the hard work of the team, AKASHA is now accessible also from Mist, as well as all browsers running the Metamask and IPFS Companion extension. Big ups go to [Marius](https://beta.akasha.world/#/0x551df15db6f9f834c6b5795183190582452cb10c), Vali, Bogdan and [Sever](https://beta.akasha.world/#/0xff394602183bd25727d8be0420203fa9958c920a){:target="_blank"} for plowing through what seemed at times as an unending mountain of bugs in order to get this historical release into your hands! \o/
 
