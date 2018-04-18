@@ -152,11 +152,11 @@ And now, without further ado, here is how you can get started with the web versi
 
 **Step 4** Set up your MetaMask on the Rinkeby test network
 
-**Step 5** Unlock your MetaMask vault (if necessary) to log in and refresh the page
+****Step 5** Unlock your MetaMask vault (if necessary) to log in and refresh the page
 
 **(*) Steps 1 and 2 can be skipped if you already have MetaMask installed**
 
-***In case the web app will display a white page please check if your MetaMask extension is working properly**
+**(*) In case the web app will display a white page please check if your MetaMask extension is working properly**
 
 On the other hand, the users preferring the desktop app experience should follow the instructions below:
 
@@ -184,7 +184,7 @@ On the other hand, the users preferring the desktop app experience should follow
 *	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
 *	Log in and enjoy AKASHA
 
-Linux users can also install the dap via [snapcraft](https://snapcraft.io/){:target="_blank"} by running `snap install --classic akasha` (full permissions) or `snap install akasha` (strict mode). To update an existing snap install, run `snap refresh akasha`.
+**Linux users can also install the dap via [snapcraft](https://snapcraft.io/akasha){:target="_blank"}** or by running `snap install --classic akasha` (full permissions) or `snap install akasha` (strict mode). To update an existing snap install, run `snap refresh akasha`. Pretty cool, right? :)
 
 ----
 
