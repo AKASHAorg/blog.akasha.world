@@ -158,6 +158,8 @@ And now, without further ado, here is how you can get started with the web versi
 
 **(*) In case the web app will display a white page please check if your MetaMask extension is working properly**
 
+More [detailed tutorials can for the Web version can be found here](https://akasha.helpscoutdocs.com/category/29-web){:target="_blank"} thanks to [Sebastian](https://beta.akasha.world/#/0x5be16b64a86e067cd050d3cb655fb8495bac7e9b){:target="_blank"} !
+
 On the other hand, the users preferring the desktop app experience should follow the instructions below:
 
 #### Instructions For Windows Pioneers
