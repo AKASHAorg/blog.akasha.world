@@ -56,7 +56,7 @@ We have been asked many times how AKASHA is different from a number of social ne
 
 **Secondly, AKASHA does not follow you around with pesky ads.** We believe that **advertising is not a sustainable business model** because it ultimately leads to **privacy erosion for the users.** This is why we are determined to explore alternative business models.
 
-**Thirdly, we take decentralization seriously** and strongly believe that it is the only way forward for a healthy information-based society. This is why, for example, **the web version has the IPFS part completely rewritten to enable browser peer-to-peer communication.
+**Thirdly, we take decentralization seriously** and strongly believe that it is the only way forward for a healthy information-based society. This is why, for example, **the web version has the IPFS part completely rewritten to enable browser peer-to-peer communication.**
 
 **Fourthly, we believe that people should own their digital identity and have full control over it.** This is why your AKASHA identity key is generated locally on your machine and accessible only to you.
 
