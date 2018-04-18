@@ -22,7 +22,7 @@ The latest enhancements are even more noticeable in the [desktop app](https://gi
 
 ![](https://lh5.googleusercontent.com/cN0CjM_asrUKIEJysKTmeGhcNAyKOYFINeZLsqD2JPPpxttQTMsOkYy1uRgXY6ufpfhKakVmoVvbzD5PCxlVH2oIrHRrcJnCY-zxsw_QhlGcLtR-DMcaatB7m5BfFKay4IcomIFozrA8-W5OCQ)
 
-We are more optimistic than ever about the future of AKASHA, especially when taking into consideration the current state of the web and the existential problems faced by most social networks today. Looking back, it seems that the decision of taking the unbeaten path of radical decentralization was a good one.
+We are more optimistic than ever about the future of AKASHA, especially when taking into consideration the current state of the web and the existential problems faced by most social networks today. Looking back, it seems that taking the unbeaten path of radical decentralization was a good decision.
 
 From the atrocious [CLOUD Act](https://www.eff.org/deeplinks/2018/03/responsibility-deflected-cloud-act-passes){:target="_blank"} passed a few weeks ago to the [Facebook meltdown](https://hackernoon.com/dear-mark-zuckerberg-dd5d7e767c21){:target="_blank"} and its [congressional hearings](https://www.washingtonpost.com/news/the-switch/wp/2018/04/11/zuckerberg-facebook-hearing-congress-house-testimony){:target="_blank"}, we are witnessing a [paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift){:target="_blank"} when it comes to the way in which we share and communicate with each other online.
 
