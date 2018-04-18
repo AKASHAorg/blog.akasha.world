@@ -156,6 +156,8 @@ And now, without further ado, here is how you can get started with the web versi
 
 **(*) Steps 1 and 2 can be skipped if you already have MetaMask installed**
 
+#### In case the web app will display a white page please check if your MetaMask extension is working properly
+
 On the other hand, the users preferring the desktop app experience should follow the instructions below:
 
 #### Instructions For Windows Pioneers
