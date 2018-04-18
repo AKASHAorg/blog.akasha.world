@@ -142,6 +142,7 @@ And now, without further ado, here is how you can get started with the web versi
 
 #### Instructions For Web Pioneers
 
+
 ***Step 1a** Chrome users install the extensions: [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn){:target="_blank"} & [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch){:target="_blank"}
 
 ***Step 1b** Firefox users install the addons: [MetaMask](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/){:target="_blank"} & [IPFS Companion](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion){:target="_blank"}
@@ -158,7 +159,7 @@ And now, without further ado, here is how you can get started with the web versi
 
 **(*) In case the web app will display a white page please check if your MetaMask extension is working properly**
 
-More [detailed tutorials can for the Web version can be found here](https://akasha.helpscoutdocs.com/category/29-web){:target="_blank"} thanks to [Sebastian](https://beta.akasha.world/#/0x5be16b64a86e067cd050d3cb655fb8495bac7e9b){:target="_blank"} !
+More [detailed tutorials for the Web version can be found here](https://akasha.helpscoutdocs.com/category/29-web){:target="_blank"} thanks to [Sebastian](https://beta.akasha.world/#/0x5be16b64a86e067cd050d3cb655fb8495bac7e9b){:target="_blank"}!
 
 On the other hand, the users preferring the desktop app experience should follow the instructions below:
 
