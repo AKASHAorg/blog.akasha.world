@@ -109,7 +109,7 @@ Moving up a layer to the AKASHA dapp, the prize for the best stress testing of t
 
 ![](https://www.wykop.pl/cdn/c3201142/comment_Yz1iaaHa3kHhhrtYvxXzOUtfQlj9kbP4.jpg)
 
-Thanks to the hard work of the team, AKASHA is now accessible also from Mist, as well as all browsers running the Metamask and IPFS Companion extension. Big ups go to [Marius](https://beta.akasha.world/#/0x551df15db6f9f834c6b5795183190582452cb10c), Vali, Bogdan and [Sever](https://beta.akasha.world/#/0xff394602183bd25727d8be0420203fa9958c920a){:target="_blank"} for plowing through what seemed at times as an unending mountain of bugs in order to get this historical release into your hands! \o/
+Thanks to the hard work of the team, AKASHA is now accessible also from Mist, as well as all browsers running the Metamask and IPFS Companion extension. Big ups go to [Marius](https://beta.akasha.world/#/0x551df15db6f9f834c6b5795183190582452cb10c){:target="_blank"}, [Vali](https://beta.akasha.world/#/0x0ba43dd21e29343e09d4da66863b269ecf470108){:target="_blank"}, [Bogdan](beta.akasha.world/#/0xa55990101bc1a3f08e0e044b48f03456f613980c){:target="_blank"} and [Sever](https://beta.akasha.world/#/0xff394602183bd25727d8be0420203fa9958c920a){:target="_blank"} for plowing through what seemed at times as an unending mountain of bugs in order to get this historical release into your hands! \o/
 
 We hope that the web version will encourage more users to give AKASHA a try, helping us in the process to learn what the “breaking points” are and where they are for a decentralized social network powered by Ethereum and IPFS.
 
