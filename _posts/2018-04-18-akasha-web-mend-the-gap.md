@@ -165,7 +165,7 @@ On the other hand, the users preferring the desktop app experience should follow
 
 #### Instructions For Windows Pioneers
 
-* Download the [.exe installer](https://github.com/AkashaProject/dapp/releases/download/0.7.0/AKASHA.Setup.0.7.0.exe){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.7.0/AKASHA-0.7.0-win.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.7.0){:target="_blank"}
+* Download the [.exe installer](https://github.com/AkashaProject/dapp/releases/download/0.7.1/AKASHA.Setup.0.7.1.exe){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.7.1/AKASHA-0.7.1-win.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.7.1){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
 *	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
@@ -173,7 +173,7 @@ On the other hand, the users preferring the desktop app experience should follow
 
 #### Instructions For Mac Pioneers
 
-*	Download the [.dmg installer](https://github.com/AkashaProject/dapp/releases/download/0.7.0/AKASHA-0.7.0.dmg){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.7.0/AKASHA-0.7.0-mac.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.7.0){:target="_blank"}
+*	Download the [.dmg installer](https://github.com/AkashaProject/dapp/releases/download/0.7.1/AKASHA-0.7.1.dmg){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.7.1/AKASHA-0.7.1-mac.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.7.1){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
 *	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
@@ -181,7 +181,7 @@ On the other hand, the users preferring the desktop app experience should follow
 
 #### Instructions For Linux Pioneers
 
-*	Download the [.deb installer](https://github.com/AkashaProject/dapp/releases/download/0.7.0/AKASHA_0.7.0_amd64.deb){:target="_blank"}, [.AppImage](https://github.com/AkashaProject/dapp/releases/download/0.7.0/AKASHA-0.7.0-x86_64.AppImage){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.7.0/AKASHA-0.7.0.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.7.0){:target="_blank"}
+*	Download the [.deb installer](https://github.com/AkashaProject/dapp/releases/download/0.7.1/AKASHA_0.7.1_amd64.deb){:target="_blank"}, [.AppImage](https://github.com/AkashaProject/dapp/releases/download/0.7.1/AKASHA-0.7.1-x86_64.AppImage){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.7.1/AKASHA-0.7.1.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.7.1){:target="_blank"}
 *	Run the installer or extract the files contained in the .zip file
 *	Open the AKASHA dapp and synchronize with the network
 *	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
