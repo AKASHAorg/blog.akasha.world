@@ -170,7 +170,7 @@ You can also join us in testing the AKASHA dapps (desktop and web) by opening Gi
 
 <iframe width="720" height="440" src="https://www.youtube-nocookie.com/embed/3dq7aDMdS7g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**[--------> Reddit conversation here <--------](https://www.reddit.com/r/ethereum/comments/8llwa9/akasha_an_odyssey_of_discovery_year_two/){:target="_blank"} | [--------> Twitter conversation here <--------](https://twitter.com/AkashaProject/status/999363148195999745){:target="_blank"}**
+[Reddit conversation here](https://www.reddit.com/r/ethereum/comments/8llwa9/akasha_an_odyssey_of_discovery_year_two/){:target="_blank"} | [Twitter conversation here](https://twitter.com/AkashaProject/status/999363148195999745){:target="_blank"}
 
 **About the Author**
 
