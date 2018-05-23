@@ -5,7 +5,7 @@ date:   2018-05-23 13:14:15
 image: shutterstock_694963510-large2.jpg
 comments: true
 tags: AKASHA, web, beta, ethereum, ipfs, decentralized social network, blockchain social media network, ethereum social network, dapp, crypto, crypto social network, cryptocurrency
-draft: true
+published: true
 ---
 
 From just an idea embedded in a handful of minds, [AKASHA](https://akasha.world/){:target="_blank"} crystallized into **a community of thousands of people united by the dream of [a better home of Mind](https://www.eff.org/cyberspace-independence){:target="_blank"}**. Today, [1028 days A.E.](https://etherscan.io/block/0){:target="_blank"} (After Ethereum), we celebrate together [over two years](https://blog.akasha.world/2016/05/03/unveiling-akasha/){:target="_blank"} of exciting research, intense testing, and heavy development converging into what will become the next phase for the AKASHA project.
