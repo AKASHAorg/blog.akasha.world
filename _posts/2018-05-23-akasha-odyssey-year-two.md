@@ -170,69 +170,6 @@ You can also join us in testing the AKASHA dapps (desktop and web) by opening Gi
 
 <iframe width="720" height="440" src="https://www.youtube-nocookie.com/embed/3dq7aDMdS7g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-#### Instructions For Web Pioneers
-
-
-***Step 1a** Chrome users install the extensions: [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn){:target="_blank"} & [IPFS Companion](https://chrome.google.com/webstore/detail/ipfs-companion/nibjojkomfdiaoajekhjakgkdhaomnch){:target="_blank"}
-
-***Step 1b** Firefox users install the addons: [MetaMask](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/){:target="_blank"} & [IPFS Companion](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion){:target="_blank"}
-
-***Step 2** Create a MetaMask account by following their instructions
-
-**Step 3** Visit [beta.akasha.world](https://beta.akasha.world/){:target="_blank"}
-
-**Step 4** Set up your MetaMask on the Rinkeby test network
-
-****Step 5** Unlock your MetaMask vault (if necessary) to log in and refresh the page
-
-**(*) Steps 1 and 2 can be skipped if you already have MetaMask installed**
-
-**(*) In case the web app will display a white page please check if your MetaMask extension is working properly**
-
-More [detailed tutorials for the Web version can be found here](https://akasha.helpscoutdocs.com/category/29-web){:target="_blank"} thanks to [Sebastian](https://beta.akasha.world/#/0x5be16b64a86e067cd050d3cb655fb8495bac7e9b){:target="_blank"}!
-
-On the other hand, the users preferring the desktop app experience should follow the instructions below:
-
-#### Instructions For Windows Pioneers
-
-* Download the [.exe installer](https://github.com/AkashaProject/dapp/releases/download/0.7.2/AKASHA.Setup.0.7.2.exe){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.7.2/AKASHA-0.7.2-win.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.7.2){:target="_blank"}
-*	Run the installer or extract the files contained in the .zip file
-*	Open the AKASHA dapp and synchronize with the network
-*	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
-*	Log in and enjoy AKASHA
-
-#### Instructions For Mac Pioneers
-
-*	Download the [.dmg installer](https://github.com/AkashaProject/dapp/releases/download/0.7.2/AKASHA-0.7.2.dmg){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.7.2/AKASHA-0.7.2-mac.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.7.2){:target="_blank"}
-*	Run the installer or extract the files contained in the .zip file
-*	Open the AKASHA dapp and synchronize with the network
-*	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
-*	Log in and enjoy AKASHA
-
-#### Instructions For Linux Pioneers
-
-*	Download the [.deb installer](https://github.com/AkashaProject/dapp/releases/download/0.7.2/AKASHA_0.7.2_amd64.deb){:target="_blank"}, [.AppImage](https://github.com/AkashaProject/dapp/releases/download/0.7.2/AKASHA-0.7.2-x86_64.AppImage){:target="_blank"} or the [.zip archive](https://github.com/AkashaProject/dapp/releases/download/0.7.2/AKASHA-0.7.2.zip){:target="_blank"} from our [official beta GitHub repo](https://github.com/AkashaProject/dapp/releases/tag/0.7.2){:target="_blank"}
-*	Run the installer or extract the files contained in the .zip file
-*	Open the AKASHA dapp and synchronize with the network
-*	Create or [import](http://akasha.helpscoutdocs.com/article/16-how-to-migrate-accounts){:target="_blank"} an AKASHA identity (profile)
-*	Log in and enjoy AKASHA
-
-**Linux users can also install the dap via [snapcraft](https://snapcraft.io/akasha){:target="_blank"}** or by running `snap install --classic akasha` (full permissions) or `snap install akasha` (strict mode). To update an existing snap install, run `snap refresh akasha`. Pretty cool, right? :)
-
-----
-
-**Important notes:** 
-
-1. **Please do not send ETH to anyone claiming that AKASHA has an ICO or a pre-sale. If/when an AKASHA "ICO" will be conducted we will announce it on all our official channels. If anyone claims that there is an ongoing AKASHA sale/private-sale/ICO but you can't find anything about it on our official channels ([Twitter](https://twitter.com/akashaproject){:target="_blank"}, [Discord](https://discordapp.com/invite/JqqKasJ){:target="_blank"}, the AKASHA dapp, etc) you can safely assume that it is a SCAM. Stay safe and thank you for being part of this project!**
-
-2. **Do not download/install AKASHA from other users or websites and always verify the digital signature of the dapp. The digital signature should display AKASHA International GmbH.**
-
-3. **Do not send real ETH (ether) to your in-dapp addresses. The dapp works with test ETH and is currently deployed on a test network. But don't worry, we got your back - you will receive test ETH and test AETH tokens when creating your account.**
-
-4. **The Ethereum Rinkeby test network blockchain needs ~3GB of diskspace in "Normal Sync", around ~500MB in "Light Sync" and should take about ~30 minutes. The Web version does not need to sync as it relies on Metamask for the blockchain interactions**
-
-5. **Please be aware that this is a beta and by no means a final product. We expect AKASHA to evolve a lot in the first years and we see you, the Community, as the main source of this evolution. Thank you for your understanding!**
-
 ----
 
 **About the Author**
@@ -248,4 +185,19 @@ In the early days of Ethereum, Mihai led the Swiss efforts to establish the busi
 AKASHA: [@Mihai](https://beta.akasha.world/#/0x992731dd179fae6eb903e7f80050aeb32cc19515){:target="_blank"} | 
 Twitter: [@MihaiAlisie](https://twitter.com/MihaiAlisie){:target="_blank"} | 
 Contact: [hello@akasha.world](mailto:hello@akasha.world)
+
+----
+
+**Important notes:** 
+
+1. **Please do not send ETH to anyone claiming that AKASHA has an ICO or a pre-sale. If/when an AKASHA "ICO" will be conducted we will announce it on all our official channels. If anyone claims that there is an ongoing AKASHA sale/private-sale/ICO but you can't find anything about it on our official channels ([Twitter](https://twitter.com/akashaproject){:target="_blank"}, [Discord](https://discordapp.com/invite/JqqKasJ){:target="_blank"}, the AKASHA dapp, etc) you can safely assume that it is a SCAM. Stay safe and thank you for being part of this project!**
+
+2. **Do not download/install AKASHA from other users or websites and always verify the digital signature of the dapp. The digital signature should display AKASHA International GmbH.**
+
+3. **Do not send real ETH (ether) to your in-dapp addresses. The dapp works with test ETH and is currently deployed on a test network. But don't worry, we got your back - you will receive test ETH and test AETH tokens when creating your account.**
+
+4. **The Ethereum Rinkeby test network blockchain needs ~4GB of diskspace in "Normal Sync", around ~700MB in "Light Sync" and should take about ~30 minutes. The Web version does not need to sync as it relies on Metamask for the blockchain interactions**
+
+5. **Please be aware that this is a beta and by no means a final product. We expect AKASHA to evolve a lot in the first years and we see you, the Community, as the main source of this evolution. Thank you for your understanding!**
+
 
