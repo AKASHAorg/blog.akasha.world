@@ -88,7 +88,7 @@ How cool is that? 🙂
 
 ### Essence: a colorful token framework
 
-![](https://lh5.googleusercontent.com/vaaOLcsR9UJPT3zY_U_8HzTuEfoIPRhfXLr3dq3Z4N6WoEQbtTuCOTS9IHkvpfdn7-iNfIop8SrOYbANFkU3lVeKgGOg0Z2NIY3FIswEMH8VEocUuQZ8wx12UoNjeAJoIT6GDlq3)
+[AKASHA]({{ site.baseurl }}/content/images/shutterstock_336951869.jpg)
 
 In nature, the phenomenon of colors enables visual perception capable of differentiating otherwise identical objects. Furthermore, depending on the case, colors can be used as an universal communication language, transcending species.
 
@@ -106,15 +106,15 @@ When starting, the users will have in their balance “pure Essence” that they
 
 Similarly to how Alchemists mix substances and elements for various purposes, **AKASHA users will now have at their fingertips a way to co-create new ways of looking at the world.**
 
-![](https://lh5.googleusercontent.com/W6PAPE2mCbskCIIz6lesUFzsqe26RZemX-6OYtZpabDI6f-O6NFdaFZaR-0eU-L0UihyRBpH9KBARo-XHCgqypO8T1evAD8LkUSDiR_EgGAfpkXbdLmkSMge-zQO3PoOcOvz8FEv)
+[AKASHA]({{ site.baseurl }}/content/images/graph1.jpg)
 
 If we’d take social insects like ants, using pheromones to mark the path to food, in our case, each Colored Essence becomes its own unique “pheromone” that can be used to mark “paths” to relevant information. This introduces **a new way for AKASHA users to navigate the constantly accelerating information flux in the search for relevant information.** Quite handy.
 
-![](https://lh6.googleusercontent.com/V_zyGrfhOgS539G2HaSadw6E0ZxwgJ2avbPXgVzbP_06Y7p8cjU19QJn4nnGbh8x6VHAXEz6MiPzgGkSoHRYRlf9SLTVgo_p2TCF-wA9P_bXUWW7Vb-nd0Fx6GnurhDKS3Jzc7Wj)
+[AKASHA]({{ site.baseurl }}/content/images/graph2.jpg)
 
 Through the user activity, each Color generates a feed and the Colored Essence present in the user’s balance will highlight the activity within the group while keeping also an overall overview of how the content is perceived in the bigger picture.
 
-![](https://lh4.googleusercontent.com/nvTPsCbDnoZpEDd6anC04XyEwUrEzAe50hpmpof6SGbK-ujde684rUwk97dFrzMrld_REtZ4BXHfghWCW_FQBCpVeR1-88OvNaF-E_qbOIzf4wV43jWQSrZwIDcOkPc0D-KUeAxV)
+[AKASHA]({{ site.baseurl }}/content/images/graph3.jpg)
 
 ![](https://lh5.googleusercontent.com/MkAQvpKHsYa4cXL-fAkAPZzKra51ObvZ7g0js2Uvku1D-7Yk77jLsAuAwL_dlFB_3BrbQK5-JmPPXxMheOowt_eWia-C5U1wNF-l8fPQVlMKAwxZn3UqwqFNSpfbvmDDu9YSYKcs)
 
