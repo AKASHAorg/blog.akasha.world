@@ -22,7 +22,7 @@ This one is for ***you!*** \o/
 
 ### EDCON: Never forget why you started
 
-![](https://lh4.googleusercontent.com/yL7nE0Zo159HYrz5J3FFbrZbtfuY63g6cpYqQOLuoeM5zUw69IYwP4vKz-x_RaOrV1MTx3D8n0Vcjq475T3R7-rZHoTCpGoOrqLFKXvyRE5U6_cWrEmhbdvvVdAPIWCezhtxShuj)
+![AKASHA]({{ site.baseurl }}/content/images/1-1000px.png)
 
 The latest [EDCON](https://edcon.io/){:target="_blank"} event organized in Toronto was our third Ethereum conference participating as the AKASHA project. It was a fantastic event overall and a great opportunity to meet again many friendly faces, exchanging ideas and sharing thoughts with like-minded people. Big thanks go to Pandia, Shirley, Shuyue and the whole [LinkTime](http://www.linktimetech.com/){:target="_blank"} team for making this conference happen!
 
@@ -38,7 +38,7 @@ This was likely caused by the “ICO fever” that brought with it [a tsunami of
 
 **Our main goal revolves around leveraging decentralized technologies to empower people with better tools of communication; it is not about launching a token just “because ICO”. Or lambos.**
 
-![](https://lh6.googleusercontent.com/moXxQQiy--8BJ27sQTR9YYA-LOuIJOH466DUhDXeg_VhqbQXIqVYkU9-ODJ7JSOi-gYOIl-sDKoUfndMq55kfjHlwBaClFxBPYHYlSAKcjWqWvD1-3ktCkOEvfrl4PQXxCI8Ile0)
+![AKASHA]({{ site.baseurl }}/content/images/2-1000px.png)
 
 With this in mind, we tried to make it clear from the beginning that **AKASHA will not conduct an “ICO” just for the purpose of raising money.** Moreover, we all agreed as a team that ***if there will be an “ICO”*** then it will be for **a token that actually solves an otherwise “unsolvable problem” in the overall system.**
 
