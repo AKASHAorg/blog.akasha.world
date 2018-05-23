@@ -2,7 +2,7 @@
 layout: post
 title: "An Odyssey of Discovery: Year Two"
 date:   2018-05-23 13:14:15
-image: shutterstock_694963510.jpg
+image: shutterstock_694963510-large2.jpg
 comments: true
 tags: AKASHA, web, beta, ethereum, ipfs, decentralized social network, blockchain social media network, ethereum social network, dapp, crypto, crypto social network, cryptocurrency
 draft: true
