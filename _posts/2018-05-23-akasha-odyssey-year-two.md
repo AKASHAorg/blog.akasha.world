@@ -86,7 +86,7 @@ At EDCON we tried to paint a picture describing how this idea could work and als
 
 How cool is that? 🙂
 
-### Essence: a colorful token framework
+### AKASHA Essence: a colorful token framework
 
 ![AKASHA]({{ site.baseurl }}/content/images/shutterstock_336951869.jpg)
 
@@ -140,7 +140,7 @@ The plan is to have a working prototype implementing the new token framework in 
 
 ### But why? How is this different from … ?
 
-![](https://lh3.googleusercontent.com/xh2u_MzwIv_3ve1xUVRCCPN4nOuj5h287bYdLkRM-zviPGDaWKx5HsOGaxv6Vhu40sQDclIhw1JWibO0J64G_Tn0g9m5dw3Ck2PGFI1Hoy3lfCyaL-eP2gEHWYXu5OKdzzNe42zR)
+![AKASHA]({{ site.baseurl }}/content/images/akasha-color-explosion.jpg)
 
 It is somewhat counter-intuitive given the current “ICO landscape” that **our intention is not to simply create “a token” to raise funds - but to create a framework for multiple, parallel, crypto economic experiments.**
 
