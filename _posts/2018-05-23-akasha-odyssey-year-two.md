@@ -88,7 +88,7 @@ How cool is that? 🙂
 
 ### Essence: a colorful token framework
 
-[AKASHA]({{ site.baseurl }}/content/images/shutterstock_336951869.jpg)
+![AKASHA]({{ site.baseurl }}/content/images/shutterstock_336951869.jpg)
 
 In nature, the phenomenon of colors enables visual perception capable of differentiating otherwise identical objects. Furthermore, depending on the case, colors can be used as an universal communication language, transcending species.
 
@@ -106,15 +106,15 @@ When starting, the users will have in their balance “pure Essence” that they
 
 Similarly to how Alchemists mix substances and elements for various purposes, **AKASHA users will now have at their fingertips a way to co-create new ways of looking at the world.**
 
-[AKASHA]({{ site.baseurl }}/content/images/graph1.jpg)
+![AKASHA]({{ site.baseurl }}/content/images/graph1.jpg)
 
 If we’d take social insects like ants, using pheromones to mark the path to food, in our case, each Colored Essence becomes its own unique “pheromone” that can be used to mark “paths” to relevant information. This introduces **a new way for AKASHA users to navigate the constantly accelerating information flux in the search for relevant information.** Quite handy.
 
-[AKASHA]({{ site.baseurl }}/content/images/graph2.jpg)
+![AKASHA]({{ site.baseurl }}/content/images/graph2.jpg)
 
 Through the user activity, each Color generates a feed and the Colored Essence present in the user’s balance will highlight the activity within the group while keeping also an overall overview of how the content is perceived in the bigger picture.
 
-[AKASHA]({{ site.baseurl }}/content/images/graph3.jpg)
+![AKASHA]({{ site.baseurl }}/content/images/graph3.jpg)
 
 ![](https://lh5.googleusercontent.com/MkAQvpKHsYa4cXL-fAkAPZzKra51ObvZ7g0js2Uvku1D-7Yk77jLsAuAwL_dlFB_3BrbQK5-JmPPXxMheOowt_eWia-C5U1wNF-l8fPQVlMKAwxZn3UqwqFNSpfbvmDDu9YSYKcs)
 
