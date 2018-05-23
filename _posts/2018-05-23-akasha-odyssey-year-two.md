@@ -170,8 +170,6 @@ You can also join us in testing the AKASHA dapps (desktop and web) by opening Gi
 
 <iframe width="720" height="440" src="https://www.youtube-nocookie.com/embed/3dq7aDMdS7g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-----
-
 **About the Author**
 
 Mihai Alisie is the Founder of [AKASHA](http://akasha.world/){:target="_blank"}.
