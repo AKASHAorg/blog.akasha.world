@@ -166,7 +166,7 @@ In conclusion, the topics presented here are active areas of research within the
 
 In the meantime, if you’re interested to join the fun by collaborating or sharing ideas, you can get in touch with us by sending an email to research [at] akasha.world or by joining our Discord channel.
 
-You can also join us in testing the AKASHA dapps (desktop and web) by opening GitHub issues when something doesn’t work as it should. **Join a worldwide community of thousands of people who are [co-creating today a better Web of tomorrow!](https://akasha.world/){:target="_blank"} \o/**
+You can also join us in testing the AKASHA dapps ([desktop](https://github.com/AkashaProject/dapp/releases){:target="_blank"} and [web](https://beta.akasha.world){:target="_blank"}) by [opening GitHub issues](https://github.com/AkashaProject/dapp/issues){:target="_blank"} when something doesn’t work as it should. **Join a worldwide community of thousands of people who are [co-creating today a better Web of tomorrow!](https://akasha.world/){:target="_blank"} \o/**
 
 <iframe width="720" height="440" src="https://www.youtube-nocookie.com/embed/3dq7aDMdS7g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
